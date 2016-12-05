@@ -1,0 +1,7 @@
+.branding-splash {
+  background: #00C9FF;
+  background: -moz-linear-gradient(-45deg,  #00C9FF 0%, #4ED8A0 100%);
+  background: -webkit-linear-gradient(-45deg,  #00C9FF 0%,#4ED8A0 100%);
+  background: linear-gradient(135deg,  #00C9FF 0%,#4ED8A0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00C9FF', endColorstr='#4ED8A0',GradientType=1 );
+}
