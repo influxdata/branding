@@ -305,8 +305,17 @@ span.text-color-danger {
 .icon.triangle:before {
   content: "\e92c";
 }
+.icon.square:before {
+  content: "\e93e";
+}
+.icon.diamond:before {
+  content: "\e93f";
+}
 .icon.octagon:before {
   content: "\e92d";
+}
+.icon.circle:before {
+  content: "\e940";
 }
 .icon.cube:before {
   content: "\e92e";
@@ -355,6 +364,9 @@ span.text-color-danger {
 }
 .icon.alpha-b:before {
   content: "\e93d";
+}
+.icon.export:before {
+  content: "\e941";
 }
 .icon.alert-triangle:before {
   content: "\f02d";
@@ -587,6 +599,10 @@ html {
 }
 .ix-app-heading--right > * {
   margin: 0 0 0 4px;
+}
+.ix-app-heading.dark-theme {
+  color: #d4d7dd;
+  background-color: #0f0e15;
 }
 .ix-app-title {
   font-size: 21px;
@@ -1085,6 +1101,7 @@ html {
     left: 60px;
     width: -webkit-calc(100% -  60px );
     width:         calc(100% -  60px );
+    padding-right: 14px;
   }
   .ix-app-splash {
     top: 0;
