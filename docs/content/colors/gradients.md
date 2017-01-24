@@ -1,9 +1,9 @@
 +++
 draft = false
-title = "Gradients List"
+title = "Gradients & How To Use Them"
 [menu]
   [menu.main]
-    name = "Gradients List"
+    name = "Gradient Usage"
     parent = "colors"
     identifier = "gradients"
     weight = 2
@@ -13,18 +13,20 @@ title = "Gradients List"
 <div class="row text-left">
   <div class="col-xs-12">
     <div class="page-header">
-      <a class="page-header--anchor" id="overview"></a>
-      <a href="#overview">
-        <h1>General Rules</h1>
+      <a class="page-header--anchor" id="title"></a>
+      <a href="#title">
+        <h1>Gradients & How To Use Them</h1>
       </a>
     </div>
   </div>
   <div class="col-xs-12">
+    <hr class="dark" />
+    <h5>Usage Rules</h5>
     <ol>
       <li><strong>Gradients are always horizontal, sometimes diagonal but never vertical</strong><br/>(This is a defining part of our style)</li>
       <li>Do not create new gradients</li>
       <li>Do not modify gradients</li>
-      <li>High saturation gradients are preferred</li>
+      <li>High saturation gradients are preferred (Pastel Gothic, Low Difficulty, etc.)</li>
     </ol>
     <hr class="dark" />
   </div>
@@ -47,6 +49,37 @@ title = "Gradients List"
     <code class="color-hex">I3 Pool / T3 Curaçao</code>
     <div class="color-swatch short swatch-grad-illegal-c"></div>
     <code class="color-hex">K4 Honeydew / T4 Dreamsicle</code>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <hr class="dark" />
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <h3>Gradient Orientation</h3>
+    <br/><br/>
+  </div>
+  <div class="col-sm-4">
+    <div class="color-swatch swatch-grad-orientation-a">
+      <label><span class="icon checkmark"></span> OK</label>
+    </div>
+    <code class="color-hex">Horizontal</code>
+  </div>
+  <div class="col-sm-4">
+    <div class="color-swatch swatch-grad-orientation-b">
+      <label><span class="icon checkmark"></span> OK</label>
+    </div>
+    <code class="color-hex">Diagonal (45&deg;)</code>
+  </div>
+  <div class="col-sm-4">
+    <div class="color-swatch swatch-grad-orientation-c">
+      <label><span class="icon remove"></span> Illegal</label>
+    </div>
+    <code class="color-hex">Vertical</code>
   </div>
 </div>
 

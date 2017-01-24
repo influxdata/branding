@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Palette"
+title = "InfluxData Palette"
 [menu]
   [menu.main]
     name = "Palette"
@@ -13,22 +13,23 @@ title = "Palette"
 <div class="row text-left">
   <div class="col-xs-12">
     <div class="page-header">
-      <a class="page-header--anchor" id="overview"></a>
-      <a href="#overview">
-        <h1>Overview</h1>
+      <a class="page-header--anchor" id="title"></a>
+      <a href="#title">
+        <h1>InfluxData Palette</h1>
       </a>
     </div>
   </div>
   <div class="col-xs-12">
-    <p>The InfluxData Offical Palette is divided into 5 parts: Nuetrals, and one palette for each component of the TICK stack.</p>
-    <p><strong>General Rules:</strong></p>
+    <p>The InfluxData Offical Palette is divided into 5 parts: Nuetrals, and one palette for each component of the TICK stack. The palette is broad because it is intended for all use cases. It is effective for UI, marketing graphics, and everything in between.</p>
+    <hr class="dark" />
+    <h5>Usage Rules</h5>
     <ol>
       <li>Do not use colors outside of these palettes</li>
       <li>Never use true black <code>#000000</code></li>
       <li>Avoid using colored type on a light background</li>
       <li>Do not use product colors interchangeably</li>
       <li>Gradients are always horizontal, sometimes diagonal but never vertical</li>
-      <li>Only use gradients specified in the <a href="#">gradients list</a></li>
+      <li>Only use gradients specified in the <a href='{{< relref "colors/gradients.md" >}}'>Gradients List</a></li>
       <li>If you are using brand colors for print or other non-screen applications, refer to <a href="#">safe alternatives</a></li>
     </ol>
     <hr class="dark" />
