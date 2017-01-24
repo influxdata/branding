@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+{{ partial "navigation.html" . }}
+<nav class="ix-app-heading">
+  <div class="container">
+    <div class="ix-app-heading--container">
+      <div class="ix-app-heading--left">
+        <h1 class="ix-app-title">{{ title .Section }} / {{ .Title }}</h1>
+      </div>
+      <div class="ix-app-heading--right">
+        <!-- <a href="../colorpalette/index.html" class="btn btn-sm btn-default">Previous</a>
+        <a href="../type-tools/index.html" class="btn btn-sm btn-default">Next</a> -->
+      </div>
+    </div>
+  </div>
+</nav>
+<div class="ix-app-wrapper">
+  <section class="docs-section">
+    <div class="container">
+      {{ .Content }}
+    </div>
+  </section>
+</div>
+{{ partial "footer.html" . }}

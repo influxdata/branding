@@ -1,0 +1,35 @@
+<nav class="ix-sidebar">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <span class="navbar-brand">
+        <a href="/">
+          <span class="icon cube"></span>
+        </a>
+      </span>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+            {{ if .HasChildren }}
+          <li class='dropdown{{ if $currentPage.HasMenuCurrent "main" . }} active{{end}}'>
+            <a href="#" class="dropdown-toggle icon {{ .Pre }}" data-toggle="dropdown" role="button">{{ .Name }}</a>
+            <ul class="dropdown-menu">
+              <li class="navbar-label hidden-xs">{{ .Name }}</li> 
+              {{ range .Children }}
+                <li{{ if $currentPage.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{ .URL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+          </li>
+            {{ end}}
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</nav>
