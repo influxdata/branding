@@ -1,6 +1,7 @@
 baseurl = "http://github.io/"
 languageCode = "en-us"
 title = "InfluxData Branding Docs"
+publishDir= "../docs"
 
 [[menu.main]]
 	name = "Logo"
