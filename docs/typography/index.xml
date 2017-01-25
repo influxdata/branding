@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Typographies on InfluxData Branding Docs</title>
-    <link>http://influxdata.github.io/branding/typography/</link>
+    <link>https://influxdata.github.io/branding/typography/</link>
     <description>Recent content in Typographies on InfluxData Branding Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Jan 2017 16:11:58 -0800</lastBuildDate>
-    <atom:link href="http://influxdata.github.io/branding/typography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://influxdata.github.io/branding/typography/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Logo Typeface</title>
-      <link>http://influxdata.github.io/branding/typography/logotype/</link>
+      <link>https://influxdata.github.io/branding/typography/logotype/</link>
       <pubDate>Tue, 24 Jan 2017 16:11:58 -0800</pubDate>
       
-      <guid>http://influxdata.github.io/branding/typography/logotype/</guid>
+      <guid>https://influxdata.github.io/branding/typography/logotype/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
   &lt;div class=&#34;col-xs-12&#34;&gt;
     &lt;div class=&#34;page-header&#34;&gt;
@@ -76,10 +76,10 @@
     
     <item>
       <title>Secondary Typeface</title>
-      <link>http://influxdata.github.io/branding/typography/secondary/</link>
+      <link>https://influxdata.github.io/branding/typography/secondary/</link>
       <pubDate>Tue, 24 Jan 2017 16:11:56 -0800</pubDate>
       
-      <guid>http://influxdata.github.io/branding/typography/secondary/</guid>
+      <guid>https://influxdata.github.io/branding/typography/secondary/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
   &lt;div class=&#34;col-xs-12&#34;&gt;
     &lt;div class=&#34;page-header&#34;&gt;
@@ -144,10 +144,10 @@
     
     <item>
       <title>Primary Typeface</title>
-      <link>http://influxdata.github.io/branding/typography/primary/</link>
+      <link>https://influxdata.github.io/branding/typography/primary/</link>
       <pubDate>Tue, 24 Jan 2017 16:11:54 -0800</pubDate>
       
-      <guid>http://influxdata.github.io/branding/typography/primary/</guid>
+      <guid>https://influxdata.github.io/branding/typography/primary/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
   &lt;div class=&#34;col-xs-12&#34;&gt;
     &lt;div class=&#34;page-header&#34;&gt;

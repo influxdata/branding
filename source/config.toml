@@ -1,4 +1,4 @@
-baseurl = "http://influxdata.github.io/branding/"
+baseurl = "https://influxdata.github.io/branding/"
 languageCode = "en-us"
 title = "InfluxData Branding Docs"
 publishDir= "../docs"
