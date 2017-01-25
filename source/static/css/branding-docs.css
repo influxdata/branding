@@ -454,3 +454,39 @@ section.docs-section:first-child {
   content: "\e909";
   background-color: #F95F53;
 }
+
+.logo-usage.example2-dont {background-image: url(../img/logo-usage/example-trolleys.jpg);}
+.logo-usage.example2-do {background-image: url(../img/logo-usage/example-trolleys-dark.jpg);}
+
+.logo-usage.example3-dont {background-image: url(../img/logo-usage/example-forest.jpg);}
+.logo-usage.example3-do {background-image: url(../img/logo-usage/example-forest.jpg);}
+
+.logo-usage.example4-dont {background-image: url(../img/logo-usage/example-tropical.jpg);}
+.logo-usage.example4-do {background-image: url(../img/logo-usage/example-tropical-blur.jpg);}
+
+.logo-usage.example5-dont {background-image: url(../img/logo-usage/example-clouds-blocked.jpg);}
+.logo-usage.example5-do {background-image: url(../img/logo-usage/example-clouds.jpg);}
+
+.logo-usage.example6-dont {background-image: url(../img/logo-usage/logo-symbol-incontext-bad.svg);}
+.logo-usage.example6-do {background-image: url(../img/logo-usage/logo-symbol-incontext-good.svg);}
+
+.logo-usage.example7-dont {background-image: url(../img/logo-usage/example-blurry.png);}
+.logo-usage.example7-dont2 {background-image: url(../img/logo-usage/example-effects.jpg);}
+
+.logo-usage.example8-dont {background-image: url(../img/logo-usage/example-fill.svg);}
+.logo-usage.example8-do {background-image: url(../img/logo-usage/example-fill-hollow.svg);}
+
+.logo-usage.example9-dont {background-image: url(../img/logo-usage/example-bg-black.svg);}
+.logo-usage.example9-do {background-image: url(../img/logo-usage/example-bg-transparent.svg);}
+
+.logo-usage.example10-dont {background-image: url(../img/logo-usage/example-bg-trueblack.svg);}
+.logo-usage.example10-do {background-image: url(../img/logo-usage/example-bg-properblack.svg);}
+
+.logo-usage.example11-dont {background-image: url(../img/logo-usage/example-dropshadow-bad.png);}
+.logo-usage.example11-do {background-image: url(../img/logo-usage/example-dropshadow-good.png);}
+
+.logo-usage.example12-dont {background-image: url(../img/logo-usage/example-surf.jpg);}
+.logo-usage.example12-do {background-image: url(../img/logo-usage/example-surf-good.jpg);}
+
+.logo-usage.example13-dont {background-image: url(../img/logo-usage/example-vertical-bad.svg);}
+.logo-usage.example13-do {background-image: url(../img/logo-usage/example-vertical-good.svg);}
