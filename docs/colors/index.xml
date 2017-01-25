@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Colors on InfluxData Branding Docs</title>
-    <link>http://github.io/colors/</link>
+    <link>http://influxdata.github.io/branding/colors/</link>
     <description>Recent content in Colors on InfluxData Branding Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Jan 2017 16:11:55 -0800</lastBuildDate>
-    <atom:link href="http://github.io/colors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://influxdata.github.io/branding/colors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gradients &amp; How To Use Them</title>
-      <link>http://github.io/colors/gradients/</link>
+      <link>http://influxdata.github.io/branding/colors/gradients/</link>
       <pubDate>Tue, 24 Jan 2017 16:11:55 -0800</pubDate>
       
-      <guid>http://github.io/colors/gradients/</guid>
+      <guid>http://influxdata.github.io/branding/colors/gradients/</guid>
       <description>&lt;div class=&#34;row text-left&#34;&gt;
   &lt;div class=&#34;col-xs-12&#34;&gt;
     &lt;div class=&#34;page-header&#34;&gt;
@@ -43,7 +43,7 @@
     &lt;p&gt;Despite being adjacent on the wheel, blending &lt;code&gt;T&lt;/code&gt; into &lt;code&gt;K&lt;/code&gt; is illegal. This is because they are too far apart in terms of &lt;em&gt;Hue&lt;/em&gt; and the result is a muddy gradient. Eventually we will have a 5th product that will fulfill this segment of the wheel, but until this please refrain from this specific gradient.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;
   &lt;/div&gt;
   &lt;div class=&#34;col-md-4&#34;&gt;
-    &lt;img src=&#34;http://github.io/img/color-wheel.svg&#34;/&gt;
+    &lt;img src=&#34;http://influxdata.github.io/branding/img/color-wheel.svg&#34;/&gt;
     &lt;br/&gt;&lt;br/&gt;
   &lt;/div&gt;
   &lt;div class=&#34;col-md-4&#34;&gt;
@@ -249,10 +249,10 @@
     
     <item>
       <title>InfluxData Palette</title>
-      <link>http://github.io/colors/palette/</link>
+      <link>http://influxdata.github.io/branding/colors/palette/</link>
       <pubDate>Tue, 24 Jan 2017 16:11:54 -0800</pubDate>
       
-      <guid>http://github.io/colors/palette/</guid>
+      <guid>http://influxdata.github.io/branding/colors/palette/</guid>
       <description>&lt;div class=&#34;row text-left&#34;&gt;
   &lt;div class=&#34;col-xs-12&#34;&gt;
     &lt;div class=&#34;page-header&#34;&gt;
@@ -272,7 +272,7 @@
       &lt;li&gt;Avoid using colored type on a light background&lt;/li&gt;
       &lt;li&gt;Do not use product colors interchangeably&lt;/li&gt;
       &lt;li&gt;Gradients are always horizontal, sometimes diagonal but never vertical&lt;/li&gt;
-      &lt;li&gt;Only use gradients specified in the &lt;a href=&#39;http://github.io/colors/gradients/&#39;&gt;Gradients List&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Only use gradients specified in the &lt;a href=&#39;http://influxdata.github.io/branding/branding/colors/gradients/&#39;&gt;Gradients List&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;If you are using brand colors for print or other non-screen applications, refer to &lt;a href=&#34;#&#34;&gt;safe alternatives&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
     &lt;hr class=&#34;dark&#34; /&gt;

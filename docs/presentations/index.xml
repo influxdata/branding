@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentations on InfluxData Branding Docs</title>
-    <link>http://github.io/presentations/</link>
+    <link>http://influxdata.github.io/branding/presentations/</link>
     <description>Recent content in Presentations on InfluxData Branding Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://github.io/presentations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://influxdata.github.io/branding/presentations/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Keynote Templates</title>
-      <link>http://github.io/presentations/keynote/</link>
+      <link>http://influxdata.github.io/branding/presentations/keynote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://github.io/presentations/keynote/</guid>
+      <guid>http://influxdata.github.io/branding/presentations/keynote/</guid>
       <description>&lt;p&gt;Logo story goes here&lt;/p&gt;
 </description>
     </item>
