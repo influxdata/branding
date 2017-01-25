@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>InfluxData Branding Docs</title>
+    <link>http://github.io/</link>
+    <description>Recent content on InfluxData Branding Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jan 2017 16:11:58 -0800</lastBuildDate>
+    <atom:link href="http://github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Logo Typeface</title>
+      <link>http://github.io/typography/logotype/</link>
+      <pubDate>Tue, 24 Jan 2017 16:11:58 -0800</pubDate>
+      
+      <guid>http://github.io/typography/logotype/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;Logo Typeface:&lt;br/&gt;Klavika Italic&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Usage Rules&lt;/h5&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Only used in the Logo and its variations&lt;/li&gt;
+      &lt;li&gt;in the logo, two weights are used: Bold &amp; Light&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-2&#34;&gt;
+    &lt;h5&gt;Glyph&lt;/h5&gt;
+    &lt;div class=&#34;type-sample--klavika&#34;&gt;
+      &lt;h1 class=&#34;type-sample--glyph&#34;&gt;Rr&lt;/h1&gt;
+    &lt;/div&gt;
+    &lt;hr class=&#34;dark visible-xs-block&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-7&#34;&gt;
+    &lt;h5&gt;Styles&lt;/h5&gt;
+    &lt;div class=&#34;type-sample--klavika&#34;&gt;
+      &lt;h1 class=&#34;type-sample--weight200&#34;&gt;Klavika Italic 200 Light&lt;/h1&gt;
+      &lt;h1 class=&#34;type-sample--weight400&#34;&gt;Klavika Italic 400 Regular&lt;/h1&gt;
+      &lt;h1 class=&#34;type-sample--weight600&#34;&gt;Klavika Italic 600 Medium&lt;/h1&gt;
+      &lt;h1 class=&#34;type-sample--weight800&#34;&gt;Klavika Italic 800 Bold&lt;/h1&gt;
+    &lt;/div&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Characters&lt;/h5&gt;
+    &lt;div class=&#34;type-sample--klavika&#34;&gt;
+      &lt;p class=&#34;type-sample--characters&#34;&gt;​‌A​‌B​‌C​‌Ć​‌Č​‌D​‌Đ​‌E​‌F​‌G​‌H​‌I​‌J​‌K​‌L​‌M​‌N​‌O​‌P​‌Q​‌R​‌S​‌Š​‌T​‌U​‌V​‌W​‌X​‌Y​‌Z​‌Ž​‌a​‌b​‌c​‌č​‌ć​‌d​‌đ​‌e​‌f​‌g​‌h​‌i​‌j​‌k​‌l​‌m​‌n​‌o​‌p​‌q​‌r​‌s​‌š​‌t​‌u​‌v​‌w​‌x​‌y​‌z​‌ž​‌А​‌Б​‌В​‌Г​‌Ґ​‌Д​‌Ђ​‌Е​‌Ё​‌Є​‌Ж​‌З​‌Ѕ​‌И​‌І​‌Ї​‌Й​‌Ј​‌К​‌Л​‌Љ​‌М​‌НЊ​‌О​‌П​‌Р​‌С​‌Т​‌Ћ​‌У​‌Ў​‌Ф​‌Х​‌Ц​‌Ч​‌Џ​‌Ш​‌Щ​‌Ъ​‌Ы​‌Ь​‌Э​‌Ю​‌Я​‌а​‌б​‌в​‌г​‌ґ​‌д​‌ђ​‌е​‌ё​‌є​‌ж​‌з​‌ѕ​‌и​‌і​‌ї​‌й​‌ј​‌к​‌л​‌љ​‌м​‌н​‌њ​‌о​‌п​‌р​‌с​‌т​‌ћ​‌у​‌ў​‌ф​‌х​‌ц​‌ч​‌џ​‌ш​‌щ​‌ъ​‌ы​‌ь​‌э​‌ю​‌я​‌Α​‌Β​‌Γ​‌Δ​‌Ε​‌Ζ​‌Η​‌Θ​‌Ι​‌Κ​‌Λ​‌Μ​‌Ν​‌Ξ​‌Ο​‌Π​‌Ρ​‌Σ​Τ​‌Υ​‌Φ​‌Χ​‌Ψ​‌Ω​‌α​‌β​‌γ​‌δ​‌ε​‌ζ​‌η​‌θ​‌ι​‌κ​‌λ​‌μ​‌ν​‌ξ​‌ο​‌π​‌ρ​‌σ​‌τ​‌υ​‌φ​‌χ​‌ψ​‌ω​‌ά​‌Ά​‌έ​‌Έ​‌έ​‌Ή​‌ί​‌ϊ​‌ΐ​‌Ί​‌ό​‌Ό​‌ύ​‌ΰ​‌ϋ​‌Ύ​‌Ϋ​‌Ώ​‌Ă​‌Â​‌Ê​‌Ô​‌Ơ​‌Ư​‌ă​‌â​‌ê​‌ô​‌ơ​‌ư​‌1​‌2​‌3​‌4​‌5​‌6​‌7​‌8​‌9​‌0​‌‘​‌?​‌’​‌“​‌!​‌”​‌(​‌%​‌)​‌[​‌#​‌]​‌{​‌@​‌}​‌/​‌&amp;​‌&lt;​‌-​‌+​‌÷​‌×​‌=​‌&gt;​‌®​‌©​‌$​‌€​‌£​‌¥​‌¢​‌:​‌;​‌,​‌.​‌*&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Example Paragraph&lt;/h5&gt;
+    &lt;div class=&#34;type-sample--klavika&#34;&gt;
+      &lt;p&gt;VHS messenger bag craft beer food truck. Blog tofu williamsburg echo park, viral single-origin coffee umami before they sold out crucifix portland pop-up yuccie dreamcatcher air plant. Live-edge gastropub portland etsy, distillery polaroid waistcoat bushwick before they sold out. Heirloom wayfarers crucifix, sartorial banh mi kinfolk selvage artisan umami. Godard tacos asymmetrical tilde disrupt blue bottle post-ironic brooklyn. Fap try-hard art party, unicorn man braid hell of tote bag leggings cold-pressed raclette. Kale chips 90&#39;s 8-bit, mumblecore coloring book venmo dreamcatcher kickstarter.&lt;/p&gt;
+      &lt;p&gt;Salvia pork belly vinyl tousled air plant. Artisan vexillologist yr subway tile small batch, sriracha retro sustainable. Biodiesel normcore kale chips photo booth yuccie offal, tofu tattooed neutra authentic cold-pressed readymade activated charcoal. Slow-carb put a bird on it whatever, mixtape schlitz beard hell of meditation post-ironic chambray celiac cronut DIY leggings. Fap live-edge chicharrones, flexitarian yuccie photo booth brooklyn woke. Kitsch echo park unicorn craft beer, plaid occupy cred thundercats. Godard actually yuccie +1 ennui.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;br class=&#34;visible-xs-block&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-3&#34;&gt;
+    &lt;hr class=&#34;dark visible-xs-block&#34; /&gt;
+    &lt;h5&gt;About the Typeface&lt;/h5&gt;
+    &lt;p&gt;&#34;Frustrated with a lack of fonts both versatile and modern, we set out to design Klavika as a full-featured, do-it-all sans serif for the needs of the 21st century. Our result is a design that’s unadorned, modern and infinitely flexible. To achieve this, Klavika follows a decidedly hybrid typographic path – a cross of humanist and geometric influences with allegiances to neither. Crisp and open shapes keep the font legible in small sizes while the straight-sided characters anchor headlines and display work solidly in place. And since part of the goal was flexibility, we’re happy to report that since its introduction in 2004, Klavika has found its way into a wide variety of media from print to pixels.&#34;&lt;/p&gt;
+    &lt;p&gt;Designed by Eric Olson&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>http://github.io/logo/downloads/</link>
+      <pubDate>Tue, 24 Jan 2017 16:11:57 -0800</pubDate>
+      
+      <guid>http://github.io/logo/downloads/</guid>
+      <description>&lt;p&gt;Logo story goes here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Logo DOs &amp; DONT&#39;s</title>
+      <link>http://github.io/logo/usage/</link>
+      <pubDate>Tue, 24 Jan 2017 16:11:56 -0800</pubDate>
+      
+      <guid>http://github.io/logo/usage/</guid>
+      <description>&lt;div class=&#34;row text-left&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;Logo DOs &amp; DON&#39;Ts&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Usage Rules&lt;/h5&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Use appropriate margin around the logo to let it breathe&lt;/li&gt;
+      &lt;li&gt;The Symbol can be used by itself&lt;/li&gt;
+      &lt;li&gt;Do not use the Logotype without the Symbol&lt;/li&gt;
+      &lt;li&gt;Do not vertically stack the Logotype &amp; Symbol&lt;/li&gt;
+      &lt;li&gt;Do not add any effects to the logo or symbol (such as drop shadow, glow, etc.)&lt;/li&gt;
+      &lt;li&gt;Never reveal the bounding box around the logo or symbol&lt;/li&gt;
+      &lt;li&gt;If placing the logo over an image, make sure the area underneath is simple&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 1&lt;/h5&gt;
+    &lt;p&gt;Make sure the logo has appropriate contrast with the background. The bad example here is too light of a background for a white symbol&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-color: #EEEFF2;&#34;&gt;
+      &lt;img src=&#34;http://github.io/img/logo-usage/logo-symbol-white.svg&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--do&#34; style=&#34;background-color: #202028;&#34;&gt;
+      &lt;img src=&#34;http://github.io/img/logo-usage/logo-symbol-white.svg&#34;/&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 2&lt;/h5&gt;
+    &lt;p&gt;If placing the logo over an image and the image is too busy, darken or lighten the image using &lt;a href=&#39;http://github.io/colors/palette/&#39;&gt;Brand Colors&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-trolleys.jpg);&#34;&gt;
+      &lt;img src=&#34;http://github.io/img/logo-usage/logo-symbol-white.svg&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--do&#34; style=&#34;background-image: url(/img/logo-usage/example-trolleys-dark.jpg);&#34;&gt;
+      &lt;img src=&#34;http://github.io/img/logo-usage/logo-symbol-white.svg&#34;/&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 3&lt;/h5&gt;
+    &lt;p&gt;Make sure the logo has appropriate contrast with the background. The bad example here is closer to the dark end of the spectrum, so a white logo has more contrast&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-forest.jpg);&#34;&gt;
+      &lt;img src=&#34;http://github.io/img/logo-usage/logo-symbol-black.svg&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--do&#34; style=&#34;background-image: url(/img/logo-usage/example-forest.jpg);&#34;&gt;
+      &lt;img src=&#34;http://github.io/img/logo-usage/logo-symbol-white.svg&#34;/&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 4&lt;/h5&gt;
+    &lt;p&gt;If the background is too busy and neither dark nor light logos look good, it is acceptable to blur the background&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-tropical.jpg);&#34;&gt;
+      &lt;img src=&#34;http://github.io/img/logo-usage/logo-symbol-white.svg&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--do&#34; style=&#34;background-image: url(/img/logo-usage/example-tropical-blur.jpg);&#34;&gt;
+      &lt;img src=&#34;http://github.io/img/logo-usage/logo-symbol-white.svg&#34;/&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 5&lt;/h5&gt;
+    &lt;p&gt;It is best to avoid semi-transparent overlays for the sake of increasing the logo contrast. Best to use the version of the logo with the most contrast. If the background is too busy, it is recommended to use a colored overlay &lt;em&gt;See Example 2&lt;/em&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-clouds-blocked.jpg);&#34;&gt;
+      &lt;img src=&#34;http://github.io/img/logo-usage/logo-symbol-white.svg&#34;/&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--do&#34; style=&#34;background-image: url(/img/logo-usage/example-clouds.jpg);&#34;&gt;
+      &lt;img src=&#34;http://github.io/img/logo-usage/logo-symbol-black.svg&#34;/&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 6&lt;/h5&gt;
+    &lt;p&gt;Use as few different colors as possible, especially when using type alongside the logo. Best case is the type and logo are the same color (in this example: white)&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/logo-symbol-incontext-bad.svg);&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--do&#34; style=&#34;background-image: url(/img/logo-usage/logo-symbol-incontext-good.svg);&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 7&lt;/h5&gt;
+    &lt;p&gt;Do not apply effects to the logo. This includes drop shadows, glows, 3D effects, etc. The beauty is in its simplicity, do not detract with ornamentation&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-blurry.png);&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-effects.jpg);&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 8&lt;/h5&gt;
+    &lt;p&gt;Part of the Symbol&#39;s appeal is transparency. Do not fill the logo as this negates transparency, not just literally but also figuratively&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-fill.svg);&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--do&#34; style=&#34;background-image: url(/img/logo-usage/example-fill-hollow.svg);&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 9&lt;/h5&gt;
+    &lt;p&gt;Do not use a logo image with a background on top of another background. This is unecessary and creates noise, detracting from the logo&#39;s elegance&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-bg-black.svg);&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--do&#34; style=&#34;background-image: url(/img/logo-usage/example-bg-transparent.svg);&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 10&lt;/h5&gt;
+    &lt;p&gt;Do not use true black. Instead use a dark grey from the &lt;a href=&#39;http://github.io/colors/palette/&#39;&gt;Brand Palette&lt;/a&gt;. This helps maintain a small degree of softness which nicely juxtapozes the geometric structure of the logo&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-bg-trueblack.svg);&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--do&#34; style=&#34;background-image: url(/img/logo-usage/example-bg-properblack.svg);&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 11&lt;/h5&gt;
+    &lt;p&gt;Similar to &lt;em&gt;Example 7&lt;/em&gt;, do not apply drop shadows to the logo. If there is not enough contrast consider modifying the background instead, or using a version of the logo that offers more visibility&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-dropshadow-bad.png);&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--do&#34; style=&#34;background-image: url(/img/logo-usage/example-dropshadow-good.png);&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 12&lt;/h5&gt;
+    &lt;p&gt;If placing the logo over a photograph or illustration it is best to use the least busy portion of the image. Consider modifying the image to create a less busy area to better suit the logo. In general it is best to modify the background to achieve contrast rather than the logo. Respect the logo&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-surf.jpg);&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--do&#34; style=&#34;background-image: url(/img/logo-usage/example-surf-good.jpg);&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row logo-usage-example&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Example 13&lt;/h5&gt;
+    &lt;p&gt;Do not rearrange the logo. Vertical stacking is the worst offense. This breaks the harmony of line widths seen in &lt;a href=&#39;http://github.io/logo/anatomy/&#39;&gt;Logo Anatomy&lt;/a&gt; which detracts from the logo&#39;s elegance&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-8&#34;&gt;
+    &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-vertical-bad.svg);&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;logo-usage logo-usage--do&#34; style=&#34;background-image: url(/img/logo-usage/example-vertical-good.svg);&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Secondary Typeface</title>
+      <link>http://github.io/typography/secondary/</link>
+      <pubDate>Tue, 24 Jan 2017 16:11:56 -0800</pubDate>
+      
+      <guid>http://github.io/typography/secondary/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;Secondary Typeface:&lt;br/&gt;Roboto Mono&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Usage Rules&lt;/h5&gt;
+    &lt;ol&gt;
+      &lt;li&gt;The Secondary Typeface is only for use in code samples&lt;/li&gt;
+      &lt;li&gt;Use Regular weight for light backgrounds&lt;/li&gt;
+      &lt;li&gt;Use Bold weight for dark backgrounds&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-2&#34;&gt;
+    &lt;h5&gt;Glyph&lt;/h5&gt;
+    &lt;div class=&#34;type-sample--mono&#34;&gt;
+      &lt;h1 class=&#34;type-sample--glyph&#34;&gt;Rr&lt;/h1&gt;
+    &lt;/div&gt;
+    &lt;hr class=&#34;dark visible-xs-block&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-7&#34;&gt;
+    &lt;h5&gt;Styles&lt;/h5&gt;
+    &lt;div class=&#34;type-sample--mono&#34;&gt;
+      &lt;h1 class=&#34;type-sample--weight400&#34;&gt;Roboto 400 Regular&lt;/h1&gt;
+      &lt;h1 class=&#34;type-sample--weight700&#34;&gt;Roboto 700 Bold&lt;/h1&gt;
+    &lt;/div&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Characters&lt;/h5&gt;
+    &lt;div class=&#34;type-sample--mono&#34;&gt;
+      &lt;p class=&#34;type-sample--characters&#34;&gt;​‌A​‌B​‌C​‌Ć​‌Č​‌D​‌Đ​‌E​‌F​‌G​‌H​‌I​‌J​‌K​‌L​‌M​‌N​‌O​‌P​‌Q​‌R​‌S​‌Š​‌T​‌U​‌V​‌W​‌X​‌Y​‌Z​‌Ž​‌a​‌b​‌c​‌č​‌ć​‌d​‌đ​‌e​‌f​‌g​‌h​‌i​‌j​‌k​‌l​‌m​‌n​‌o​‌p​‌q​‌r​‌s​‌š​‌t​‌u​‌v​‌w​‌x​‌y​‌z​‌ž​‌А​‌Б​‌В​‌Г​‌Ґ​‌Д​‌Ђ​‌Е​‌Ё​‌Є​‌Ж​‌З​‌Ѕ​‌И​‌І​‌Ї​‌Й​‌Ј​‌К​‌Л​‌Љ​‌М​‌НЊ​‌О​‌П​‌Р​‌С​‌Т​‌Ћ​‌У​‌Ў​‌Ф​‌Х​‌Ц​‌Ч​‌Џ​‌Ш​‌Щ​‌Ъ​‌Ы​‌Ь​‌Э​‌Ю​‌Я​‌а​‌б​‌в​‌г​‌ґ​‌д​‌ђ​‌е​‌ё​‌є​‌ж​‌з​‌ѕ​‌и​‌і​‌ї​‌й​‌ј​‌к​‌л​‌љ​‌м​‌н​‌њ​‌о​‌п​‌р​‌с​‌т​‌ћ​‌у​‌ў​‌ф​‌х​‌ц​‌ч​‌џ​‌ш​‌щ​‌ъ​‌ы​‌ь​‌э​‌ю​‌я​‌Α​‌Β​‌Γ​‌Δ​‌Ε​‌Ζ​‌Η​‌Θ​‌Ι​‌Κ​‌Λ​‌Μ​‌Ν​‌Ξ​‌Ο​‌Π​‌Ρ​‌Σ​Τ​‌Υ​‌Φ​‌Χ​‌Ψ​‌Ω​‌α​‌β​‌γ​‌δ​‌ε​‌ζ​‌η​‌θ​‌ι​‌κ​‌λ​‌μ​‌ν​‌ξ​‌ο​‌π​‌ρ​‌σ​‌τ​‌υ​‌φ​‌χ​‌ψ​‌ω​‌ά​‌Ά​‌έ​‌Έ​‌έ​‌Ή​‌ί​‌ϊ​‌ΐ​‌Ί​‌ό​‌Ό​‌ύ​‌ΰ​‌ϋ​‌Ύ​‌Ϋ​‌Ώ​‌Ă​‌Â​‌Ê​‌Ô​‌Ơ​‌Ư​‌ă​‌â​‌ê​‌ô​‌ơ​‌ư​‌1​‌2​‌3​‌4​‌5​‌6​‌7​‌8​‌9​‌0​‌‘​‌?​‌’​‌“​‌!​‌”​‌(​‌%​‌)​‌[​‌#​‌]​‌{​‌@​‌}​‌/​‌&amp;​‌&lt;​‌-​‌+​‌÷​‌×​‌=​‌&gt;​‌®​‌©​‌$​‌€​‌£​‌¥​‌¢​‌:​‌;​‌,​‌.​‌*&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Example Paragraph&lt;/h5&gt;
+    &lt;div class=&#34;type-sample--mono&#34;&gt;
+      &lt;p&gt;VHS messenger bag craft beer food truck. Blog tofu williamsburg echo park, viral single-origin coffee umami before they sold out crucifix portland pop-up yuccie dreamcatcher air plant. Live-edge gastropub portland etsy, distillery polaroid waistcoat bushwick before they sold out. Heirloom wayfarers crucifix, sartorial banh mi kinfolk selvage artisan umami. Godard tacos asymmetrical tilde disrupt blue bottle post-ironic brooklyn. Fap try-hard art party, unicorn man braid hell of tote bag leggings cold-pressed raclette. Kale chips 90&#39;s 8-bit, mumblecore coloring book venmo dreamcatcher kickstarter.&lt;/p&gt;
+      &lt;p&gt;Salvia pork belly vinyl tousled air plant. Artisan vexillologist yr subway tile small batch, sriracha retro sustainable. Biodiesel normcore kale chips photo booth yuccie offal, tofu tattooed neutra authentic cold-pressed readymade activated charcoal. Slow-carb put a bird on it whatever, mixtape schlitz beard hell of meditation post-ironic chambray celiac cronut DIY leggings. Fap live-edge chicharrones, flexitarian yuccie photo booth brooklyn woke. Kitsch echo park unicorn craft beer, plaid occupy cred thundercats. Godard actually yuccie +1 ennui.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Code Sample&lt;/h5&gt;
+    &lt;pre class=&#34;rainbow-highlighter&#34;&gt;&lt;code&gt;&lt;mark&gt;var&lt;/mark&gt; errors &lt;del&gt;=&lt;/del&gt; stream&lt;br/&gt;  &lt;del&gt;|&lt;/del&gt;&lt;i&gt;from&lt;/i&gt;&lt;b&gt;()&lt;/b&gt;&lt;br/&gt;    .&lt;mark&gt;measurement&lt;/mark&gt;&lt;b&gt;(&lt;/b&gt;&lt;em&gt;&#39;errors&#39;&lt;/em&gt;&lt;b&gt;)&lt;/b&gt;&lt;br/&gt;&lt;mark&gt;var&lt;/mark&gt; requests &lt;del&gt;=&lt;/del&gt; stream&lt;br/&gt;  &lt;del&gt;|&lt;/del&gt;&lt;i&gt;from&lt;/i&gt;&lt;b&gt;(&lt;/b&gt;&lt;b&gt;)&lt;/b&gt;&lt;br/&gt;    .&lt;mark&gt;measurement&lt;/mark&gt;&lt;b&gt;(&lt;/b&gt;&lt;em&gt;&#39;requests&#39;&lt;/em&gt;&lt;b&gt;)&lt;/b&gt;&lt;br/&gt;&lt;b&gt;// Join the errors and requests stream&lt;/b&gt;&lt;br/&gt;errors&lt;br/&gt;  &lt;del&gt;|&lt;/del&gt;&lt;i&gt;join&lt;/i&gt;&lt;b&gt;(&lt;/b&gt;requests&lt;b&gt;)&lt;/b&gt;&lt;br/&gt;    .&lt;mark&gt;as&lt;/mark&gt;&lt;b&gt;(&lt;/b&gt;&lt;em&gt;&#39;errors&#39;, &#39;requests&#39;&lt;/em&gt;&lt;b&gt;)&lt;/b&gt;&lt;br/&gt;  &lt;del&gt;|&lt;/del&gt;&lt;i&gt;eval&lt;/i&gt;&lt;b&gt;(&lt;/b&gt;lambda: &lt;em&gt;&#34;errors.value&#34;&lt;/em&gt; &lt;del&gt;/&lt;/del&gt; &lt;em&gt;&#34;requests.value&#34;&lt;/em&gt;&lt;b&gt;)&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;br class=&#34;visible-xs-block&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-3&#34;&gt;
+    &lt;hr class=&#34;dark visible-xs-block&#34; /&gt;
+    &lt;h5&gt;About the Typeface&lt;/h5&gt;
+    &lt;p&gt;Roboto Mono is a monospaced addition to the Roboto type family. Like the other members of the Roboto family, the fonts are optimized for readability on screens across a wide variety of devices and reading environments. While the monospaced version is related to its variable width cousin, it doesn’t hesitate to change forms to better fit the constraints of a monospaced environment. For example, narrow glyphs like ‘I’, ‘l’ and ‘i’ have added serifs for more even texture while wider glyphs are adjusted for weight. Curved caps like ‘C’ and ‘O’ take on the straighter sides from Roboto Condensed.&lt;/p&gt;
+    &lt;p&gt;Special consideration is given to glyphs important for reading and writing software source code. Letters with similar shapes are easy to tell apart. Digit ‘1’, lowercase ‘l’ and capital ‘I’ are easily differentiated as are zero and the letter ‘O’. Punctuation important for code has also been considered. For example, the curly braces ‘{ }’ have exaggerated points to clearly differentiate them from parenthesis ‘( )’ and braces ‘[ ]’. Periods and commas are also exaggerated to identify them more quickly. The scale and weight of symbols commonly used as operators have also been optimized.&lt;/p&gt;
+    &lt;p&gt;Designed by Christian Robertson&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anatomy</title>
+      <link>http://github.io/logo/anatomy/</link>
+      <pubDate>Tue, 24 Jan 2017 16:11:55 -0800</pubDate>
+      
+      <guid>http://github.io/logo/anatomy/</guid>
+      <description>&lt;div class=&#34;row text-left&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;Anatomy of The Logo&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Usage Rules&lt;/h5&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Use appropriate margin around the logo to let it breathe&lt;/li&gt;
+      &lt;li&gt;The Symbol can be used by itself&lt;/li&gt;
+      &lt;li&gt;Do not use the Logotype without the Symbol&lt;/li&gt;
+      &lt;li&gt;Do not vertically stack the Logotype &amp; Symbol&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;h5&gt;The Symbol: Cuboctahedron&lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4 longform&#34;&gt;
+    &lt;img src=&#34;http://github.io/img/anatomy/symbol-preview.svg&#34; class=&#34;border&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4 longform&#34;&gt;
+    &lt;img src=&#34;http://github.io/img/anatomy/symbol-bounds.svg&#34; class=&#34;border&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4 longform&#34;&gt;
+    &lt;img src=&#34;http://github.io/img/anatomy/symbol-rotation.svg&#34; class=&#34;border&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;h5&gt;Symbol + Logotype&lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4 longform&#34;&gt;
+    &lt;img src=&#34;http://github.io/img/anatomy/complete-preview.svg&#34; class=&#34;border&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4 longform&#34;&gt;
+    &lt;img src=&#34;http://github.io/img/anatomy/complete-anatomy.svg&#34; class=&#34;border&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4 longform&#34;&gt;
+    &lt;img src=&#34;http://github.io/img/anatomy/complete-breathingroom.svg&#34; class=&#34;border&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4 longform&#34;&gt;
+    &lt;img src=&#34;http://github.io/img/anatomy/complete-lines.svg&#34; class=&#34;border&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4 longform&#34;&gt;
+    &lt;img src=&#34;http://github.io/img/anatomy/complete-round1.svg&#34; class=&#34;border&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4 longform&#34;&gt;
+    &lt;img src=&#34;http://github.io/img/anatomy/complete-round2.svg&#34; class=&#34;border&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gradients &amp; How To Use Them</title>
+      <link>http://github.io/colors/gradients/</link>
+      <pubDate>Tue, 24 Jan 2017 16:11:55 -0800</pubDate>
+      
+      <guid>http://github.io/colors/gradients/</guid>
+      <description>&lt;div class=&#34;row text-left&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;Gradients &amp; How To Use Them&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Usage Rules&lt;/h5&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;strong&gt;Gradients are always horizontal, sometimes diagonal but never vertical&lt;/strong&gt;&lt;br/&gt;(This is a defining part of our style)&lt;/li&gt;
+      &lt;li&gt;Do not create new gradients&lt;/li&gt;
+      &lt;li&gt;Do not modify gradients&lt;/li&gt;
+      &lt;li&gt;High saturation gradients are preferred (Pastel Gothic, Low Difficulty, etc.)&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-md-4&#34;&gt;
+    &lt;h3&gt;Influx Color Wheel&lt;/h3&gt;
+    &lt;p&gt;This wheel represents the acceptable relationships between colors. For example, &lt;code&gt;I&lt;/code&gt; can blend into both &lt;code&gt;C&lt;/code&gt; and &lt;code&gt;K&lt;/code&gt;, but blending into &lt;code&gt;T&lt;/code&gt; would be illegal as it skips a step. One would have to insert &lt;code&gt;C&lt;/code&gt; in between to make that a legal gradient.&lt;/p&gt;
+    &lt;p&gt;Despite being adjacent on the wheel, blending &lt;code&gt;T&lt;/code&gt; into &lt;code&gt;K&lt;/code&gt; is illegal. This is because they are too far apart in terms of &lt;em&gt;Hue&lt;/em&gt; and the result is a muddy gradient. Eventually we will have a 5th product that will fulfill this segment of the wheel, but until this please refrain from this specific gradient.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-md-4&#34;&gt;
+    &lt;img src=&#34;http://github.io/img/color-wheel.svg&#34;/&gt;
+    &lt;br/&gt;&lt;br/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-md-4&#34;&gt;
+    &lt;h3&gt;Examples of Illegal Gradients&lt;/h3&gt;
+    &lt;div class=&#34;color-swatch short swatch-grad-illegal-a&#34;&gt;&lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;C3 Star / K3 Rainforest&lt;/code&gt;
+    &lt;div class=&#34;color-swatch short swatch-grad-illegal-b&#34;&gt;&lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;I3 Pool / T3 Curaçao&lt;/code&gt;
+    &lt;div class=&#34;color-swatch short swatch-grad-illegal-c&#34;&gt;&lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;K4 Honeydew / T4 Dreamsicle&lt;/code&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-md-12&#34;&gt;
+    &lt;h3&gt;Gradient Orientation&lt;/h3&gt;
+    &lt;br/&gt;&lt;br/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch swatch-grad-orientation-a&#34;&gt;
+      &lt;label&gt;&lt;span class=&#34;icon checkmark&#34;&gt;&lt;/span&gt; OK&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;Horizontal&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch swatch-grad-orientation-b&#34;&gt;
+      &lt;label&gt;&lt;span class=&#34;icon checkmark&#34;&gt;&lt;/span&gt; OK&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;Diagonal (45&amp;deg;)&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch swatch-grad-orientation-c&#34;&gt;
+      &lt;label&gt;&lt;span class=&#34;icon remove&#34;&gt;&lt;/span&gt; Illegal&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;Vertical&lt;/code&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-md-12&#34;&gt;
+    &lt;h3&gt;Acceptable Mixed Hue Gradients&lt;/h3&gt;
+    &lt;br/&gt;&lt;br/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-1&#34;&gt;
+      &lt;label&gt;Beijing Eclipse&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;T0 Basalt / C0 Shadow&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-2&#34;&gt;
+      &lt;label&gt;Distant Nebula&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;C0 Shadow / I0 Abyss&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-3&#34;&gt;
+      &lt;label&gt;Spirulina Smoothie&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;I0 Abyss / K0 Gypsy&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-4&#34;&gt;
+      &lt;label&gt;LA Sunset&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;T1 Ruby / C1 Void&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-5&#34;&gt;
+      &lt;label&gt;Polar Express&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;C1 Void / I1 Sapphire&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-6&#34;&gt;
+      &lt;label&gt;Rebel Alliance&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;I1 Sapphire / K1 Emerald&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-7&#34;&gt;
+      &lt;label&gt;Doc Scott&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;T2 Fire / C2 Planet&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-8&#34;&gt;
+      &lt;label&gt;Gundam Pilot&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;C2 Planet / I2 Ocean&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-9&#34;&gt;
+      &lt;label&gt;Tropical Tourist&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;I2 Ocean / K2 Viridian&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-10&#34;&gt;
+      &lt;label&gt;Desert Festival&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;T3 Curaçao / C3 Star&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-11&#34;&gt;
+      &lt;label&gt;Miyazaki Sky&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;C3 Star / I3 Pool&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-12&#34;&gt;
+      &lt;label&gt;Garage Band&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;I3 Pool / K3 Rainforest&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-13&#34;&gt;
+      &lt;label&gt;Brooklyn Cowboy&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;T4 Dreamsicle / C4 Comet&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-14&#34;&gt;
+      &lt;label&gt;Pastel Gothic&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;C4 Comet / I4 Laser&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch dark swatch-grad-mix-15&#34;&gt;
+      &lt;label&gt;Low Difficulty&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;I4 Laser / K4 Honeydew&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch swatch-grad-mix-16&#34;&gt;
+      &lt;label&gt;Synth Pop&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;T4 Tungsten / C5 Potassium&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch swatch-grad-mix-17&#34;&gt;
+      &lt;label&gt;Cotton Candy&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;C5 Potassium / I5 Hydrogen&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch swatch-grad-mix-18&#34;&gt;
+      &lt;label&gt;Hotel Breakfast&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;I5 Hydrogen / K5 Krypton&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch swatch-grad-mix-19&#34;&gt;
+      &lt;label&gt;Magic Carpet&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;T6 Marmelade / C6 Moonstone&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch swatch-grad-mix-20&#34;&gt;
+      &lt;label&gt;Cruising Altitude&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;C6 Moonstone / I6 Neutrino&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch swatch-grad-mix-21&#34;&gt;
+      &lt;label&gt;Coconut Lime&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;I6 Neutrino / K6 Wasabi&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch swatch-grad-mix-22&#34;&gt;
+      &lt;label&gt;Pastry Cafe&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;T7 Flan / C7 Creme de Violette&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch swatch-grad-mix-23&#34;&gt;
+      &lt;label&gt;Kawaii Desu&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;C7 Creme de Violette / I7 Yeti&lt;/code&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;div class=&#34;color-swatch swatch-grad-mix-24&#34;&gt;
+      &lt;label&gt;Robot Logic&lt;/label&gt;
+    &lt;/div&gt;
+    &lt;code class=&#34;color-hex&#34;&gt;I7 Yeti / K7 Mint&lt;/code&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>InfluxData Palette</title>
+      <link>http://github.io/colors/palette/</link>
+      <pubDate>Tue, 24 Jan 2017 16:11:54 -0800</pubDate>
+      
+      <guid>http://github.io/colors/palette/</guid>
+      <description>&lt;div class=&#34;row text-left&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;InfluxData Palette&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;p&gt;The InfluxData Offical Palette is divided into 5 parts: Nuetrals, and one palette for each component of the TICK stack. The palette is broad because it is intended for all use cases. It is effective for UI, marketing graphics, and everything in between.&lt;/p&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Usage Rules&lt;/h5&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Do not use colors outside of these palettes&lt;/li&gt;
+      &lt;li&gt;Never use true black &lt;code&gt;#000000&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Avoid using colored type on a light background&lt;/li&gt;
+      &lt;li&gt;Do not use product colors interchangeably&lt;/li&gt;
+      &lt;li&gt;Gradients are always horizontal, sometimes diagonal but never vertical&lt;/li&gt;
+      &lt;li&gt;Only use gradients specified in the &lt;a href=&#39;http://github.io/colors/gradients/&#39;&gt;Gradients List&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;If you are using brand colors for print or other non-screen applications, refer to &lt;a href=&#34;#&#34;&gt;safe alternatives&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-md-3&#34;&gt;
+    &lt;h3&gt;Nuetrals&lt;/h3&gt;
+    &lt;p&gt;There are many nuetrals because they are the most used. Having subtle differences between the dark and light end of the spectrum is extremely useful when building UI. The nuetrals follow two main principles: never use true black, and never use true nuetrals. Our nuetral palette is subtley colored with brand colors, the dark end of the spectrum is colored with Chronograf purple, and the light end is colored with InfluxDB blue.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-md-9&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #0F0E15;&#34;&gt;
+          &lt;label&gt;Obsidian&lt;/label&gt;
+          &lt;label&gt;G0&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#0F0E15&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #1C1C21;&#34;&gt;
+          &lt;label&gt;Raven&lt;/label&gt;
+          &lt;label&gt;G1&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#1C1C21&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #202028;&#34;&gt;
+          &lt;label&gt;Kevlar&lt;/label&gt;
+          &lt;label&gt;G2&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#202028&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #292933;&#34;&gt;
+          &lt;label&gt;Castle&lt;/label&gt;
+          &lt;label&gt;G3&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#292933&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #2C2C38;&#34;&gt;
+        &lt;label&gt;Onyx&lt;/label&gt;
+          &lt;label&gt;G4&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#2C2C38&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #383846;&#34;&gt;
+        &lt;label&gt;Pepper&lt;/label&gt;
+          &lt;label&gt;G5&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#383846&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #434453;&#34;&gt;
+          &lt;label&gt;Smoke&lt;/label&gt;
+          &lt;label&gt;G6&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#434453&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #545667;&#34;&gt;
+          &lt;label&gt;Graphite&lt;/label&gt;
+          &lt;label&gt;G7&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#545667&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #676978;&#34;&gt;
+          &lt;label&gt;Storm&lt;/label&gt;
+          &lt;label&gt;G8&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#676978&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #757888;&#34;&gt;
+          &lt;label&gt;Mountain&lt;/label&gt;
+          &lt;label&gt;G9&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#757888&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #8E91A1;&#34;&gt;
+          &lt;label&gt;Wolf&lt;/label&gt;
+          &lt;label&gt;G10&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#8E91A1&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #999DAB;&#34;&gt;
+          &lt;label&gt;Sidewalk&lt;/label&gt;
+          &lt;label&gt;G11&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#999DAB&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #A4A8B6;&#34;&gt;
+          &lt;label&gt;Forge&lt;/label&gt;
+          &lt;label&gt;G12&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#A4A8B6&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #BEC2CC;&#34;&gt;
+          &lt;label&gt;Mist&lt;/label&gt;
+          &lt;label&gt;G13&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#BEC2CC&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #C6CAD3;&#34;&gt;
+          &lt;label&gt;Chromium&lt;/label&gt;
+          &lt;label&gt;G14&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#C6CAD3&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #D4D7DD;&#34;&gt;
+          &lt;label&gt;Platinum&lt;/label&gt;
+          &lt;label&gt;G15&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#D4D7DD&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #E7E8EB;&#34;&gt;
+          &lt;label&gt;Pearl&lt;/label&gt;
+          &lt;label&gt;G16&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#E7E8EB&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #EEEFF2;&#34;&gt;
+          &lt;label&gt;Whisper&lt;/label&gt;
+          &lt;label&gt;G17&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#EEEFF2&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #F6F6F8;&#34;&gt;
+          &lt;label&gt;Cloud&lt;/label&gt;
+          &lt;label&gt;G18&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#F6F6F8&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #FAFAFC;&#34;&gt;
+          &lt;label&gt;Ghost&lt;/label&gt;
+          &lt;label&gt;G19&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#FAFAFC&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #ffffff;&#34;&gt;
+          &lt;label&gt;White&lt;/label&gt;
+          &lt;label&gt;G20&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#ffffff&lt;/code&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-md-3&#34;&gt;
+    &lt;h3&gt;Telegraf&lt;/h3&gt;
+    &lt;p&gt;Putting the T in TICK, Telegraf is the data collector component of the stack.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Usage Guidelines:&lt;/strong&gt;&lt;br/&gt;Telegraf should be represented with a gradient when possible. Gradients are always horizontal; do not use vertical gradients. Gradient A is the primary gradient, but B is acceptable when A does not work in context. Only use flat colors when gradients do not work in context. Use dark type over the Primary color, and white type over the Secondary color.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Primary:&lt;/strong&gt; T4 Dreamsicle&lt;br/&gt;&lt;strong&gt;Secondary:&lt;/strong&gt; T3 Curaçao&lt;/p&gt;
+    &lt;br/&gt;&lt;br/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-md-9&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch swatch-grad-telegraf-a&#34;&gt;
+          &lt;label&gt;Gradient A&lt;/label&gt;
+          &lt;label&gt;T4 &amp;rarr; C4&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#FF8564 / #9394FF&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch swatch-grad-telegraf-b&#34;&gt;
+          &lt;label&gt;Gradient B&lt;/label&gt;
+          &lt;label&gt;T3 &amp;rarr; T4&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#F95F53 / #FF8564&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-6&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #F95F53;&#34;&gt;
+          &lt;label&gt;Curaçao&lt;/label&gt;
+          &lt;label&gt;T3&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#F95F53&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-6&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #FF8564;&#34;&gt;
+          &lt;label&gt;Dreamsicle&lt;/label&gt;
+          &lt;label&gt;T4&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#FF8564&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #2F1F29;&#34;&gt;
+          &lt;label&gt;Basalt&lt;/label&gt;
+          &lt;label&gt;T0&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#2F1F29&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #BF3D5E;&#34;&gt;
+          &lt;label&gt;Ruby&lt;/label&gt;
+          &lt;label&gt;T1&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#BF3D5E&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #DC4E58;&#34;&gt;
+          &lt;label&gt;Fire&lt;/label&gt;
+          &lt;label&gt;T2&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#DC4E58&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #FFB6A0;&#34;&gt;
+          &lt;label&gt;Tungsten&lt;/label&gt;
+          &lt;label&gt;T5&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#FFB6A0&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #FFDCCF;&#34;&gt;
+          &lt;label&gt;Marmelade&lt;/label&gt;
+          &lt;label&gt;T6&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#FFDCCF&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #FFF7F4;&#34;&gt;
+          &lt;label&gt;Flan&lt;/label&gt;
+          &lt;label&gt;T7&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#FFF7F4&lt;/code&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-md-3&#34;&gt;
+    &lt;h3&gt;InfluxDB&lt;/h3&gt;
+    &lt;p&gt;Putting the I in TICK, InfluxDB is the data storage component of the stack.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Usage Guidelines:&lt;/strong&gt;&lt;br/&gt;InfluxDB should be represented with a gradient when possible. Gradients are always horizontal; do not use vertical gradients. Gradient A is the primary gradient, but B is acceptable when A does not work in context. Only use flat colors when gradients do not work in context. Use white type over both the Primary and Secondary colors.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Primary:&lt;/strong&gt; I3 Pool&lt;br/&gt;&lt;strong&gt;Secondary:&lt;/strong&gt; I2 Ocean&lt;/p&gt;
+    &lt;br/&gt;&lt;br/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-md-9&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch dark swatch-grad-influxdb-a&#34;&gt;
+          &lt;label&gt;Gradient A&lt;/label&gt;
+          &lt;label&gt;I3 &amp;rarr; C4&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#22ADF6 / #9394FF&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch dark swatch-grad-influxdb-b&#34;&gt;
+          &lt;label&gt;Gradient B&lt;/label&gt;
+          &lt;label&gt;I2 &amp;rarr; I3&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#4591ED / #22ADF6&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #4591ED;&#34;&gt;
+          &lt;label&gt;Ocean&lt;/label&gt;
+          &lt;label&gt;I2&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#4591ED&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #22ADF6;&#34;&gt;
+          &lt;label&gt;Pool&lt;/label&gt;
+          &lt;label&gt;I3&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#22ADF6&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #182838;&#34;&gt;
+          &lt;label&gt;Abyss&lt;/label&gt;
+          &lt;label&gt;I0&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#182838&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #326BBA;&#34;&gt;
+          &lt;label&gt;Sapphire&lt;/label&gt;
+          &lt;label&gt;I1&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#326BBA&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #00C9FF;&#34;&gt;
+          &lt;label&gt;Laser&lt;/label&gt;
+          &lt;label&gt;I4&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#00C9FF&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #6BDFFF;&#34;&gt;
+          &lt;label&gt;Hydrogen&lt;/label&gt;
+          &lt;label&gt;I5&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#6BDFFF&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #BEF0FF;&#34;&gt;
+          &lt;label&gt;Neutrino&lt;/label&gt;
+          &lt;label&gt;I6&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#BEF0FF&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #F0FCFF;&#34;&gt;
+          &lt;label&gt;Yeti&lt;/label&gt;
+          &lt;label&gt;I7&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#F0FCFF&lt;/code&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-md-3&#34;&gt;
+    &lt;h3&gt;Chronograf&lt;/h3&gt;
+    &lt;p&gt;Putting the C in TICK, Chronograf is the data visualization component of the stack.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Usage Guidelines:&lt;/strong&gt;&lt;br/&gt;Chronograf should be represented with a gradient when possible. Gradients are always horizontal; do not use vertical gradients. Gradient A is the primary gradient, but B is acceptable when A does not work in context. Only use flat colors when gradients do not work in context. Use white type over both the Primary and Secondary colors.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Primary:&lt;/strong&gt; C4 Comet&lt;br/&gt;&lt;strong&gt;Secondary:&lt;/strong&gt; C3 Star&lt;/p&gt;
+    &lt;br/&gt;&lt;br/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-md-9&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch dark swatch-grad-chronograf-a&#34;&gt;
+          &lt;label&gt;Gradient A&lt;/label&gt;
+          &lt;label&gt;C3 &amp;rarr; I2&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#7A65F2 / #4591ED&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch dark swatch-grad-chronograf-b&#34;&gt;
+          &lt;label&gt;Gradient B&lt;/label&gt;
+          &lt;label&gt;C3 &amp;rarr; C4&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#7A65F2 / #9394FF&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #7A65F2;&#34;&gt;
+          &lt;label&gt;Star&lt;/label&gt;
+          &lt;label&gt;C3&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#7A65F2&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #9394FF;&#34;&gt;
+          &lt;label&gt;Comet&lt;/label&gt;
+          &lt;label&gt;C4&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#9394FF&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #1F2039;&#34;&gt;
+          &lt;label&gt;Shadow&lt;/label&gt;
+          &lt;label&gt;C0&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#1F2039&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #311F94;&#34;&gt;
+          &lt;label&gt;Void&lt;/label&gt;
+          &lt;label&gt;C1&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#311F94&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #513CC6;&#34;&gt;
+          &lt;label&gt;Planet&lt;/label&gt;
+          &lt;label&gt;C2&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#513CC6&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #B1B6FF;&#34;&gt;
+          &lt;label&gt;Potassium&lt;/label&gt;
+          &lt;label&gt;C5&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#B1B6FF&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #C9D0FF;&#34;&gt;
+          &lt;label&gt;Moonstone&lt;/label&gt;
+          &lt;label&gt;C6&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#C9D0FF&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #F2F4FF;&#34;&gt;
+          &lt;label&gt;Creme De Violette&lt;/label&gt;
+          &lt;label&gt;C7&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#F2F4FF&lt;/code&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-md-3&#34;&gt;
+    &lt;h3&gt;Kapacitor&lt;/h3&gt;
+    &lt;p&gt;Putting the K in TICK, Kapacitor is the data visualization component of the stack.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Usage Guidelines:&lt;/strong&gt;&lt;br/&gt;Kapacitor should be represented with a gradient when possible. Gradients are always horizontal; do not use vertical gradients. Gradient A is the primary gradient, but B is acceptable when A does not work in context. Only use flat colors when gradients do not work in context. Use dark type over the Primary color, and white type over the Secondary color.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Primary:&lt;/strong&gt; K3 Rainforest&lt;br/&gt;&lt;strong&gt;Secondary:&lt;/strong&gt; K4 Honeydew&lt;/p&gt;
+    &lt;br/&gt;&lt;br/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-md-9&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch swatch-grad-kapacitor-a&#34;&gt;
+          &lt;label&gt;Gradient A&lt;/label&gt;
+          &lt;label&gt;I4 &amp;rarr; K3&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#00C9FF / #4ED8A0&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch swatch-grad-kapacitor-b&#34;&gt;
+          &lt;label&gt;Gradient B&lt;/label&gt;
+          &lt;label&gt;K3 &amp;rarr; K4&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#4ED8A0 / #7CE490&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #4ED8A0;&#34;&gt;
+          &lt;label&gt;Rainforest&lt;/label&gt;
+          &lt;label&gt;K3&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#4ED8A0&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-6&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #7CE490;&#34;&gt;
+          &lt;label&gt;Honeydew&lt;/label&gt;
+          &lt;label&gt;K4&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#7CE490&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #152B2D;&#34;&gt;
+          &lt;label&gt;Gypsy&lt;/label&gt;
+          &lt;label&gt;K0&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#152B2D&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #108174;&#34;&gt;
+          &lt;label&gt;Emerald&lt;/label&gt;
+          &lt;label&gt;K1&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#108174&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch dark&#34; style=&#34;background-color: #32B08C;&#34;&gt;
+          &lt;label&gt;Viridian&lt;/label&gt;
+          &lt;label&gt;K2&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#32B08C&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #A5F3B4;&#34;&gt;
+          &lt;label&gt;Krypton&lt;/label&gt;
+          &lt;label&gt;K5&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#A5F3B4&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #C6FFD0;&#34;&gt;
+          &lt;label&gt;Wasabi&lt;/label&gt;
+          &lt;label&gt;K6&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#C6FFD0&lt;/code&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-xs-4 col-sm-2&#34;&gt;
+        &lt;div class=&#34;color-swatch&#34; style=&#34;background-color: #F2FFF4;&#34;&gt;
+          &lt;label&gt;Mint&lt;/label&gt;
+          &lt;label&gt;K7&lt;/label&gt;
+        &lt;/div&gt;
+        &lt;code class=&#34;color-hex&#34;&gt;#F2FFF4&lt;/code&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Primary Typeface</title>
+      <link>http://github.io/typography/primary/</link>
+      <pubDate>Tue, 24 Jan 2017 16:11:54 -0800</pubDate>
+      
+      <guid>http://github.io/typography/primary/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;Primary Typeface:&lt;br/&gt;Roboto Sans&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Usage Rules&lt;/h5&gt;
+    &lt;ol&gt;
+      &lt;li&gt;The Primary Typeface is for use in all contexts outside of the logo and its variations, including web, social media, and print graphics&lt;/li&gt;
+      &lt;li&gt;&#34;Thin&#34; weight should only be used at large sizes&lt;/li&gt;
+      &lt;li&gt;Occasional use of all caps to delineate titling is ideal&lt;/li&gt;
+      &lt;li&gt;If background is not white, use white type as much as possible&lt;/li&gt;
+      &lt;li&gt;Avoid using colored type on colored backgrounds&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-2&#34;&gt;
+    &lt;h5&gt;Glyph&lt;/h5&gt;
+    &lt;h1 class=&#34;type-sample--glyph&#34;&gt;Rr&lt;/h1&gt;
+    &lt;hr class=&#34;dark visible-xs-block&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-7&#34;&gt;
+    &lt;h5&gt;Styles&lt;/h5&gt;
+    &lt;h1 class=&#34;type-sample--weight100&#34;&gt;Roboto 100 Thin&lt;/h1&gt;
+    &lt;h1 class=&#34;type-sample--weight300&#34;&gt;Roboto 300 Light&lt;/h1&gt;
+    &lt;h1 class=&#34;type-sample--weight400&#34;&gt;Roboto 400 Regular&lt;/h1&gt;
+    &lt;h1 class=&#34;type-sample--weight500&#34;&gt;Roboto 500 Medium&lt;/h1&gt;
+    &lt;h1 class=&#34;type-sample--weight700&#34;&gt;Roboto 700 Bold&lt;/h1&gt;
+    &lt;h1 class=&#34;type-sample--weight900&#34;&gt;Roboto 900 Black&lt;/h1&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Characters&lt;/h5&gt;
+    &lt;p class=&#34;type-sample--characters&#34;&gt;​‌A​‌B​‌C​‌Ć​‌Č​‌D​‌Đ​‌E​‌F​‌G​‌H​‌I​‌J​‌K​‌L​‌M​‌N​‌O​‌P​‌Q​‌R​‌S​‌Š​‌T​‌U​‌V​‌W​‌X​‌Y​‌Z​‌Ž​‌a​‌b​‌c​‌č​‌ć​‌d​‌đ​‌e​‌f​‌g​‌h​‌i​‌j​‌k​‌l​‌m​‌n​‌o​‌p​‌q​‌r​‌s​‌š​‌t​‌u​‌v​‌w​‌x​‌y​‌z​‌ž​‌А​‌Б​‌В​‌Г​‌Ґ​‌Д​‌Ђ​‌Е​‌Ё​‌Є​‌Ж​‌З​‌Ѕ​‌И​‌І​‌Ї​‌Й​‌Ј​‌К​‌Л​‌Љ​‌М​‌НЊ​‌О​‌П​‌Р​‌С​‌Т​‌Ћ​‌У​‌Ў​‌Ф​‌Х​‌Ц​‌Ч​‌Џ​‌Ш​‌Щ​‌Ъ​‌Ы​‌Ь​‌Э​‌Ю​‌Я​‌а​‌б​‌в​‌г​‌ґ​‌д​‌ђ​‌е​‌ё​‌є​‌ж​‌з​‌ѕ​‌и​‌і​‌ї​‌й​‌ј​‌к​‌л​‌љ​‌м​‌н​‌њ​‌о​‌п​‌р​‌с​‌т​‌ћ​‌у​‌ў​‌ф​‌х​‌ц​‌ч​‌џ​‌ш​‌щ​‌ъ​‌ы​‌ь​‌э​‌ю​‌я​‌Α​‌Β​‌Γ​‌Δ​‌Ε​‌Ζ​‌Η​‌Θ​‌Ι​‌Κ​‌Λ​‌Μ​‌Ν​‌Ξ​‌Ο​‌Π​‌Ρ​‌Σ​Τ​‌Υ​‌Φ​‌Χ​‌Ψ​‌Ω​‌α​‌β​‌γ​‌δ​‌ε​‌ζ​‌η​‌θ​‌ι​‌κ​‌λ​‌μ​‌ν​‌ξ​‌ο​‌π​‌ρ​‌σ​‌τ​‌υ​‌φ​‌χ​‌ψ​‌ω​‌ά​‌Ά​‌έ​‌Έ​‌έ​‌Ή​‌ί​‌ϊ​‌ΐ​‌Ί​‌ό​‌Ό​‌ύ​‌ΰ​‌ϋ​‌Ύ​‌Ϋ​‌Ώ​‌Ă​‌Â​‌Ê​‌Ô​‌Ơ​‌Ư​‌ă​‌â​‌ê​‌ô​‌ơ​‌ư​‌1​‌2​‌3​‌4​‌5​‌6​‌7​‌8​‌9​‌0​‌‘​‌?​‌’​‌“​‌!​‌”​‌(​‌%​‌)​‌[​‌#​‌]​‌{​‌@​‌}​‌/​‌&amp;​‌&lt;​‌-​‌+​‌÷​‌×​‌=​‌&gt;​‌®​‌©​‌$​‌€​‌£​‌¥​‌¢​‌:​‌;​‌,​‌.​‌*&lt;/p&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Example Paragraph&lt;/h5&gt;
+    &lt;p&gt;VHS messenger bag craft beer food truck. Blog tofu williamsburg echo park, viral single-origin coffee umami before they sold out crucifix portland pop-up yuccie dreamcatcher air plant. Live-edge gastropub portland etsy, distillery polaroid waistcoat bushwick before they sold out. Heirloom wayfarers crucifix, sartorial banh mi kinfolk selvage artisan umami. Godard tacos asymmetrical tilde disrupt blue bottle post-ironic brooklyn. Fap try-hard art party, unicorn man braid hell of tote bag leggings cold-pressed raclette. Kale chips 90&#39;s 8-bit, mumblecore coloring book venmo dreamcatcher kickstarter.&lt;/p&gt;
+    &lt;p&gt;Salvia pork belly vinyl tousled air plant. Artisan vexillologist yr subway tile small batch, sriracha retro sustainable. Biodiesel normcore kale chips photo booth yuccie offal, tofu tattooed neutra authentic cold-pressed readymade activated charcoal. Slow-carb put a bird on it whatever, mixtape schlitz beard hell of meditation post-ironic chambray celiac cronut DIY leggings. Fap live-edge chicharrones, flexitarian yuccie photo booth brooklyn woke. Kitsch echo park unicorn craft beer, plaid occupy cred thundercats. Godard actually yuccie +1 ennui.&lt;/p&gt;
+    &lt;br class=&#34;visible-xs-block&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-3&#34;&gt;
+    &lt;hr class=&#34;dark visible-xs-block&#34; /&gt;
+    &lt;h5&gt;About the Typeface&lt;/h5&gt;
+    &lt;p&gt;Roboto has a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves. While some grotesks distort their letterforms to force a rigid rhythm, Roboto doesn’t compromise, allowing letters to be settled into their natural width. This makes for a more natural reading rhythm more commonly found in humanist and serif types.&lt;/p&gt;
+    &lt;p&gt;Designed by Christian Robertson&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>http://github.io/logo/story/</link>
+      <pubDate>Tue, 24 Jan 2017 16:11:54 -0800</pubDate>
+      
+      <guid>http://github.io/logo/story/</guid>
+      <description>&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;inception&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#inception&#34;&gt;
+        &lt;h1 class=&#34;margin-bottom-zero&#34;&gt;How The Cuboctahedron Came To Be:&lt;/h1&gt;
+        &lt;h4&gt;The Story Of Our Visual Journey From &lt;strong&gt;InfluxDB&lt;/strong&gt; to &lt;strong&gt;InfluxData&lt;/strong&gt;&lt;/h4&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2&#34;&gt;
+    &lt;img src=&#34;http://github.io/img/story/trigger.svg&#34; class=&#34;border&#34;/&gt;
+    &lt;p&gt;What began as InfluxDB will become &lt;strong&gt;InfluxData&lt;/strong&gt;; going from product to platform. InfluxDB will become one of four products known collectively as the &#34;TICK Stack&#34;. This transition of the company is the inception our efforts.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Our goals:&lt;/strong&gt;&lt;br/&gt;We want the logo to feel like a platform while maintaining its own unique identity. We wanted the company to feel like a larger player, armed with something cutting edge. We want the world to know we&#39;re dedicated to making time series data effortless.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2&#34;&gt;
+    &lt;h2&gt;Research&lt;/h2&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2&#34;&gt;
+    &lt;p&gt;Before starting the design process we wanted to become intimiately informed with the logo and branding efforts of our competition. Since our products are rather cutting edge, there are not many direct competitors. This presents us a rare opportunity to help define the visual culture of time series data. We collected and analyzed numerous PaaS, cloud, and software suite logos:&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/paas-research.jpg&#34; class=&#34;border&#34; /&gt;
+    &lt;span class=&#34;caption&#34;&gt;Logos of PaaS companies, and a few others&lt;/span&gt;
+    &lt;p&gt;We broke down the set of logos by different design elements. From this we isolated the &#34;most common&#34; way to represent a PaaS company, see our findings:&lt;/p&gt;
+    &lt;table class=&#34;table&#34;&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th&gt;Colors&lt;/th&gt;
+          &lt;th&gt;Forms&lt;/th&gt;
+          &lt;th&gt;Typography&lt;/th&gt;
+          &lt;th&gt;Presentation&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;th&gt;13 - Red&lt;/th&gt;
+          &lt;th&gt;15 - No Symbol&lt;/th&gt;
+          &lt;th&gt;14 - Lowercase&lt;/th&gt;
+          &lt;th&gt;24 - White&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;th&gt;11 - Blue&lt;/th&gt;
+          &lt;th&gt;6 - Hexagons&lt;/th&gt;
+          &lt;th&gt;9 - Capital&lt;/th&gt;
+          &lt;th&gt;14 - Inverse&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;th&gt;6 - Multi&lt;/th&gt;
+          &lt;th&gt;5 - Clouds&lt;/th&gt;
+          &lt;th&gt;8 - All Caps&lt;/th&gt;
+          &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;th&gt;4 - Green&lt;/th&gt;
+          &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+          &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+          &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;th&gt;3 - Other&lt;/th&gt;
+          &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+          &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+          &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+    &lt;p&gt;We concluded that the median logo would be red (or possibly blue), typography driven, and all lowercase. We were convinced that blue would be the dominant color and were surprised to see red. Red feels much more energetic and industrial than blue, which indicates the competition cares a lot about security and stability. We speculate the lack of symbols is probably because many of the brands we looked at are not consumer facing. We feel that lowercase is popular because it gives the logo a quieter, more unassuming presence. It also makes the company feel more approachable.&lt;/p&gt;
+    &lt;p&gt;Of the logos that had a symbol, hexagons were the dominant shape. Clouds as representations of &#34;the cloud&#34; were a close second. Hexagons seem like the go-to representation for data because of their clustering geometry. While both of these shapes are adequate as representations of their concepts, they are sadly literal. We knew we wanted to create something that defied the hexagon trend everyone else seemed to be using. We believe this will help the brand feel more &#34;cutting edge&#34;.&lt;/p&gt;
+    &lt;p&gt;We decided on a set of visual concepts we wanted our logo to utilize:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;In motion, not static&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;A whole made of atomic elements&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Building blocks&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Dimensionality&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;Next we decided to look beyond the PaaS space. We collected logos and graphics that matched our style goals. We discussed our findings and concluded that &lt;em&gt;interlocking &amp; repeated pieces&lt;/em&gt; and using a &lt;em&gt;full color spectrum&lt;/em&gt; were the main styles we liked. We wanted these styles to influence our direction but not dictate it.&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/inspiration.jpg&#34; class=&#34;border&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2&#34;&gt;
+    &lt;h2&gt;Exploration&lt;/h2&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2&#34;&gt;
+    &lt;p&gt;We began by trying to modify the existing InfluxDB logo. With a little adjusting, perhaps it might be able to work as our new logo. The existing logo is comprised of the flux capacitor symbol rotated evenly 5 times. Our first step was to try the same logo but with 6 parts instead of 5. From there we explored other related ideas:&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/idea-existing.jpg&#34; class=&#34;border&#34; /&gt;
+    &lt;p&gt;We really liked having 6 elements in the logo; using triangles and hexagons felt strong. Some of these ideas had potential, but we wanted somthing with more weight to it. We tried some ideas that made use of 3 &#34;parts&#34; as well.&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/idea-nodes.jpg&#34; class=&#34;border&#34; /&gt;
+    &lt;p&gt;Many designs later a pattern emerged: our silhouettes were almost entirely regular shapes. Even though we wanted to escape the hexagon trend, most of our ideas ended up being hexagons. Circles, triangles, and squares felt too basic and generic so we ruled those ideas out. Hexagons have different kinds of symmetry, and its silhouette affords us three dimensional shapes such as a cube.&lt;/p&gt;
+    &lt;p&gt;We knew the hexagons felt right, but we had to do something entirely new as to not blend in. Taking a break from designing, we began searching for objects with hexagonal silhouettes. We wanted to consider any and all angles to maximize our potential.&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/crop-circles.jpg&#34; class=&#34;border&#34; /&gt;
+    &lt;img src=&#34;http://github.io/img/story/snowflakes.png&#34; class=&#34;border&#34; /&gt;
+    &lt;img src=&#34;http://github.io/img/story/science.png&#34; class=&#34;border&#34; /&gt;
+    &lt;img src=&#34;http://github.io/img/story/sacred-geometry.png&#34; class=&#34;border&#34; /&gt;
+    &lt;span class=&#34;caption&#34;&gt;Sacred geometry&lt;/span&gt;
+    &lt;img src=&#34;http://github.io/img/story/microscope.jpg&#34; class=&#34;border&#34; /&gt;
+    &lt;span class=&#34;caption&#34;&gt;A cuboctahedron shaped diamond, 300&amp;mu;m across&lt;/span&gt;
+    &lt;p&gt;Amidst our research we stumbled upon something very interesting: a synthetic diamond crystal. Look at the sense of power in the shape, the solidarity and simplicity of structure. This naturally ocurring polyhedra is a cuboctohedron.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2&#34;&gt;
+    &lt;h2&gt;The Cuboctahedron&lt;/h2&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2&#34;&gt;
+    &lt;p&gt;If you were to transform a hexagon into three-dimensional space, it becomes a cuboctohedron. A cuboctohedron is made of squares and triangles equally distanced apart and most intriguing is that the length of all its vertices are equidistant to it’s center. Buckminster Fuller (Architect and creator of the geodesic dome), says it’s in a vector equilibrium, “the dynamic balance of tensional cosmic forces… can strikingly be developed around one nuclear sphere.” It is the only three-dimensional shape in a vector equalibrium, making it of artistic and spiritual significance to cultures around the world.&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/cuboctahedron-diagram.png&#34; class=&#34;border&#34; /&gt;
+    &lt;h4&gt;In History&lt;/h4&gt;
+    &lt;p&gt;The first recorded appearance of the cuboctahedron was in the 13 “Archimedean Solids” which identified &#34;pure forms&#34; of polyhedra. Long after, in 1497 it was illustrated by Leonardo Da Vinci in the book &lt;em&gt;De Divina Proportione&lt;/em&gt; where they discuss applications of geometry and the golden ratio. It made many appearances in 11th-13th century Japan as a symbol of divinity. Dr. Derald Langham uses the shape in his “circle gardening” technique calling it the unique shape that contains the &#34;five platonic solids that are the building blocks for all organic life.” In Nassim Haramein’s unified field theory, as he suggests that because of its vector equilibrium, the structure of space-time itself is cuboctahedral. In Star Trek, it made its appearance when some of its characters were turned into cuboctahedrons. Whatever the case, the shape has been linked to many meanings that position it as the crux of cosmic forces and time.&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/divina-proportione.png&#34; class=&#34;border&#34; /&gt;
+    &lt;span class=&#34;caption&#34;&gt;Leonardo da Vinci in Divina Proportione&lt;/span&gt;
+    &lt;h4&gt;Its Meaning to Us&lt;/h4&gt;
+    &lt;p&gt;The three-dimensional hexagon to us is a hexagon on steroids, we get the balance and strength conveyed by a hexagon but also the benefit of making it stand-out because it’s three dimensional and has a lot of powerful cultural meanings. We could easily bring the icon into 3D space which speaks to our future potential of being IoT. In this way it really speaks to the IoT world. Going back to our list of requirements, we feel it hits all the points pretty well.&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;In motion, not static&lt;/strong&gt; &lt;span class=&#34;text-color-success icon checkmark&#34;&gt;&lt;/span&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt; &lt;span class=&#34;text-color-success icon checkmark&#34;&gt;&lt;/span&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;A whole made of atomic elements&lt;/strong&gt; &lt;span class=&#34;text-color-success&#34;&gt;&lt;span class=&#34;icon checkmark&#34;&gt;&lt;/span&gt; is an atomic element&lt;/span&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Building blocks&lt;/strong&gt; &lt;span class=&#34;text-color-success icon checkmark&#34;&gt;&lt;/span&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Dimensionality&lt;/strong&gt; &lt;span class=&#34;text-color-success icon checkmark&#34;&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;Here’s our first version. Note the slight tilt, gives it some semblance of motion and playfulness. We varied the line widths to make the design feel more dynamic.&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/first-cuboctahedron.png&#34; class=&#34;border&#34; /&gt;
+    &lt;p&gt;Since the cuboctahedron is a three dimensional shape, we wanted to see if we could render it at other rotations.&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/seven-cuboctahedrons.png&#34; class=&#34;border&#34; /&gt;
+    &lt;p&gt;We quickly found two main directions we could take: outline or no outline:&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/outline-vs-no-outline.png&#34; class=&#34;border&#34; /&gt;
+    &lt;p&gt;While seemingly a simple detail, this decision had big implications for how the logo could and would be used. Having more colors is generally less flexible, and exhibits lack of curation. The outline looks great in one color but the thin lines start to disappear at small sizes. There was no clear winner, but we decided to move forward with the outline free option for the sake of exploration. Unsure about color, we tried all of them.&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/all-colors.jpg&#34; class=&#34;border&#34; /&gt;
+    &lt;p&gt;We experimented with clusters of cuboctahedrons, and tried incorporating the Flux Capacitor symbol from the original logo.&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/solid-variations.png&#34; class=&#34;border&#34; /&gt;
+    &lt;p&gt;Next we started placing our designs alongside the typographic component of the logo. Sometimes it can be hard to imagine a logo as yours when your company name isn&#39;t next to it.&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/logo-and-text.png&#34; class=&#34;border&#34; /&gt;
+    &lt;p&gt;The other facet to this challenge is the TICK stack. Although it currently isn&#39;t ready yet, we knew the InfluxData logo would have to play nice with the TICK stack. We already finished some rough designs for Chronograf logos, and had ideas for the others. We decided to start checking our designs against the stack for consistency. If we could design 4-5 logos at once that all felt related and cohesive we&#39;d be killing many birds with a single stone.&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/tick-stack-1.jpg&#34; class=&#34;border&#34; /&gt;
+    &lt;img src=&#34;http://github.io/img/story/tick-stack-2.png&#34; class=&#34;border&#34; /&gt;
+    &lt;p&gt;Hundreds of designs later, we were feeling a little lost and exhausted. After staring at something so long we weren&#39;t sure what looked right or wrong, so we took a break to refresh. Upon returning we reviewed our designs and narrow longformed it down to a handful of our best designs. Our goal was to pick one from this set:&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/lots-of-options.jpg&#34; class=&#34;border&#34; /&gt;
+    &lt;p&gt;We presented these ideas and there was no clear winner. Interestingly enough we revisited the decision between outlines and no outlines, becuase we felt the outline version felt more hand made. Even though we moved way beyond that logo, it still lingered in our minds. We decided to move forward with the first cuboctahedron we created, and to base the TICK stack logos on it.&lt;/p&gt;
+    &lt;p&gt;However, despite our efforts we felt it was too ambitious to design logos for each product in the stack simultaneously. We took a step back and had an epiphany: perhaps the stack didn&#39;t need individual logos. Since one of our goals with the rebrand was to make it very clear we are a platform, we didn&#39;t need each of our products fighting for customer headspace. We loved the original cuboctahedron so much we proposed this idea: what if every product uses the cuboctahedron, but have their own color?&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/color-coded.png&#34; class=&#34;border&#34; /&gt;
+    &lt;p&gt;Though we weren&#39;t 100% on the colors yet, the color coding approach immediately felt right. Everyone using any of our products would be exposed to the InfluxData brand via each product&#39;s logo. Also, if we ever want to add more products we have a lot of colors to choose from and no additional logos to design. We feel this decision will help keep us nimble as a brand.&lt;/p&gt;
+    &lt;p&gt;We debated choosing a brand color for InfluxData that was distinct from the others. Most companies have a primary brand color that they own. For example, Coca-cola has a trademarked blend of pigments that produces a red only they use. The same is likely true for other brands. Alternatively, there are brands that eschew color successfully. It&#39;s evidence that successful branding relies on more than visual cues. We knew we liked the logo because of its symbolism and simplicty, so why not keep it that way? And thus, InfluxData was born as a colorless brand. Our main color is technically white, as it is the sum of all colors (our products). Behold our final design:&lt;/p&gt;
+    &lt;img src=&#34;http://github.io/img/story/logo-regular/preview.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;p&gt;It’s important to explore all the options before arriving at a decision, and ultimately we came back to the original because it just stuck. We also realized that it would be better to work with one logo instead of multiple. Just like an all-star team shouting for attention vs a well-balanced team that works together, having multiple logos could create noise. Instead we decided to focus on the same symbol and create variation through color. We felt this served two goals, first allowing us to focus on imprinting one logo, and second creates this stronger notion of platform as everything is under the same logo but a different color.&lt;/p&gt;
+    &lt;br/&gt;
+    &lt;p&gt;&amp;mdash; Alex &amp; Ash&lt;br/&gt;&lt;em&gt;Influx Design Team&lt;/em&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Examples</title>
+      <link>http://github.io/artwork/examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.io/artwork/examples/</guid>
+      <description>&lt;p&gt;sdfsfsd&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keynote Templates</title>
+      <link>http://github.io/presentations/keynote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.io/presentations/keynote/</guid>
+      <description>&lt;p&gt;Logo story goes here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Swag</title>
+      <link>http://github.io/misc/swag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.io/misc/swag/</guid>
+      <description>&lt;p&gt;Logo story goes here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Themes</title>
+      <link>http://github.io/artwork/themes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.io/artwork/themes/</guid>
+      <description>
+
+&lt;p&gt;sdfsdfsdfsdfdsfs&lt;/p&gt;
+
+&lt;h3 id=&#34;markdown-header:1093b6bde036f76f5e2a6fa578b9a639&#34;&gt;markdown header&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;swag&lt;/li&gt;
+&lt;li&gt;swag&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sweeeeet:1093b6bde036f76f5e2a6fa578b9a639&#34;&gt;sweeeeet&lt;/h2&gt;
+
+&lt;h1 id=&#34;big-heading:1093b6bde036f76f5e2a6fa578b9a639&#34;&gt;big heading&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
