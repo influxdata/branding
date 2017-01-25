@@ -67,4 +67,13 @@ title = "Anatomy"
   <div class="col-sm-4 longform">
     <img src="/img/anatomy/complete-breathingroom.svg" class="border" />
   </div>
+  <div class="col-sm-4 longform">
+    <img src="/img/anatomy/complete-lines.svg" class="border" />
+  </div>
+  <div class="col-sm-4 longform">
+    <img src="/img/anatomy/complete-round1.svg" class="border" />
+  </div>
+  <div class="col-sm-4 longform">
+    <img src="/img/anatomy/complete-round2.svg" class="border" />
+  </div>
 </div>
