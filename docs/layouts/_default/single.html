@@ -19,5 +19,23 @@
       {{ .Content }}
     </div>
   </section>
+  <section class="docs-section">
+    <div class="container">
+      <div class="row text-left">
+        <div class="col-xs-6">
+        {{ if .PrevInSection }}
+          <p>Previous</p>
+          <h5><a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}</a></h5>
+        {{ end }}
+        </div>
+        <div class="col-xs-6 text-right">
+        {{ if .NextInSection }}
+          <p>Next</p>
+          <h5><a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}</a></h5>
+        {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
 </div>
 {{ partial "footer.html" . }}

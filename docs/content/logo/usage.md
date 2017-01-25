@@ -1,4 +1,5 @@
 +++
+date = "2017-01-24T16:11:56-08:00"
 draft = false
 title = "Usage Guidelines"
 [menu]
