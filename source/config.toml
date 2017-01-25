@@ -2,6 +2,7 @@ baseurl = "http://influxdata.github.io/branding/"
 languageCode = "en-us"
 title = "InfluxData Branding Docs"
 publishDir= "../docs"
+canonifyURLs = true
 
 [[menu.main]]
 	name = "Logo"

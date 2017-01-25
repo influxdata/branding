@@ -68,7 +68,7 @@
 &lt;div class=&#34;row logo-usage-example&#34;&gt;
   &lt;div class=&#34;col-sm-4&#34;&gt;
     &lt;h5&gt;Example 2&lt;/h5&gt;
-    &lt;p&gt;If placing the logo over an image and the image is too busy, darken or lighten the image using &lt;a href=&#39;http://influxdata.github.io/branding/branding/colors/palette/&#39;&gt;Brand Colors&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;If placing the logo over an image and the image is too busy, darken or lighten the image using &lt;a href=&#39;http://influxdata.github.io/branding/colors/palette/&#39;&gt;Brand Colors&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&#34;col-sm-8&#34;&gt;
     &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-trolleys.jpg);&#34;&gt;
@@ -172,7 +172,7 @@
 &lt;div class=&#34;row logo-usage-example&#34;&gt;
   &lt;div class=&#34;col-sm-4&#34;&gt;
     &lt;h5&gt;Example 10&lt;/h5&gt;
-    &lt;p&gt;Do not use true black. Instead use a dark grey from the &lt;a href=&#39;http://influxdata.github.io/branding/branding/colors/palette/&#39;&gt;Brand Palette&lt;/a&gt;. This helps maintain a small degree of softness which nicely juxtapozes the geometric structure of the logo&lt;/p&gt;
+    &lt;p&gt;Do not use true black. Instead use a dark grey from the &lt;a href=&#39;http://influxdata.github.io/branding/colors/palette/&#39;&gt;Brand Palette&lt;/a&gt;. This helps maintain a small degree of softness which nicely juxtapozes the geometric structure of the logo&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&#34;col-sm-8&#34;&gt;
     &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-bg-trueblack.svg);&#34;&gt;&lt;/div&gt;
@@ -205,7 +205,7 @@
 &lt;div class=&#34;row logo-usage-example&#34;&gt;
   &lt;div class=&#34;col-sm-4&#34;&gt;
     &lt;h5&gt;Example 13&lt;/h5&gt;
-    &lt;p&gt;Do not rearrange the logo. Vertical stacking is the worst offense. This breaks the harmony of line widths seen in &lt;a href=&#39;http://influxdata.github.io/branding/branding/logo/anatomy/&#39;&gt;Logo Anatomy&lt;/a&gt; which detracts from the logo&#39;s elegance&lt;/p&gt;
+    &lt;p&gt;Do not rearrange the logo. Vertical stacking is the worst offense. This breaks the harmony of line widths seen in &lt;a href=&#39;http://influxdata.github.io/branding/logo/anatomy/&#39;&gt;Logo Anatomy&lt;/a&gt; which detracts from the logo&#39;s elegance&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&#34;col-sm-8&#34;&gt;
     &lt;div class=&#34;logo-usage logo-usage--dont&#34; style=&#34;background-image: url(/img/logo-usage/example-vertical-bad.svg);&#34;&gt;&lt;/div&gt;
