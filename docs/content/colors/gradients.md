@@ -240,9 +240,3 @@ title = "Gradients & How To Use Them"
     <code class="color-hex">I7 Yeti / K7 Mint</code>
   </div>
 </div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <hr class="dark" />
-  </div>
-</div>

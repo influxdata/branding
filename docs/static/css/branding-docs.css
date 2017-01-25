@@ -360,15 +360,18 @@ section.docs-section:first-child {
   font-size: 110px;
 }
 .type-sample--characters {
-  font-size: 30px;
+  font-size: 30px !important;
   letter-spacing: 0.05em;
   font-weight: 300;
 }
 .type-sample--weight100,
+.type-sample--weight200,
 .type-sample--weight300,
 .type-sample--weight400,
 .type-sample--weight500,
+.type-sample--weight600,
 .type-sample--weight700,
+.type-sample--weight800,
 .type-sample--weight900 {
   margin: 0;
   font-size: 50px;
@@ -378,10 +381,13 @@ section.docs-section:first-child {
   font-weight: 100;
   margin-top: 0.55em;
 }
+.type-sample--weight200 {font-weight: 200;}
 .type-sample--weight300 {font-weight: 300;}
 .type-sample--weight400 {font-weight: 400;}
 .type-sample--weight500 {font-weight: 500;}
+.type-sample--weight600 {font-weight: 600;}
 .type-sample--weight700 {font-weight: 700;}
+.type-sample--weight800 {font-weight: 800;}
 .type-sample--weight900 {
   font-weight: 900;
   margin-bottom: 0.55em;
@@ -392,4 +398,10 @@ section.docs-section:first-child {
 }
 .type-sample--mono strong {
   font-weight: 700 !important;
+}
+.type-sample--klavika {
+  font-family: 'Klavika', 'Roboto', Helvetica, Arial, sans-serif;
+}
+.type-sample--klavika p {
+  font-size: 17px;
 }

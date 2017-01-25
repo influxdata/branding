@@ -22,7 +22,7 @@ title = "Story"
     </div>
   </div>
   <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-    <img src="/img/story/trigger.svg"/>
+    <img src="/img/story/trigger.svg" class="border"/>
     <p>What began as InfluxDB will become <strong>InfluxData</strong>; going from product to platform. InfluxDB will become one of four products known collectively as the "TICK Stack". This transition of the company is the inception our efforts.</p>
     <p><strong>Our goals:</strong><br/>We want the logo to feel like a platform while maintaining its own unique identity. We wanted the company to feel like a larger player, armed with something cutting edge. We want the world to know we're dedicated to making time series data effortless.</p>
   </div>

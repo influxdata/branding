@@ -19,6 +19,7 @@
       {{ .Content }}
     </div>
   </section>
+  {{ if or .PrevInSection .NextInSection }}
   <section class="docs-section">
     <div class="container">
       <div class="row text-left">
@@ -37,5 +38,6 @@
       </div>
     </div>
   </section>
+  {{ end }}
 </div>
 {{ partial "footer.html" . }}
