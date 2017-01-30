@@ -31,7 +31,194 @@ title = "Downloads"
 </div>
 
 <div class="row longform">
+  <div class="col-md-6">
+    <h5>Cuboctahedron</h5>
+    <img src="/img/downloads/influx-logo-cubo--preview.svg" class="border" />
+    <table class="table v-center">
+      <thead>
+        <tr>
+          <th>Format</th>
+          <th>Dimensions</th>
+          <th>Background</th>
+          <th>Logo Color</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-cubo-dark.ai" target="blank">AI</a></td>
+          <th>600x600</th>
+          <th>Transparent</th>
+          <th>G3 Castle</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-cubo-dark.svg" target="blank">SVG</a></td>
+          <th>600x600</th>
+          <th>Transparent</th>
+          <th>G3 Castle</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-cubo-dark.jpg" target="blank">JPG</a></td>
+          <th>900x900</th>
+          <th>G20 White</th>
+          <th>G3 Castle</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-cubo-dark.png" target="blank">PNG-24</a></td>
+          <th>900x900</th>
+          <th>Transparent</th>
+          <th>G3 Castle</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-cubo-dark-24.png" target="blank">PNG-8</a></td>
+          <th>900x900</th>
+          <th>G20 White</th>
+          <th>G3 Castle</th>
+        </tr>
+      </tbody>
+    </table>
+
+    <img src="/img/downloads/influx-logo-cubo-dark--preview.svg" class="border" />
+
+    <table class="table v-center">
+      <thead>
+        <tr>
+          <th>Format</th>
+          <th>Dimensions</th>
+          <th>Background</th>
+          <th>Logo Color</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-cubo.ai" target="blank">AI</a></td>
+          <th>600x600</th>
+          <th>Transparent</th>
+          <th>G20 White</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-cubo.svg" target="blank">SVG</a></td>
+          <th>600x600</th>
+          <th>Transparent</th>
+          <th>G20 White</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-cubo.jpg" target="blank">JPG</a></td>
+          <th>900x900</th>
+          <th>G3 Castle</th>
+          <th>G20 White</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-cubo-24.png" target="blank">PNG-24</a></td>
+          <th>900x900</th>
+          <th>Transparent</th>
+          <th>G20 White</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-cubo.png" target="blank">PNG-8</a></td>
+          <th>900x900</th>
+          <th>G3 Castle</th>
+          <th>G20 White</th>
+        </tr>
+      </tbody>
+    </table>
+    <hr class="dark visible-xs-block visible-sm-block" />
+  </div>
+  <div class="col-md-6">
+    <h5>Complete Logo</h5>
+    <img src="/img/downloads/influx-logo-complete--preview.svg" class="border" />
+    <table class="table v-center">
+      <thead>
+        <tr>
+          <th>Format</th>
+          <th>Dimensions</th>
+          <th>Background</th>
+          <th>Logo Color</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-complete-dark.ai" target="blank">AI</a></td>
+          <th>590x112</th>
+          <th>Transparent</th>
+          <th>G3 Castle</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-complete-dark.svg" target="blank">SVG</a></td>
+          <th>590x112</th>
+          <th>Transparent</th>
+          <th>G3 Castle</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-complete-dark.jpg" target="blank">JPG</a></td>
+          <th>1080x205</th>
+          <th>G20 White</th>
+          <th>G3 Castle</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-complete-dark-24.png" target="blank">PNG-24</a></td>
+          <th>1080x205</th>
+          <th>Transparent</th>
+          <th>G3 Castle</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-complete-dark.png" target="blank">PNG-8</a></td>
+          <th>1080x205</th>
+          <th>G20 White</th>
+          <th>G3 Castle</th>
+        </tr>
+      </tbody>
+    </table>
+
+    <img src="/img/downloads/influx-logo-complete-dark--preview.svg" class="border" />
+
+    <table class="table v-center">
+      <thead>
+        <tr>
+          <th>Format</th>
+          <th>Dimensions</th>
+          <th>Background</th>
+          <th>Logo Color</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-complete.ai" target="blank">AI</a></td>
+          <th>590x112</th>
+          <th>Transparent</th>
+          <th>G20 White</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-complete.svg" target="blank">SVG</a></td>
+          <th>590x112</th>
+          <th>Transparent</th>
+          <th>G20 White</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-complete.jpg" target="blank">JPG</a></td>
+          <th>1080x205</th>
+          <th>G3 Castle</th>
+          <th>G20 White</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-complete-24.png" target="blank">PNG-24</a></td>
+          <th>1080x205</th>
+          <th>Transparent</th>
+          <th>G20 White</th>
+        </tr>
+        <tr>
+          <td><a href="/img/downloads/influx-logo-complete.png" target="blank">PNG-8</a></td>
+          <th>1080x205</th>
+          <th>G3 Castle</th>
+          <th>G20 White</th>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="row longform">
   <div class="col-xs-12">
+    <hr class="dark" />
     <h5>Square Avatars</h5>
   </div>
   <div class="col-xs-4 col-md-3 col-lg-2">
