@@ -1,9 +1,36 @@
 .branding-splash {
+  background-image: url(../img/splash-artwork.svg);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 27%;
+}
+.home-gradient-background {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  z-index: 2;
+  width: 100%;
+  height: -webkit-calc(100% - 60px );
+  height: calc(100% - 60px );
+  overflow: auto;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  background-size: cover;
   background: #00C9FF;
   background: -moz-linear-gradient(-45deg,  #00C9FF 0%, #4ED8A0 100%);
   background: -webkit-linear-gradient(-45deg,  #00C9FF 0%,#4ED8A0 100%);
   background: linear-gradient(135deg,  #00C9FF 0%,#4ED8A0 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00C9FF', endColorstr='#4ED8A0',GradientType=1 );
+}
+@media (min-width: 768px) {
+  .home-gradient-background {
+    height: 100%;
+    width: -webkit-calc(100% - 60px );
+    width: calc(100% - 60px );
+    left: 60px;
+    top: 0;
+  }
 }
 
 .longform img {
