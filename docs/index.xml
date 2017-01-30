@@ -10,6 +10,280 @@
     <atom:link href="https://influxdata.github.io/branding/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Downloads</title>
+      <link>https://influxdata.github.io/branding/logo/downloads/</link>
+      <pubDate>Tue, 24 Jan 2017 16:11:58 -0800</pubDate>
+      
+      <guid>https://influxdata.github.io/branding/logo/downloads/</guid>
+      <description>&lt;div class=&#34;row text-left&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;Downloads&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Usage Rules&lt;/h5&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Logo must be used in accordance to the rules in this documentation&lt;/li&gt; 
+    &lt;/ol&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-md-6&#34;&gt;
+    &lt;h5&gt;Cuboctahedron&lt;/h5&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-cubo--preview.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;div class=&#34;panel panel-default&#34;&gt;
+      &lt;div class=&#34;panel-heading&#34;&gt;
+        &lt;h2 class=&#34;panel-title&#34;&gt;Downloads&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;table class=&#34;table v-center&#34;&gt;
+        &lt;thead&gt;
+          &lt;tr&gt;
+            &lt;th&gt;Format&lt;/th&gt;
+            &lt;th&gt;Dimensions&lt;/th&gt;
+            &lt;th&gt;Background&lt;/th&gt;
+            &lt;th&gt;Logo Color&lt;/th&gt;
+          &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-cubo-dark.ai&#34; target=&#34;blank&#34;&gt;AI&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;600x600&lt;/th&gt;
+            &lt;th&gt;Transparent&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-cubo-dark.svg&#34; target=&#34;blank&#34;&gt;SVG&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;600x600&lt;/th&gt;
+            &lt;th&gt;Transparent&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-cubo-dark.jpg&#34; target=&#34;blank&#34;&gt;JPG&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;900x900&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-cubo-dark.png&#34; target=&#34;blank&#34;&gt;PNG-24&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;900x900&lt;/th&gt;
+            &lt;th&gt;Transparent&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-cubo-dark-24.png&#34; target=&#34;blank&#34;&gt;PNG-8&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;900x900&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-cubo-dark--preview.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;div class=&#34;panel panel-default&#34;&gt;
+      &lt;div class=&#34;panel-heading&#34;&gt;
+        &lt;h2 class=&#34;panel-title&#34;&gt;Downloads&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;table class=&#34;table v-center&#34;&gt;
+        &lt;thead&gt;
+          &lt;tr&gt;
+            &lt;th&gt;Format&lt;/th&gt;
+            &lt;th&gt;Dimensions&lt;/th&gt;
+            &lt;th&gt;Background&lt;/th&gt;
+            &lt;th&gt;Logo Color&lt;/th&gt;
+          &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-cubo.ai&#34; target=&#34;blank&#34;&gt;AI&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;600x600&lt;/th&gt;
+            &lt;th&gt;Transparent&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-cubo.svg&#34; target=&#34;blank&#34;&gt;SVG&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;600x600&lt;/th&gt;
+            &lt;th&gt;Transparent&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-cubo.jpg&#34; target=&#34;blank&#34;&gt;JPG&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;900x900&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-cubo-24.png&#34; target=&#34;blank&#34;&gt;PNG-24&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;900x900&lt;/th&gt;
+            &lt;th&gt;Transparent&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-cubo.png&#34; target=&#34;blank&#34;&gt;PNG-8&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;900x900&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;hr class=&#34;dark visible-xs-block visible-sm-block&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-md-6&#34;&gt;
+    &lt;h5&gt;Complete Logo&lt;/h5&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete--preview.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;div class=&#34;panel panel-default&#34;&gt;
+      &lt;div class=&#34;panel-heading&#34;&gt;
+        &lt;h2 class=&#34;panel-title&#34;&gt;Downloads&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;table class=&#34;table v-center&#34;&gt;
+        &lt;thead&gt;
+          &lt;tr&gt;
+            &lt;th&gt;Format&lt;/th&gt;
+            &lt;th&gt;Dimensions&lt;/th&gt;
+            &lt;th&gt;Background&lt;/th&gt;
+            &lt;th&gt;Logo Color&lt;/th&gt;
+          &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete-dark.ai&#34; target=&#34;blank&#34;&gt;AI&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;590x112&lt;/th&gt;
+            &lt;th&gt;Transparent&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete-dark.svg&#34; target=&#34;blank&#34;&gt;SVG&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;590x112&lt;/th&gt;
+            &lt;th&gt;Transparent&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete-dark.jpg&#34; target=&#34;blank&#34;&gt;JPG&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;1080x205&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete-dark-24.png&#34; target=&#34;blank&#34;&gt;PNG-24&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;1080x205&lt;/th&gt;
+            &lt;th&gt;Transparent&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete-dark.png&#34; target=&#34;blank&#34;&gt;PNG-8&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;1080x205&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete-dark--preview.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;div class=&#34;panel panel-default&#34;&gt;
+      &lt;div class=&#34;panel-heading&#34;&gt;
+        &lt;h2 class=&#34;panel-title&#34;&gt;Downloads&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;table class=&#34;table v-center&#34;&gt;
+        &lt;thead&gt;
+          &lt;tr&gt;
+            &lt;th&gt;Format&lt;/th&gt;
+            &lt;th&gt;Dimensions&lt;/th&gt;
+            &lt;th&gt;Background&lt;/th&gt;
+            &lt;th&gt;Logo Color&lt;/th&gt;
+          &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete.ai&#34; target=&#34;blank&#34;&gt;AI&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;590x112&lt;/th&gt;
+            &lt;th&gt;Transparent&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete.svg&#34; target=&#34;blank&#34;&gt;SVG&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;590x112&lt;/th&gt;
+            &lt;th&gt;Transparent&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete.jpg&#34; target=&#34;blank&#34;&gt;JPG&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;1080x205&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete-24.png&#34; target=&#34;blank&#34;&gt;PNG-24&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;1080x205&lt;/th&gt;
+            &lt;th&gt;Transparent&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete.png&#34; target=&#34;blank&#34;&gt;PNG-8&lt;/a&gt;&lt;/td&gt;
+            &lt;th&gt;1080x205&lt;/th&gt;
+            &lt;th&gt;G3 Castle&lt;/th&gt;
+            &lt;th&gt;G20 White&lt;/th&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Square Avatars&lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-4 col-md-3 col-lg-2&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/avatars/square-a.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/avatars/square-a.jpg&#34; class=&#34;border&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-4 col-md-3 col-lg-2&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/avatars/square-b.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/avatars/square-b.jpg&#34; class=&#34;border&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-4 col-md-3 col-lg-2&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/avatars/square-c.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/avatars/square-c.jpg&#34; class=&#34;border&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-4 col-md-3 col-lg-2&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/avatars/square-d.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/avatars/square-d.jpg&#34; class=&#34;border&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-4 col-md-3 col-lg-2&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/avatars/square-e.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/avatars/square-e.jpg&#34; class=&#34;border&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-4 col-md-3 col-lg-2&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/avatars/square-f.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/avatars/square-f.jpg&#34; class=&#34;border&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-4 col-md-3 col-lg-2&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/avatars/square-g.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/avatars/square-g.jpg&#34; class=&#34;border&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-4 col-md-3 col-lg-2&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/avatars/square-h.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/avatars/square-h.jpg&#34; class=&#34;border&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-4 col-md-3 col-lg-2&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/avatars/square-telegraf.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/avatars/square-telegraf.jpg&#34; class=&#34;border&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-4 col-md-3 col-lg-2&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/avatars/square-influxdb.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/avatars/square-influxdb.jpg&#34; class=&#34;border&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-4 col-md-3 col-lg-2&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/avatars/square-chronograf.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/avatars/square-chronograf.jpg&#34; class=&#34;border&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-4 col-md-3 col-lg-2&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/avatars/square-kapacitor.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/avatars/square-kapacitor.jpg&#34; class=&#34;border&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Logo Typeface</title>
       <link>https://influxdata.github.io/branding/typography/logotype/</link>
       <pubDate>Tue, 24 Jan 2017 16:11:58 -0800</pubDate>
@@ -75,12 +349,51 @@
     </item>
     
     <item>
-      <title>Downloads</title>
-      <link>https://influxdata.github.io/branding/logo/downloads/</link>
+      <title>Variations</title>
+      <link>https://influxdata.github.io/branding/logo/variations/</link>
       <pubDate>Tue, 24 Jan 2017 16:11:57 -0800</pubDate>
       
-      <guid>https://influxdata.github.io/branding/logo/downloads/</guid>
-      <description>&lt;p&gt;Logo story goes here&lt;/p&gt;
+      <guid>https://influxdata.github.io/branding/logo/variations/</guid>
+      <description>&lt;div class=&#34;row text-left&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;Variations On The Logo&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Usage Rules&lt;/h5&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Variations are designed for products and services to fit within the InfluxData brand&lt;/li&gt;
+      &lt;li&gt;All variations follow the same format: Symbol + Bold + Light&lt;/li&gt;
+      &lt;li&gt;If your desired variation is not found here, contact &lt;a href=&#34;mailto:alex@influxdb.com&#34; target=&#34;_blank&#34;&gt;Alex&lt;/a&gt; and request it&lt;/li&gt;
+      &lt;li&gt;Logo Variations follow the &lt;a href=&#39;https://influxdata.github.io/branding/logo/usage/&#39;&gt;same rules&lt;/a&gt; specified for the main logo&lt;/li&gt;
+      &lt;li&gt;Most variations are prefixed with &#34;Influx&#34; but this is not required&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    &lt;h5&gt;Products&lt;/h5&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/logo-variations/influx-enterprise.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/logo-variations/telegraf.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/logo-variations/influx-db.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/logo-variations/chronograf.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/logo-variations/kapacitor.svg&#34; class=&#34;border&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    &lt;h5&gt;Services&lt;/h5&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/logo-variations/influx-cloud.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/logo-variations/influx-docs.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/logo-variations/influx-portal.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/logo-variations/influx-support.svg&#34; class=&#34;border&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1445,7 +1758,7 @@
     &lt;img src=&#34;https://influxdata.github.io/branding/img/story/color-coded.png&#34; class=&#34;border&#34; /&gt;
     &lt;p&gt;Though we weren&#39;t 100% on the colors yet, the color coding approach immediately felt right. Everyone using any of our products would be exposed to the InfluxData brand via each product&#39;s logo. Also, if we ever want to add more products we have a lot of colors to choose from and no additional logos to design. We feel this decision will help keep us nimble as a brand.&lt;/p&gt;
     &lt;p&gt;We debated choosing a brand color for InfluxData that was distinct from the others. Most companies have a primary brand color that they own. For example, Coca-cola has a trademarked blend of pigments that produces a red only they use. The same is likely true for other brands. Alternatively, there are brands that eschew color successfully. It&#39;s evidence that successful branding relies on more than visual cues. We knew we liked the logo because of its symbolism and simplicty, so why not keep it that way? And thus, InfluxData was born as a colorless brand. Our main color is technically white, as it is the sum of all colors (our products). Behold our final design:&lt;/p&gt;
-    &lt;img src=&#34;https://influxdata.github.io/branding/img/story/logo-regular/preview.svg&#34; class=&#34;border&#34; /&gt;
+    &lt;img src=&#34;https://influxdata.github.io/branding/img/downloads/influx-logo-complete--preview.svg&#34; class=&#34;border&#34; /&gt;
     &lt;p&gt;It’s important to explore all the options before arriving at a decision, and ultimately we came back to the original because it just stuck. We also realized that it would be better to work with one logo instead of multiple. Just like an all-star team shouting for attention vs a well-balanced team that works together, having multiple logos could create noise. Instead we decided to focus on the same symbol and create variation through color. We felt this served two goals, first allowing us to focus on imprinting one logo, and second creates this stronger notion of platform as everything is under the same logo but a different color.&lt;/p&gt;
     &lt;br/&gt;
     &lt;p&gt;&amp;mdash; Alex &amp; Ash&lt;br/&gt;&lt;em&gt;Influx Design Team&lt;/em&gt;&lt;/p&gt;
@@ -1455,12 +1768,72 @@
     </item>
     
     <item>
-      <title>Examples</title>
-      <link>https://influxdata.github.io/branding/artwork/examples/</link>
+      <title>Artwork</title>
+      <link>https://influxdata.github.io/branding/artwork/artwork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://influxdata.github.io/branding/artwork/examples/</guid>
-      <description>&lt;p&gt;sdfsfsd&lt;/p&gt;
+      <guid>https://influxdata.github.io/branding/artwork/artwork/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;Widescreen Artwork For Web &amp; Print&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Usage Rules&lt;/h5&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Best used as backgrounds beneath text or other graphics&lt;/li&gt;
+      &lt;li&gt;Works well in Hero images on the website&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;h5&gt;Ready to Use Images&lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/artwork/hero-1.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/artwork/hero-1-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/artwork/hero-2.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/artwork/hero-2-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/artwork/hero-3.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/artwork/hero-3-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/artwork/hero-4.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/artwork/hero-4-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/artwork/hero-5.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/artwork/hero-5-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/artwork/hero-6.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/artwork/hero-6-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/artwork/hero-7.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/artwork/hero-7-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/artwork/hero-8.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/artwork/hero-8-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/artwork/hero-9.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/artwork/hero-9-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/artwork/hero-10.png&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/artwork/hero-10-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/artwork/hero-11.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/artwork/hero-11-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/artwork/hero-12.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/artwork/hero-12-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1471,6 +1844,64 @@
       
       <guid>https://influxdata.github.io/branding/presentations/keynote/</guid>
       <description>&lt;p&gt;Logo story goes here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://influxdata.github.io/branding/artwork/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://influxdata.github.io/branding/artwork/photography/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;Gradient Mapped Photography&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+    &lt;h5&gt;Usage Rules&lt;/h5&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Best used as backgrounds beneath text or other graphics&lt;/li&gt;
+      &lt;li&gt;Works well in Hero images on the website&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;hr class=&#34;dark&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;h5&gt;Ready to Use Images&lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/photography/photo-1.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/photography/photo-1-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/photography/photo-2.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/photography/photo-2-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/photography/photo-3.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/photography/photo-3-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/photography/photo-4.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/photography/photo-4-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/photography/photo-5.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/photography/photo-5-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/photography/photo-6.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/photography/photo-6-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/photography/photo-7.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/photography/photo-7-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-xs-6 col-sm-3&#34;&gt;
+    &lt;a href=&#34;https://influxdata.github.io/branding/img/photography/photo-8.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://influxdata.github.io/branding/img/photography/photo-8-thumb.jpg&#34; class=&#34;border&#34;/&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1490,20 +1921,72 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://influxdata.github.io/branding/artwork/themes/</guid>
-      <description>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;Themes in Brand Imagery&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;sdfsdfsdfsdfdsfs&lt;/p&gt;
-
-&lt;h3 id=&#34;markdown-header:1093b6bde036f76f5e2a6fa578b9a639&#34;&gt;markdown header&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;swag&lt;/li&gt;
-&lt;li&gt;swag&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;sweeeeet:1093b6bde036f76f5e2a6fa578b9a639&#34;&gt;sweeeeet&lt;/h2&gt;
-
-&lt;h1 id=&#34;big-heading:1093b6bde036f76f5e2a6fa578b9a639&#34;&gt;big heading&lt;/h1&gt;
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Photography&lt;/h5&gt;
+    &lt;img class=&#34;border&#34; src=&#34;https://influxdata.github.io/branding/img/artwork-themes/ex-photo.jpg&#34; /&gt;
+    &lt;img class=&#34;border&#34; src=&#34;https://influxdata.github.io/branding/img/artwork-themes/ex-photo-2.jpg&#34; /&gt;
+    &lt;p&gt;&lt;strong&gt;Guidelines:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Photography must always be gradient mapped using the Brand Neutrals&lt;/li&gt;
+      &lt;li&gt;Gradient map effect makes the photography easy to place type or graphics over&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;&lt;strong&gt;Themes:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Architecture&lt;/em&gt; - Minimalistic, organic forms are ideal. Focus on lines that extend beyond the frame as well as repeating patterns&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Water&lt;/em&gt; - Avoid high noise imagery (such as splashes). Best to use images that capture the fluidity of water&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;San Francisco&lt;/em&gt; - Images of our HQ city&#39;s landmarks are acceptable&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;hr class=&#34;dark visible-xs-block&#34;/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Graphics + Photography&lt;/h5&gt;
+    &lt;img class=&#34;border&#34; src=&#34;https://influxdata.github.io/branding/img/artwork-themes/ex-graphic-wave.jpg&#34; /&gt;
+    &lt;img class=&#34;border&#34; src=&#34;https://influxdata.github.io/branding/img/artwork-themes/ex-graphic-color.jpg&#34; /&gt;
+    &lt;p&gt;&lt;strong&gt;Guidelines:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Photography should be modified to follow the Brand Colors&lt;/li&gt;
+      &lt;li&gt;Unusual rotations and framing are ideal, avoid literal representations&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Strong Compositions&lt;/em&gt; - Lines extend beyond the frame, diagonal lines preferred, create sense of dynamic motion&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;&lt;strong&gt;Themes:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Nature vs. Technology&lt;/em&gt; - Combine images in a harmonious way, the two should flow together seamlessly&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Wrangling Data&lt;/em&gt; - Use graphics and photography to communicate containment of data. In above example: net + clouds&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Epic Scale&lt;/em&gt; - Combinations that communicate scale are ideal, this can be achieved through dense patterns and vanishing points&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;hr class=&#34;dark visible-xs-block&#34;/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-4&#34;&gt;
+    &lt;h5&gt;Graphics&lt;/h5&gt;
+    &lt;img class=&#34;border&#34; src=&#34;https://influxdata.github.io/branding/img/artwork-themes/ex-graphic-mesh.jpg&#34; /&gt;
+    &lt;img class=&#34;border&#34; src=&#34;https://influxdata.github.io/branding/img/artwork-themes/ex-graphic-mesh-2.jpg&#34; /&gt;
+    &lt;p&gt;&lt;strong&gt;Guidelines:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;No literal representations&lt;/li&gt;
+      &lt;li&gt;Linework + gradients&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;&lt;strong&gt;Themes:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Meshes&lt;/em&gt; - Also known as 3D wireframes, usually abstract and resembling waves or mountains. Position at interesting angles over gradient backgrounds&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Gradients&lt;/em&gt; - Subtle gradients everywhere, helps the graphics feel more rich. Avoid solid backgrounds unless dark grey or offwhite&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Patterns &amp; Repetition&lt;/em&gt; - Graphics depicting dense and repetitive patterns are ideal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     

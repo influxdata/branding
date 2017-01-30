@@ -8,12 +8,17 @@
   </url>
   
   <url>
+    <loc>https://influxdata.github.io/branding/logo/downloads/</loc>
+    <lastmod>2017-01-24T16:11:58-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://influxdata.github.io/branding/typography/logotype/</loc>
     <lastmod>2017-01-24T16:11:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://influxdata.github.io/branding/logo/downloads/</loc>
+    <loc>https://influxdata.github.io/branding/logo/variations/</loc>
     <lastmod>2017-01-24T16:11:57-08:00</lastmod>
   </url>
   
@@ -53,11 +58,15 @@
   </url>
   
   <url>
-    <loc>https://influxdata.github.io/branding/artwork/examples/</loc>
+    <loc>https://influxdata.github.io/branding/artwork/artwork/</loc>
   </url>
   
   <url>
     <loc>https://influxdata.github.io/branding/presentations/keynote/</loc>
+  </url>
+  
+  <url>
+    <loc>https://influxdata.github.io/branding/artwork/photography/</loc>
   </url>
   
   <url>
