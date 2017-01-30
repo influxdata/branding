@@ -58,4 +58,16 @@ title = "Artwork"
   <div class="col-xs-6 col-sm-3">
     <a href="/img/artwork/hero-8.jpg" target="_blank"><img src="/img/artwork/hero-8-thumb.jpg" class="border"/></a>
   </div>
+  <div class="col-xs-6 col-sm-3">
+    <a href="/img/artwork/hero-9.jpg" target="_blank"><img src="/img/artwork/hero-9-thumb.jpg" class="border"/></a>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <a href="/img/artwork/hero-10.png" target="_blank"><img src="/img/artwork/hero-10-thumb.jpg" class="border"/></a>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <a href="/img/artwork/hero-11.jpg" target="_blank"><img src="/img/artwork/hero-11-thumb.jpg" class="border"/></a>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <a href="/img/artwork/hero-12.jpg" target="_blank"><img src="/img/artwork/hero-12-thumb.jpg" class="border"/></a>
+  </div>
 </div>
