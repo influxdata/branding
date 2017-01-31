@@ -1,13 +1,25 @@
 +++
 draft = false
-title = "Keynote Templates"
+title = "Keynote Template"
 [menu]
   [menu.main]
-    name = "Keynote Templates"
+    name = "Keynote Template"
     parent = "presentations"
     identifier = "fonts"
     weight = 1
     url = "/presentations/keynote/"
 +++
 
-Logo story goes here
+<div class="row">
+  <div class="col-xs-12">
+    <div class="page-header">
+      <a class="page-header--anchor" id="title"></a>
+      <a href="#title">
+        <h1>Influx Keynote Template</h1>
+      </a>
+    </div>
+  </div>
+  <div class="col-xs-12">
+  	<h5>Coming Soon</h5>
+  </div>
+</div>
