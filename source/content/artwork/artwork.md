@@ -6,7 +6,7 @@ title = "Artwork"
     name = "Artwork"
     parent = "artwork"
     identifier = "artwork-sub"
-    weight = 3
+    weight = 4
     url = "/artwork/artwork/"
 +++
 

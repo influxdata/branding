@@ -79,6 +79,139 @@
     </item>
     
     <item>
+      <title>Mascots</title>
+      <link>https://influxdata.github.io/branding/artwork/mascots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://influxdata.github.io/branding/artwork/mascots/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;div class=&#34;page-header&#34;&gt;
+      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
+      &lt;a href=&#34;#title&#34;&gt;
+        &lt;h1&gt;TICK Stack Mascots&lt;/h1&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;p&gt;We make use of animal mascots to add more personality to the brand. They are not the official representations of our products or The TICK Stack as a whole. The mascots are primarily used in promotional material such as stickers and merchandise. Each product has an associated animal that uses the same starting character &lt;em&gt;(Except Chronograf)&lt;/em&gt;.&lt;/p&gt;
+    &lt;hr class=&#34;dark&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-sm-3&#34;&gt;
+    &lt;h3&gt;Telegraf&lt;/h3&gt;
+    &lt;h5&gt;&lt;strong&gt;Tiger&lt;/strong&gt;&lt;/h5&gt;
+    &lt;img class=&#34;border&#34; src=&#34;https://influxdata.github.io/branding/img/mascots/telegraf.png&#34; alt=&#34;Telegraf Tiger&#34;/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-3&#34;&gt;
+    &lt;h3&gt;InfluxDB&lt;/h3&gt;
+    &lt;h5&gt;&lt;strong&gt;I&#39;iwi&lt;/strong&gt;&lt;/h5&gt;
+    &lt;img class=&#34;border&#34; src=&#34;https://influxdata.github.io/branding/img/mascots/influxdb.png&#34; alt=&#34;InfluxDB I&#39;iwi&#34;/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-3&#34;&gt;
+    &lt;h3&gt;Chronograf&lt;/h3&gt;
+    &lt;h5&gt;&lt;strong&gt;Giraffe&lt;/strong&gt;&lt;/h5&gt;
+    &lt;img class=&#34;border&#34; src=&#34;https://influxdata.github.io/branding/img/mascots/chronograf.png&#34; alt=&#34;Chronogiraffe&#34;/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-3&#34;&gt;
+    &lt;h3&gt;Kapacitor&lt;/h3&gt;
+    &lt;h5&gt;&lt;strong&gt;Koala&lt;/strong&gt;&lt;/h5&gt;
+    &lt;img class=&#34;border&#34; src=&#34;https://influxdata.github.io/branding/img/mascots/kapacitor.png&#34; alt=&#34;Kapacitor Koala&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row longform&#34;&gt;
+  &lt;div class=&#34;col-xs-12&#34;&gt;
+    &lt;hr class=&#34;dark&#34;/&gt;
+    &lt;h3&gt;Downloads&lt;/h3&gt;
+    &lt;br/&gt;&lt;br/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    &lt;div class=&#34;panel panel-default&#34;&gt;
+      &lt;div class=&#34;panel-heading&#34;&gt;
+        &lt;h2 class=&#34;panel-title&#34;&gt;Color + Transparent Background&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;table class=&#34;table v-center&#34;&gt;
+        &lt;thead&gt;
+          &lt;tr&gt;
+            &lt;th&gt;Product&lt;/th&gt;
+            &lt;th&gt;Format&lt;/th&gt;
+            &lt;th&gt;Dimensions&lt;/th&gt;
+          &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td&gt;Telegraf&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/mascots/mascot-telegraf--transparent_png.png&#34; target=&#34;blank&#34;&gt;PNG-24&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;400x268&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;InfluxDB&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/mascots/mascot-influxdb--transparent_png.png&#34; target=&#34;blank&#34;&gt;PNG-24&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;400x295&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;Chronograf&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/mascots/mascot-chronograf--transparent_png.png&#34; target=&#34;blank&#34;&gt;PNG-24&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;339x400&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;Kapacitor&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/mascots/mascot-kapacitor--transparent_png.png&#34; target=&#34;blank&#34;&gt;PNG-24&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;280x380&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    &lt;div class=&#34;panel panel-default&#34;&gt;
+      &lt;div class=&#34;panel-heading&#34;&gt;
+        &lt;h2 class=&#34;panel-title&#34;&gt;Color + White Background&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;table class=&#34;table v-center&#34;&gt;
+        &lt;thead&gt;
+          &lt;tr&gt;
+            &lt;th&gt;Product&lt;/th&gt;
+            &lt;th&gt;Format&lt;/th&gt;
+            &lt;th&gt;Dimensions&lt;/th&gt;
+          &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td&gt;Telegraf&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/mascots/mascot-telegraf--white_png.png&#34; target=&#34;blank&#34;&gt;PNG-8&lt;/a&gt; / &lt;a href=&#34;https://influxdata.github.io/branding/img/mascots/mascot-telegraf--white_jpg.jpg&#34; target=&#34;_blank&#34;&gt;JPG&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;400x268&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;InfluxDB&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/mascots/mascot-influxdb--white_png.png&#34; target=&#34;blank&#34;&gt;PNG-8&lt;/a&gt; / &lt;a href=&#34;https://influxdata.github.io/branding/img/mascots/mascot-influxdb--white_jpg.jpg&#34; target=&#34;_blank&#34;&gt;JPG&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;400x295&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;Chronograf&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/mascots/mascot-chronograf--white_png.png&#34; target=&#34;blank&#34;&gt;PNG-8&lt;/a&gt; / &lt;a href=&#34;https://influxdata.github.io/branding/img/mascots/mascot-chronograf--white_jpg.jpg&#34; target=&#34;_blank&#34;&gt;JPG&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;339x400&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;Kapacitor&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://influxdata.github.io/branding/img/mascots/mascot-kapacitor--white_png.png&#34; target=&#34;blank&#34;&gt;PNG-8&lt;/a&gt; / &lt;a href=&#34;https://influxdata.github.io/branding/img/mascots/mascot-kapacitor--white_jpg.jpg&#34; target=&#34;_blank&#34;&gt;JPG&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;280x380&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Photography</title>
       <link>https://influxdata.github.io/branding/artwork/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
