@@ -24,7 +24,7 @@ title = "Downloads"
     <hr class="dark" />
     <h5>Usage Rules</h5>
     <ol>
-      <li>Logo must be used in accordance to the rules in this documentation</li> 
+      <li>Logo must be used in accordance to the rules in this documentation</li>
     </ol>
     <hr class="dark" />
   </div>
@@ -67,13 +67,13 @@ title = "Downloads"
             <th>G3 Castle</th>
           </tr>
           <tr>
-            <td><a href="/img/downloads/influx-logo-cubo-dark.png" target="blank">PNG-24</a></td>
+            <td><a href="/img/downloads/influx-logo-cubo-dark-24.png" target="blank">PNG-24</a></td>
             <th>900x900</th>
             <th>Transparent</th>
             <th>G3 Castle</th>
           </tr>
           <tr>
-            <td><a href="/img/downloads/influx-logo-cubo-dark-24.png" target="blank">PNG-8</a></td>
+            <td><a href="/img/downloads/influx-logo-cubo-dark.png" target="blank">PNG-8</a></td>
             <th>900x900</th>
             <th>G20 White</th>
             <th>G3 Castle</th>
