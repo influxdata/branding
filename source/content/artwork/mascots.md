@@ -72,7 +72,7 @@ title = "Mascots"
       <table class="table v-center">
         <thead>
           <tr>
-            <th>Product</th>
+            <th>Mascot</th>
             <th>Format</th>
             <th>Dimensions</th>
           </tr>
@@ -115,7 +115,7 @@ title = "Mascots"
       <table class="table v-center">
         <thead>
           <tr>
-            <th>Product</th>
+            <th>Mascot</th>
             <th>Format</th>
             <th>Dimensions</th>
           </tr>
