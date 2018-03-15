@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Jan 2017 16:11:58 -0800</lastBuildDate>
-    <atom:link href="https://influxdata.github.io/branding/typography/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://influxdata.github.io/branding/typography/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Logo Typeface</title>
@@ -15,63 +17,8 @@
       <pubDate>Tue, 24 Jan 2017 16:11:58 -0800</pubDate>
       
       <guid>https://influxdata.github.io/branding/typography/logotype/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-xs-12&#34;&gt;
-    &lt;div class=&#34;page-header&#34;&gt;
-      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
-      &lt;a href=&#34;#title&#34;&gt;
-        &lt;h1&gt;Logo Typeface:&lt;br/&gt;Klavika Italic&lt;/h1&gt;
-      &lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-xs-12&#34;&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-    &lt;h5&gt;Usage Rules&lt;/h5&gt;
-    &lt;ol&gt;
-      &lt;li&gt;Only used in the Logo and its variations&lt;/li&gt;
-      &lt;li&gt;in the logo, two weights are used: Bold &amp; Light&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-sm-2&#34;&gt;
-    &lt;h5&gt;Glyph&lt;/h5&gt;
-    &lt;div class=&#34;type-sample--klavika&#34;&gt;
-      &lt;h1 class=&#34;type-sample--glyph&#34;&gt;Rr&lt;/h1&gt;
-    &lt;/div&gt;
-    &lt;hr class=&#34;dark visible-xs-block&#34; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-sm-7&#34;&gt;
-    &lt;h5&gt;Styles&lt;/h5&gt;
-    &lt;div class=&#34;type-sample--klavika&#34;&gt;
-      &lt;h1 class=&#34;type-sample--weight200&#34;&gt;Klavika Italic 200 Light&lt;/h1&gt;
-      &lt;h1 class=&#34;type-sample--weight400&#34;&gt;Klavika Italic 400 Regular&lt;/h1&gt;
-      &lt;h1 class=&#34;type-sample--weight600&#34;&gt;Klavika Italic 600 Medium&lt;/h1&gt;
-      &lt;h1 class=&#34;type-sample--weight800&#34;&gt;Klavika Italic 800 Bold&lt;/h1&gt;
-    &lt;/div&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-    &lt;h5&gt;Characters&lt;/h5&gt;
-    &lt;div class=&#34;type-sample--klavika&#34;&gt;
-      &lt;p class=&#34;type-sample--characters&#34;&gt;​‌A​‌B​‌C​‌Ć​‌Č​‌D​‌Đ​‌E​‌F​‌G​‌H​‌I​‌J​‌K​‌L​‌M​‌N​‌O​‌P​‌Q​‌R​‌S​‌Š​‌T​‌U​‌V​‌W​‌X​‌Y​‌Z​‌Ž​‌a​‌b​‌c​‌č​‌ć​‌d​‌đ​‌e​‌f​‌g​‌h​‌i​‌j​‌k​‌l​‌m​‌n​‌o​‌p​‌q​‌r​‌s​‌š​‌t​‌u​‌v​‌w​‌x​‌y​‌z​‌ž​‌А​‌Б​‌В​‌Г​‌Ґ​‌Д​‌Ђ​‌Е​‌Ё​‌Є​‌Ж​‌З​‌Ѕ​‌И​‌І​‌Ї​‌Й​‌Ј​‌К​‌Л​‌Љ​‌М​‌НЊ​‌О​‌П​‌Р​‌С​‌Т​‌Ћ​‌У​‌Ў​‌Ф​‌Х​‌Ц​‌Ч​‌Џ​‌Ш​‌Щ​‌Ъ​‌Ы​‌Ь​‌Э​‌Ю​‌Я​‌а​‌б​‌в​‌г​‌ґ​‌д​‌ђ​‌е​‌ё​‌є​‌ж​‌з​‌ѕ​‌и​‌і​‌ї​‌й​‌ј​‌к​‌л​‌љ​‌м​‌н​‌њ​‌о​‌п​‌р​‌с​‌т​‌ћ​‌у​‌ў​‌ф​‌х​‌ц​‌ч​‌џ​‌ш​‌щ​‌ъ​‌ы​‌ь​‌э​‌ю​‌я​‌Α​‌Β​‌Γ​‌Δ​‌Ε​‌Ζ​‌Η​‌Θ​‌Ι​‌Κ​‌Λ​‌Μ​‌Ν​‌Ξ​‌Ο​‌Π​‌Ρ​‌Σ​Τ​‌Υ​‌Φ​‌Χ​‌Ψ​‌Ω​‌α​‌β​‌γ​‌δ​‌ε​‌ζ​‌η​‌θ​‌ι​‌κ​‌λ​‌μ​‌ν​‌ξ​‌ο​‌π​‌ρ​‌σ​‌τ​‌υ​‌φ​‌χ​‌ψ​‌ω​‌ά​‌Ά​‌έ​‌Έ​‌έ​‌Ή​‌ί​‌ϊ​‌ΐ​‌Ί​‌ό​‌Ό​‌ύ​‌ΰ​‌ϋ​‌Ύ​‌Ϋ​‌Ώ​‌Ă​‌Â​‌Ê​‌Ô​‌Ơ​‌Ư​‌ă​‌â​‌ê​‌ô​‌ơ​‌ư​‌1​‌2​‌3​‌4​‌5​‌6​‌7​‌8​‌9​‌0​‌‘​‌?​‌’​‌“​‌!​‌”​‌(​‌%​‌)​‌[​‌#​‌]​‌{​‌@​‌}​‌/​‌&amp;​‌&lt;​‌-​‌+​‌÷​‌×​‌=​‌&gt;​‌®​‌©​‌$​‌€​‌£​‌¥​‌¢​‌:​‌;​‌,​‌.​‌*&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-    &lt;h5&gt;Example Paragraph&lt;/h5&gt;
-    &lt;div class=&#34;type-sample--klavika&#34;&gt;
-      &lt;p&gt;VHS messenger bag craft beer food truck. Blog tofu williamsburg echo park, viral single-origin coffee umami before they sold out crucifix portland pop-up yuccie dreamcatcher air plant. Live-edge gastropub portland etsy, distillery polaroid waistcoat bushwick before they sold out. Heirloom wayfarers crucifix, sartorial banh mi kinfolk selvage artisan umami. Godard tacos asymmetrical tilde disrupt blue bottle post-ironic brooklyn. Fap try-hard art party, unicorn man braid hell of tote bag leggings cold-pressed raclette. Kale chips 90&#39;s 8-bit, mumblecore coloring book venmo dreamcatcher kickstarter.&lt;/p&gt;
-      &lt;p&gt;Salvia pork belly vinyl tousled air plant. Artisan vexillologist yr subway tile small batch, sriracha retro sustainable. Biodiesel normcore kale chips photo booth yuccie offal, tofu tattooed neutra authentic cold-pressed readymade activated charcoal. Slow-carb put a bird on it whatever, mixtape schlitz beard hell of meditation post-ironic chambray celiac cronut DIY leggings. Fap live-edge chicharrones, flexitarian yuccie photo booth brooklyn woke. Kitsch echo park unicorn craft beer, plaid occupy cred thundercats. Godard actually yuccie +1 ennui.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;br class=&#34;visible-xs-block&#34; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-sm-3&#34;&gt;
-    &lt;hr class=&#34;dark visible-xs-block&#34; /&gt;
-    &lt;h5&gt;About the Typeface&lt;/h5&gt;
-    &lt;p&gt;&#34;Frustrated with a lack of fonts both versatile and modern, we set out to design Klavika as a full-featured, do-it-all sans serif for the needs of the 21st century. Our result is a design that’s unadorned, modern and infinitely flexible. To achieve this, Klavika follows a decidedly hybrid typographic path – a cross of humanist and geometric influences with allegiances to neither. Crisp and open shapes keep the font legible in small sizes while the straight-sided characters anchor headlines and display work solidly in place. And since part of the goal was flexibility, we’re happy to report that since its introduction in 2004, Klavika has found its way into a wide variety of media from print to pixels.&#34;&lt;/p&gt;
-    &lt;p&gt;Designed by Eric Olson&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description>Logo Typeface:Klavika Italic    Usage Rules  Only used in the Logo and its variations in the logo, two weights are used: Bold &amp; Light    Glyph Rr   Styles Klavika Italic 200 Light Klavika Italic 400 Regular Klavika Italic 600 Medium Klavika Italic 800 Bold  Characters ​‌A​‌B​‌C​‌Ć​‌Č​‌D​‌Đ​‌E​‌F​‌G​‌H​‌I​‌J​‌K​‌L​‌M​‌N​‌O​‌P​‌Q​‌R​‌S​‌Š​‌T​‌U​‌V​‌W​‌X​‌Y​‌Z​‌Ž​‌a​‌b​‌c​‌č​‌ć​‌d​‌đ​‌e​‌f​‌g​‌h​‌i​‌j​‌k​‌l​‌m​‌n​‌o​‌p​‌q​‌r​‌s​‌š​‌t​‌u​‌v​‌w​‌x​‌y​‌z​‌ž​‌А​‌Б​‌В​‌Г​‌Ґ​‌Д​‌Ђ​‌Е​‌Ё​‌Є​‌Ж​‌З​‌Ѕ​‌И​‌І​‌Ї​‌Й​‌Ј​‌К​‌Л​‌Љ​‌М​‌НЊ​‌О​‌П​‌Р​‌С​‌Т​‌Ћ​‌У​‌Ў​‌Ф​‌Х​‌Ц​‌Ч​‌Џ​‌Ш​‌Щ​‌Ъ​‌Ы​‌Ь​‌Э​‌Ю​‌Я​‌а​‌б​‌в​‌г​‌ґ​‌д​‌ђ​‌е​‌ё​‌є​‌ж​‌з​‌ѕ​‌и​‌і​‌ї​‌й​‌ј​‌к​‌л​‌љ​‌м​‌н​‌њ​‌о​‌п​‌р​‌с​‌т​‌ћ​‌у​‌ў​‌ф​‌х​‌ц​‌ч​‌џ​‌ш​‌щ​‌ъ​‌ы​‌ь​‌э​‌ю​‌я​‌Α​‌Β​‌Γ​‌Δ​‌Ε​‌Ζ​‌Η​‌Θ​‌Ι​‌Κ​‌Λ​‌Μ​‌Ν​‌Ξ​‌Ο​‌Π​‌Ρ​‌Σ​Τ​‌Υ​‌Φ​‌Χ​‌Ψ​‌Ω​‌α​‌β​‌γ​‌δ​‌ε​‌ζ​‌η​‌θ​‌ι​‌κ​‌λ​‌μ​‌ν​‌ξ​‌ο​‌π​‌ρ​‌σ​‌τ​‌υ​‌φ​‌χ​‌ψ​‌ω​‌ά​‌Ά​‌έ​‌Έ​‌έ​‌Ή​‌ί​‌ϊ​‌ΐ​‌Ί​‌ό​‌Ό​‌ύ​‌ΰ​‌ϋ​‌Ύ​‌Ϋ​‌Ώ​‌Ă​‌Â​‌Ê​‌Ô​‌Ơ​‌Ư​‌ă​‌â​‌ê​‌ô​‌ơ​‌ư​‌1​‌2​‌3​‌4​‌5​‌6​‌7​‌8​‌9​‌0​‌‘​‌?​‌’​‌“​‌!​‌”​‌(​‌%​‌)​‌[​‌#​‌]​‌{​‌@​‌}​‌/​‌&amp;​‌​‌®​‌©​‌$​‌€​‌£​‌¥​‌¢​‌:​‌;​‌,​‌.​‌*
+ Example Paragraph VHS messenger bag craft beer food truck. Blog tofu williamsburg echo park, viral single-origin coffee umami before they sold out crucifix portland pop-up yuccie dreamcatcher air plant.</description>
     </item>
     
     <item>
@@ -80,67 +27,8 @@
       <pubDate>Tue, 24 Jan 2017 16:11:56 -0800</pubDate>
       
       <guid>https://influxdata.github.io/branding/typography/secondary/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-xs-12&#34;&gt;
-    &lt;div class=&#34;page-header&#34;&gt;
-      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
-      &lt;a href=&#34;#title&#34;&gt;
-        &lt;h1&gt;Secondary Typeface:&lt;br/&gt;Roboto Mono&lt;/h1&gt;
-      &lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-xs-12&#34;&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-    &lt;h5&gt;Usage Rules&lt;/h5&gt;
-    &lt;ol&gt;
-      &lt;li&gt;The Secondary Typeface is only for use in code samples&lt;/li&gt;
-      &lt;li&gt;Use Regular weight for light backgrounds&lt;/li&gt;
-      &lt;li&gt;Use Bold weight for dark backgrounds&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&#34;https://fonts.google.com/specimen/Roboto+Mono&#34; target=&#34;_blank&#34;&gt;View on Google Fonts&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-sm-2&#34;&gt;
-    &lt;h5&gt;Glyph&lt;/h5&gt;
-    &lt;div class=&#34;type-sample--mono&#34;&gt;
-      &lt;h1 class=&#34;type-sample--glyph&#34;&gt;Rr&lt;/h1&gt;
-    &lt;/div&gt;
-    &lt;hr class=&#34;dark visible-xs-block&#34; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-sm-7&#34;&gt;
-    &lt;h5&gt;Styles&lt;/h5&gt;
-    &lt;div class=&#34;type-sample--mono&#34;&gt;
-      &lt;h1 class=&#34;type-sample--weight400&#34;&gt;Roboto 400 Regular&lt;/h1&gt;
-      &lt;h1 class=&#34;type-sample--weight700&#34;&gt;Roboto 700 Bold&lt;/h1&gt;
-    &lt;/div&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-    &lt;h5&gt;Characters&lt;/h5&gt;
-    &lt;div class=&#34;type-sample--mono&#34;&gt;
-      &lt;p class=&#34;type-sample--characters&#34;&gt;​‌A​‌B​‌C​‌Ć​‌Č​‌D​‌Đ​‌E​‌F​‌G​‌H​‌I​‌J​‌K​‌L​‌M​‌N​‌O​‌P​‌Q​‌R​‌S​‌Š​‌T​‌U​‌V​‌W​‌X​‌Y​‌Z​‌Ž​‌a​‌b​‌c​‌č​‌ć​‌d​‌đ​‌e​‌f​‌g​‌h​‌i​‌j​‌k​‌l​‌m​‌n​‌o​‌p​‌q​‌r​‌s​‌š​‌t​‌u​‌v​‌w​‌x​‌y​‌z​‌ž​‌А​‌Б​‌В​‌Г​‌Ґ​‌Д​‌Ђ​‌Е​‌Ё​‌Є​‌Ж​‌З​‌Ѕ​‌И​‌І​‌Ї​‌Й​‌Ј​‌К​‌Л​‌Љ​‌М​‌НЊ​‌О​‌П​‌Р​‌С​‌Т​‌Ћ​‌У​‌Ў​‌Ф​‌Х​‌Ц​‌Ч​‌Џ​‌Ш​‌Щ​‌Ъ​‌Ы​‌Ь​‌Э​‌Ю​‌Я​‌а​‌б​‌в​‌г​‌ґ​‌д​‌ђ​‌е​‌ё​‌є​‌ж​‌з​‌ѕ​‌и​‌і​‌ї​‌й​‌ј​‌к​‌л​‌љ​‌м​‌н​‌њ​‌о​‌п​‌р​‌с​‌т​‌ћ​‌у​‌ў​‌ф​‌х​‌ц​‌ч​‌џ​‌ш​‌щ​‌ъ​‌ы​‌ь​‌э​‌ю​‌я​‌Α​‌Β​‌Γ​‌Δ​‌Ε​‌Ζ​‌Η​‌Θ​‌Ι​‌Κ​‌Λ​‌Μ​‌Ν​‌Ξ​‌Ο​‌Π​‌Ρ​‌Σ​Τ​‌Υ​‌Φ​‌Χ​‌Ψ​‌Ω​‌α​‌β​‌γ​‌δ​‌ε​‌ζ​‌η​‌θ​‌ι​‌κ​‌λ​‌μ​‌ν​‌ξ​‌ο​‌π​‌ρ​‌σ​‌τ​‌υ​‌φ​‌χ​‌ψ​‌ω​‌ά​‌Ά​‌έ​‌Έ​‌έ​‌Ή​‌ί​‌ϊ​‌ΐ​‌Ί​‌ό​‌Ό​‌ύ​‌ΰ​‌ϋ​‌Ύ​‌Ϋ​‌Ώ​‌Ă​‌Â​‌Ê​‌Ô​‌Ơ​‌Ư​‌ă​‌â​‌ê​‌ô​‌ơ​‌ư​‌1​‌2​‌3​‌4​‌5​‌6​‌7​‌8​‌9​‌0​‌‘​‌?​‌’​‌“​‌!​‌”​‌(​‌%​‌)​‌[​‌#​‌]​‌{​‌@​‌}​‌/​‌&amp;​‌&lt;​‌-​‌+​‌÷​‌×​‌=​‌&gt;​‌®​‌©​‌$​‌€​‌£​‌¥​‌¢​‌:​‌;​‌,​‌.​‌*&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-    &lt;h5&gt;Example Paragraph&lt;/h5&gt;
-    &lt;div class=&#34;type-sample--mono&#34;&gt;
-      &lt;p&gt;VHS messenger bag craft beer food truck. Blog tofu williamsburg echo park, viral single-origin coffee umami before they sold out crucifix portland pop-up yuccie dreamcatcher air plant. Live-edge gastropub portland etsy, distillery polaroid waistcoat bushwick before they sold out. Heirloom wayfarers crucifix, sartorial banh mi kinfolk selvage artisan umami. Godard tacos asymmetrical tilde disrupt blue bottle post-ironic brooklyn. Fap try-hard art party, unicorn man braid hell of tote bag leggings cold-pressed raclette. Kale chips 90&#39;s 8-bit, mumblecore coloring book venmo dreamcatcher kickstarter.&lt;/p&gt;
-      &lt;p&gt;Salvia pork belly vinyl tousled air plant. Artisan vexillologist yr subway tile small batch, sriracha retro sustainable. Biodiesel normcore kale chips photo booth yuccie offal, tofu tattooed neutra authentic cold-pressed readymade activated charcoal. Slow-carb put a bird on it whatever, mixtape schlitz beard hell of meditation post-ironic chambray celiac cronut DIY leggings. Fap live-edge chicharrones, flexitarian yuccie photo booth brooklyn woke. Kitsch echo park unicorn craft beer, plaid occupy cred thundercats. Godard actually yuccie +1 ennui.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-    &lt;h5&gt;Code Sample&lt;/h5&gt;
-    &lt;pre class=&#34;rainbow-highlighter&#34;&gt;&lt;code&gt;&lt;mark&gt;var&lt;/mark&gt; errors &lt;del&gt;=&lt;/del&gt; stream&lt;br/&gt;  &lt;del&gt;|&lt;/del&gt;&lt;i&gt;from&lt;/i&gt;&lt;b&gt;()&lt;/b&gt;&lt;br/&gt;    .&lt;mark&gt;measurement&lt;/mark&gt;&lt;b&gt;(&lt;/b&gt;&lt;em&gt;&#39;errors&#39;&lt;/em&gt;&lt;b&gt;)&lt;/b&gt;&lt;br/&gt;&lt;mark&gt;var&lt;/mark&gt; requests &lt;del&gt;=&lt;/del&gt; stream&lt;br/&gt;  &lt;del&gt;|&lt;/del&gt;&lt;i&gt;from&lt;/i&gt;&lt;b&gt;(&lt;/b&gt;&lt;b&gt;)&lt;/b&gt;&lt;br/&gt;    .&lt;mark&gt;measurement&lt;/mark&gt;&lt;b&gt;(&lt;/b&gt;&lt;em&gt;&#39;requests&#39;&lt;/em&gt;&lt;b&gt;)&lt;/b&gt;&lt;br/&gt;&lt;b&gt;// Join the errors and requests stream&lt;/b&gt;&lt;br/&gt;errors&lt;br/&gt;  &lt;del&gt;|&lt;/del&gt;&lt;i&gt;join&lt;/i&gt;&lt;b&gt;(&lt;/b&gt;requests&lt;b&gt;)&lt;/b&gt;&lt;br/&gt;    .&lt;mark&gt;as&lt;/mark&gt;&lt;b&gt;(&lt;/b&gt;&lt;em&gt;&#39;errors&#39;, &#39;requests&#39;&lt;/em&gt;&lt;b&gt;)&lt;/b&gt;&lt;br/&gt;  &lt;del&gt;|&lt;/del&gt;&lt;i&gt;eval&lt;/i&gt;&lt;b&gt;(&lt;/b&gt;lambda: &lt;em&gt;&#34;errors.value&#34;&lt;/em&gt; &lt;del&gt;/&lt;/del&gt; &lt;em&gt;&#34;requests.value&#34;&lt;/em&gt;&lt;b&gt;)&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;
-    &lt;br class=&#34;visible-xs-block&#34; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-sm-3&#34;&gt;
-    &lt;hr class=&#34;dark visible-xs-block&#34; /&gt;
-    &lt;h5&gt;About the Typeface&lt;/h5&gt;
-    &lt;p&gt;Roboto Mono is a monospaced addition to the Roboto type family. Like the other members of the Roboto family, the fonts are optimized for readability on screens across a wide variety of devices and reading environments. While the monospaced version is related to its variable width cousin, it doesn’t hesitate to change forms to better fit the constraints of a monospaced environment. For example, narrow glyphs like ‘I’, ‘l’ and ‘i’ have added serifs for more even texture while wider glyphs are adjusted for weight. Curved caps like ‘C’ and ‘O’ take on the straighter sides from Roboto Condensed.&lt;/p&gt;
-    &lt;p&gt;Special consideration is given to glyphs important for reading and writing software source code. Letters with similar shapes are easy to tell apart. Digit ‘1’, lowercase ‘l’ and capital ‘I’ are easily differentiated as are zero and the letter ‘O’. Punctuation important for code has also been considered. For example, the curly braces ‘{ }’ have exaggerated points to clearly differentiate them from parenthesis ‘( )’ and braces ‘[ ]’. Periods and commas are also exaggerated to identify them more quickly. The scale and weight of symbols commonly used as operators have also been optimized.&lt;/p&gt;
-    &lt;p&gt;Designed by Christian Robertson&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description>Secondary Typeface:Roboto Mono    Usage Rules  The Secondary Typeface is only for use in code samples Use Regular weight for light backgrounds Use Bold weight for dark backgrounds View on Google Fonts    Glyph Rr   Styles Roboto 400 Regular Roboto 700 Bold  Characters ​‌A​‌B​‌C​‌Ć​‌Č​‌D​‌Đ​‌E​‌F​‌G​‌H​‌I​‌J​‌K​‌L​‌M​‌N​‌O​‌P​‌Q​‌R​‌S​‌Š​‌T​‌U​‌V​‌W​‌X​‌Y​‌Z​‌Ž​‌a​‌b​‌c​‌č​‌ć​‌d​‌đ​‌e​‌f​‌g​‌h​‌i​‌j​‌k​‌l​‌m​‌n​‌o​‌p​‌q​‌r​‌s​‌š​‌t​‌u​‌v​‌w​‌x​‌y​‌z​‌ž​‌А​‌Б​‌В​‌Г​‌Ґ​‌Д​‌Ђ​‌Е​‌Ё​‌Є​‌Ж​‌З​‌Ѕ​‌И​‌І​‌Ї​‌Й​‌Ј​‌К​‌Л​‌Љ​‌М​‌НЊ​‌О​‌П​‌Р​‌С​‌Т​‌Ћ​‌У​‌Ў​‌Ф​‌Х​‌Ц​‌Ч​‌Џ​‌Ш​‌Щ​‌Ъ​‌Ы​‌Ь​‌Э​‌Ю​‌Я​‌а​‌б​‌в​‌г​‌ґ​‌д​‌ђ​‌е​‌ё​‌є​‌ж​‌з​‌ѕ​‌и​‌і​‌ї​‌й​‌ј​‌к​‌л​‌љ​‌м​‌н​‌њ​‌о​‌п​‌р​‌с​‌т​‌ћ​‌у​‌ў​‌ф​‌х​‌ц​‌ч​‌џ​‌ш​‌щ​‌ъ​‌ы​‌ь​‌э​‌ю​‌я​‌Α​‌Β​‌Γ​‌Δ​‌Ε​‌Ζ​‌Η​‌Θ​‌Ι​‌Κ​‌Λ​‌Μ​‌Ν​‌Ξ​‌Ο​‌Π​‌Ρ​‌Σ​Τ​‌Υ​‌Φ​‌Χ​‌Ψ​‌Ω​‌α​‌β​‌γ​‌δ​‌ε​‌ζ​‌η​‌θ​‌ι​‌κ​‌λ​‌μ​‌ν​‌ξ​‌ο​‌π​‌ρ​‌σ​‌τ​‌υ​‌φ​‌χ​‌ψ​‌ω​‌ά​‌Ά​‌έ​‌Έ​‌έ​‌Ή​‌ί​‌ϊ​‌ΐ​‌Ί​‌ό​‌Ό​‌ύ​‌ΰ​‌ϋ​‌Ύ​‌Ϋ​‌Ώ​‌Ă​‌Â​‌Ê​‌Ô​‌Ơ​‌Ư​‌ă​‌â​‌ê​‌ô​‌ơ​‌ư​‌1​‌2​‌3​‌4​‌5​‌6​‌7​‌8​‌9​‌0​‌‘​‌?​‌’​‌“​‌!​‌”​‌(​‌%​‌)​‌[​‌#​‌]​‌{​‌@​‌}​‌/​‌&amp;​‌​‌®​‌©​‌$​‌€​‌£​‌¥​‌¢​‌:​‌;​‌,​‌.​‌*
+ Example Paragraph VHS messenger bag craft beer food truck. Blog tofu williamsburg echo park, viral single-origin coffee umami before they sold out crucifix portland pop-up yuccie dreamcatcher air plant.</description>
     </item>
     
     <item>
@@ -149,61 +37,7 @@
       <pubDate>Tue, 24 Jan 2017 16:11:54 -0800</pubDate>
       
       <guid>https://influxdata.github.io/branding/typography/primary/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-xs-12&#34;&gt;
-    &lt;div class=&#34;page-header&#34;&gt;
-      &lt;a class=&#34;page-header--anchor&#34; id=&#34;title&#34;&gt;&lt;/a&gt;
-      &lt;a href=&#34;#title&#34;&gt;
-        &lt;h1&gt;Primary Typeface:&lt;br/&gt;Roboto Sans&lt;/h1&gt;
-      &lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-xs-12&#34;&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-    &lt;h5&gt;Usage Rules&lt;/h5&gt;
-    &lt;ol&gt;
-      &lt;li&gt;The Primary Typeface is for use in all contexts outside of the logo and its variations, including web, social media, and print graphics&lt;/li&gt;
-      &lt;li&gt;&#34;Thin&#34; weight should only be used at large sizes&lt;/li&gt;
-      &lt;li&gt;Occasional use of all caps to delineate titling is ideal&lt;/li&gt;
-      &lt;li&gt;If background is not white, use white type as much as possible&lt;/li&gt;
-      &lt;li&gt;Avoid using colored type on colored backgrounds&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&#34;https://fonts.google.com/specimen/Roboto&#34; target=&#34;_blank&#34;&gt;View on Google Fonts&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-sm-2&#34;&gt;
-    &lt;h5&gt;Glyph&lt;/h5&gt;
-    &lt;h1 class=&#34;type-sample--glyph&#34;&gt;Rr&lt;/h1&gt;
-    &lt;hr class=&#34;dark visible-xs-block&#34; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-sm-7&#34;&gt;
-    &lt;h5&gt;Styles&lt;/h5&gt;
-    &lt;h1 class=&#34;type-sample--weight100&#34;&gt;Roboto 100 Thin&lt;/h1&gt;
-    &lt;h1 class=&#34;type-sample--weight300&#34;&gt;Roboto 300 Light&lt;/h1&gt;
-    &lt;h1 class=&#34;type-sample--weight400&#34;&gt;Roboto 400 Regular&lt;/h1&gt;
-    &lt;h1 class=&#34;type-sample--weight500&#34;&gt;Roboto 500 Medium&lt;/h1&gt;
-    &lt;h1 class=&#34;type-sample--weight700&#34;&gt;Roboto 700 Bold&lt;/h1&gt;
-    &lt;h1 class=&#34;type-sample--weight900&#34;&gt;Roboto 900 Black&lt;/h1&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-    &lt;h5&gt;Characters&lt;/h5&gt;
-    &lt;p class=&#34;type-sample--characters&#34;&gt;​‌A​‌B​‌C​‌Ć​‌Č​‌D​‌Đ​‌E​‌F​‌G​‌H​‌I​‌J​‌K​‌L​‌M​‌N​‌O​‌P​‌Q​‌R​‌S​‌Š​‌T​‌U​‌V​‌W​‌X​‌Y​‌Z​‌Ž​‌a​‌b​‌c​‌č​‌ć​‌d​‌đ​‌e​‌f​‌g​‌h​‌i​‌j​‌k​‌l​‌m​‌n​‌o​‌p​‌q​‌r​‌s​‌š​‌t​‌u​‌v​‌w​‌x​‌y​‌z​‌ž​‌А​‌Б​‌В​‌Г​‌Ґ​‌Д​‌Ђ​‌Е​‌Ё​‌Є​‌Ж​‌З​‌Ѕ​‌И​‌І​‌Ї​‌Й​‌Ј​‌К​‌Л​‌Љ​‌М​‌НЊ​‌О​‌П​‌Р​‌С​‌Т​‌Ћ​‌У​‌Ў​‌Ф​‌Х​‌Ц​‌Ч​‌Џ​‌Ш​‌Щ​‌Ъ​‌Ы​‌Ь​‌Э​‌Ю​‌Я​‌а​‌б​‌в​‌г​‌ґ​‌д​‌ђ​‌е​‌ё​‌є​‌ж​‌з​‌ѕ​‌и​‌і​‌ї​‌й​‌ј​‌к​‌л​‌љ​‌м​‌н​‌њ​‌о​‌п​‌р​‌с​‌т​‌ћ​‌у​‌ў​‌ф​‌х​‌ц​‌ч​‌џ​‌ш​‌щ​‌ъ​‌ы​‌ь​‌э​‌ю​‌я​‌Α​‌Β​‌Γ​‌Δ​‌Ε​‌Ζ​‌Η​‌Θ​‌Ι​‌Κ​‌Λ​‌Μ​‌Ν​‌Ξ​‌Ο​‌Π​‌Ρ​‌Σ​Τ​‌Υ​‌Φ​‌Χ​‌Ψ​‌Ω​‌α​‌β​‌γ​‌δ​‌ε​‌ζ​‌η​‌θ​‌ι​‌κ​‌λ​‌μ​‌ν​‌ξ​‌ο​‌π​‌ρ​‌σ​‌τ​‌υ​‌φ​‌χ​‌ψ​‌ω​‌ά​‌Ά​‌έ​‌Έ​‌έ​‌Ή​‌ί​‌ϊ​‌ΐ​‌Ί​‌ό​‌Ό​‌ύ​‌ΰ​‌ϋ​‌Ύ​‌Ϋ​‌Ώ​‌Ă​‌Â​‌Ê​‌Ô​‌Ơ​‌Ư​‌ă​‌â​‌ê​‌ô​‌ơ​‌ư​‌1​‌2​‌3​‌4​‌5​‌6​‌7​‌8​‌9​‌0​‌‘​‌?​‌’​‌“​‌!​‌”​‌(​‌%​‌)​‌[​‌#​‌]​‌{​‌@​‌}​‌/​‌&amp;​‌&lt;​‌-​‌+​‌÷​‌×​‌=​‌&gt;​‌®​‌©​‌$​‌€​‌£​‌¥​‌¢​‌:​‌;​‌,​‌.​‌*&lt;/p&gt;
-    &lt;hr class=&#34;dark&#34; /&gt;
-    &lt;h5&gt;Example Paragraph&lt;/h5&gt;
-    &lt;p&gt;VHS messenger bag craft beer food truck. Blog tofu williamsburg echo park, viral single-origin coffee umami before they sold out crucifix portland pop-up yuccie dreamcatcher air plant. Live-edge gastropub portland etsy, distillery polaroid waistcoat bushwick before they sold out. Heirloom wayfarers crucifix, sartorial banh mi kinfolk selvage artisan umami. Godard tacos asymmetrical tilde disrupt blue bottle post-ironic brooklyn. Fap try-hard art party, unicorn man braid hell of tote bag leggings cold-pressed raclette. Kale chips 90&#39;s 8-bit, mumblecore coloring book venmo dreamcatcher kickstarter.&lt;/p&gt;
-    &lt;p&gt;Salvia pork belly vinyl tousled air plant. Artisan vexillologist yr subway tile small batch, sriracha retro sustainable. Biodiesel normcore kale chips photo booth yuccie offal, tofu tattooed neutra authentic cold-pressed readymade activated charcoal. Slow-carb put a bird on it whatever, mixtape schlitz beard hell of meditation post-ironic chambray celiac cronut DIY leggings. Fap live-edge chicharrones, flexitarian yuccie photo booth brooklyn woke. Kitsch echo park unicorn craft beer, plaid occupy cred thundercats. Godard actually yuccie +1 ennui.&lt;/p&gt;
-    &lt;br class=&#34;visible-xs-block&#34; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-sm-3&#34;&gt;
-    &lt;hr class=&#34;dark visible-xs-block&#34; /&gt;
-    &lt;h5&gt;About the Typeface&lt;/h5&gt;
-    &lt;p&gt;Roboto has a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves. While some grotesks distort their letterforms to force a rigid rhythm, Roboto doesn’t compromise, allowing letters to be settled into their natural width. This makes for a more natural reading rhythm more commonly found in humanist and serif types.&lt;/p&gt;
-    &lt;p&gt;Designed by Christian Robertson&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description>Primary Typeface:Roboto Sans    Usage Rules  The Primary Typeface is for use in all contexts outside of the logo and its variations, including web, social media, and print graphics &#34;Thin&#34; weight should only be used at large sizes Occasional use of all caps to delineate titling is ideal If background is not white, use white type as much as possible Avoid using colored type on colored backgrounds View on Google Fonts    Glyph Rr  Styles Roboto 100 Thin Roboto 300 Light Roboto 400 Regular Roboto 500 Medium Roboto 700 Bold Roboto 900 Black Characters ​‌A​‌B​‌C​‌Ć​‌Č​‌D​‌Đ​‌E​‌F​‌G​‌H​‌I​‌J​‌K​‌L​‌M​‌N​‌O​‌P​‌Q​‌R​‌S​‌Š​‌T​‌U​‌V​‌W​‌X​‌Y​‌Z​‌Ž​‌a​‌b​‌c​‌č​‌ć​‌d​‌đ​‌e​‌f​‌g​‌h​‌i​‌j​‌k​‌l​‌m​‌n​‌o​‌p​‌q​‌r​‌s​‌š​‌t​‌u​‌v​‌w​‌x​‌y​‌z​‌ž​‌А​‌Б​‌В​‌Г​‌Ґ​‌Д​‌Ђ​‌Е​‌Ё​‌Є​‌Ж​‌З​‌Ѕ​‌И​‌І​‌Ї​‌Й​‌Ј​‌К​‌Л​‌Љ​‌М​‌НЊ​‌О​‌П​‌Р​‌С​‌Т​‌Ћ​‌У​‌Ў​‌Ф​‌Х​‌Ц​‌Ч​‌Џ​‌Ш​‌Щ​‌Ъ​‌Ы​‌Ь​‌Э​‌Ю​‌Я​‌а​‌б​‌в​‌г​‌ґ​‌д​‌ђ​‌е​‌ё​‌є​‌ж​‌з​‌ѕ​‌и​‌і​‌ї​‌й​‌ј​‌к​‌л​‌љ​‌м​‌н​‌њ​‌о​‌п​‌р​‌с​‌т​‌ћ​‌у​‌ў​‌ф​‌х​‌ц​‌ч​‌џ​‌ш​‌щ​‌ъ​‌ы​‌ь​‌э​‌ю​‌я​‌Α​‌Β​‌Γ​‌Δ​‌Ε​‌Ζ​‌Η​‌Θ​‌Ι​‌Κ​‌Λ​‌Μ​‌Ν​‌Ξ​‌Ο​‌Π​‌Ρ​‌Σ​Τ​‌Υ​‌Φ​‌Χ​‌Ψ​‌Ω​‌α​‌β​‌γ​‌δ​‌ε​‌ζ​‌η​‌θ​‌ι​‌κ​‌λ​‌μ​‌ν​‌ξ​‌ο​‌π​‌ρ​‌σ​‌τ​‌υ​‌φ​‌χ​‌ψ​‌ω​‌ά​‌Ά​‌έ​‌Έ​‌έ​‌Ή​‌ί​‌ϊ​‌ΐ​‌Ί​‌ό​‌Ό​‌ύ​‌ΰ​‌ϋ​‌Ύ​‌Ϋ​‌Ώ​‌Ă​‌Â​‌Ê​‌Ô​‌Ơ​‌Ư​‌ă​‌â​‌ê​‌ô​‌ơ​‌ư​‌1​‌2​‌3​‌4​‌5​‌6​‌7​‌8​‌9​‌0​‌‘​‌?</description>
     </item>
     
   </channel>

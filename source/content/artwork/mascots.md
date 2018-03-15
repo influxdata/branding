@@ -15,7 +15,7 @@ title = "Mascots"
     <div class="page-header">
       <a class="page-header--anchor" id="title"></a>
       <a href="#title">
-        <h1>TICK Stack Mascots</h1>
+        <h1>InfluxData Mascots</h1>
       </a>
     </div>
   </div>
@@ -29,25 +29,32 @@ title = "Mascots"
 </div>
 
 <div class="row longform">
-  <div class="col-sm-3">
+  <div class="col-xs-6 col-sm-3">
     <h3>Telegraf</h3>
     <h5><strong>Tiger</strong></h5>
     <img class="border" src="/img/mascots/telegraf.png" alt="Telegraf Tiger"/>
   </div>
-  <div class="col-sm-3">
+  <div class="col-xs-6 col-sm-3">
     <h3>InfluxDB</h3>
     <h5><strong>I'iwi</strong></h5>
     <img class="border" src="/img/mascots/influxdb.png" alt="InfluxDB I'iwi"/>
   </div>
-  <div class="col-sm-3">
+  <div class="col-xs-6 col-sm-3">
     <h3>Chronograf</h3>
     <h5><strong>Giraffe</strong></h5>
     <img class="border" src="/img/mascots/chronograf.png" alt="Chronogiraffe"/>
   </div>
-  <div class="col-sm-3">
+  <div class="col-xs-6 col-sm-3">
     <h3>Kapacitor</h3>
     <h5><strong>Koala</strong></h5>
     <img class="border" src="/img/mascots/kapacitor.png" alt="Kapacitor Koala"/>
+  </div>
+</div>
+<div class="row longform">
+  <div class="col-xs-6 col-sm-3">
+    <h3>Outreach Club</h3>
+    <h5><strong>Octopus</strong></h5>
+    <img class="border" src="/img/mascots/outreach.png" alt="Outreach Octopus"/>
   </div>
 </div>
 
@@ -91,6 +98,11 @@ title = "Mascots"
             <td><a href="/img/mascots/mascot-kapacitor--transparent_png.png" target="blank">PNG-24</a></td>
             <td>280x380</td>
           </tr>
+          <tr>
+            <td>Outreach</td>
+            <td><a href="/img/mascots/mascot-outreach--transparent_png.png" target="blank">PNG-24</a></td>
+            <td>249x400</td>
+          </tr>
         </tbody>
       </table>
     </div>
@@ -128,6 +140,11 @@ title = "Mascots"
             <td>Kapacitor</td>
             <td><a href="/img/mascots/mascot-kapacitor--white_png.png" target="blank">PNG-8</a> / <a href="/img/mascots/mascot-kapacitor--white_jpg.jpg" target="_blank">JPG</a></td>
             <td>280x380</td>
+          </tr>
+          <tr>
+            <td>Outreach</td>
+            <td><a href="/img/mascots/mascot-outreach--white_png.png" target="blank">PNG-8</a> / <a href="/img/mascots/mascot-outreach--white_jpg.jpg" target="_blank">JPG</a></td>
+            <td>249x400</td>
           </tr>
         </tbody>
       </table>

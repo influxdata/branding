@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/</loc>
-    <lastmod>2017-01-24T16:11:58-08:00</lastmod>
-    <priority>0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://influxdata.github.io/branding/logo/downloads/</loc>
@@ -62,7 +57,35 @@
   </url>
   
   <url>
+    <loc>https://influxdata.github.io/branding/artwork/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://influxdata.github.io/branding/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://influxdata.github.io/branding/colors/</loc>
+    <lastmod>2017-01-24T16:11:55-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://influxdata.github.io/branding/</loc>
+    <lastmod>2017-01-24T16:11:58-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://influxdata.github.io/branding/presentations/keynote/</loc>
+  </url>
+  
+  <url>
+    <loc>https://influxdata.github.io/branding/logo/</loc>
+    <lastmod>2017-01-24T16:11:58-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -70,7 +93,17 @@
   </url>
   
   <url>
+    <loc>https://influxdata.github.io/branding/misc/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://influxdata.github.io/branding/artwork/photography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://influxdata.github.io/branding/presentations/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -78,7 +111,18 @@
   </url>
   
   <url>
+    <loc>https://influxdata.github.io/branding/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://influxdata.github.io/branding/artwork/themes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://influxdata.github.io/branding/typography/</loc>
+    <lastmod>2017-01-24T16:11:58-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
