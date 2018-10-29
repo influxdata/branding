@@ -98,10 +98,6 @@
   </url>
   
   <url>
-    <loc>https://influxdata.github.io/branding/artwork/photography/</loc>
-  </url>
-  
-  <url>
     <loc>https://influxdata.github.io/branding/presentations/</loc>
     <priority>0</priority>
   </url>

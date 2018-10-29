@@ -134,15 +134,6 @@ Our goals:We want the logo to feel like a platform while maintaining its own uni
     </item>
     
     <item>
-      <title>Photography</title>
-      <link>https://influxdata.github.io/branding/artwork/photography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://influxdata.github.io/branding/artwork/photography/</guid>
-      <description> Gradient Mapped Photography    Usage Rules  Best used as backgrounds beneath text or other graphics Works well in Hero images on the website    Ready to Use Images                                   </description>
-    </item>
-    
-    <item>
       <title>Swag</title>
       <link>https://influxdata.github.io/branding/misc/swag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -157,9 +148,9 @@ Our goals:We want the logo to feel like a platform while maintaining its own uni
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://influxdata.github.io/branding/artwork/themes/</guid>
-      <description>Themes in Brand Imagery     Photography Guidelines:
- Photography must always be gradient mapped using the Brand Neutrals Gradient map effect makes the photography easy to place type or graphics over  Themes:
- Architecture - Minimalistic, organic forms are ideal. Focus on lines that extend beyond the frame as well as repeating patterns Water - Avoid high noise imagery (such as splashes). Best to use images that capture the fluidity of water San Francisco - Images of our HQ city&#39;s landmarks are acceptable    Graphics + Photography Guidelines:</description>
+      <description>Themes in Brand Imagery     Graphics + Photography Guidelines:
+ Photography should be modified to follow the Brand Colors Unusual rotations and framing are ideal, avoid literal representations Strong Compositions - Lines extend beyond the frame, diagonal lines preferred, create sense of dynamic motion  Themes:
+ Nature vs. Technology - Combine images in a harmonious way, the two should flow together seamlessly Wrangling Data - Use graphics and photography to communicate containment of data.</description>
     </item>
     
   </channel>

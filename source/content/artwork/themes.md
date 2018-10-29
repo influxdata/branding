@@ -22,25 +22,7 @@ title = "Themes"
 </div>
 
 <div class="row longform">
-  <div class="col-sm-4">
-    <h5>Photography</h5>
-    <img class="border" src="/img/artwork-themes/ex-photo.jpg" />
-    <img class="border" src="/img/artwork-themes/ex-photo-2.jpg" />
-    <p><strong>Guidelines:</strong></p>
-    <ul>
-      <li>Photography must always be gradient mapped using the Brand Neutrals</li>
-      <li>Gradient map effect makes the photography easy to place type or graphics over</li>
-    </ul>
-    <p><strong>Themes:</strong></p>
-    <ul>
-      <li><em>Architecture</em> - Minimalistic, organic forms are ideal. Focus on lines that extend beyond the frame as well as repeating patterns</li>
-      <li><em>Water</em> - Avoid high noise imagery (such as splashes). Best to use images that capture the fluidity of water</li>
-      <li><em>San Francisco</em> - Images of our HQ city's landmarks are acceptable</li>
-    </ul>
-    <br/><br/>
-    <hr class="dark visible-xs-block"/>
-  </div>
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     <h5>Graphics + Photography</h5>
     <img class="border" src="/img/artwork-themes/ex-graphic-wave.jpg" />
     <img class="border" src="/img/artwork-themes/ex-graphic-color.jpg" />
@@ -59,7 +41,7 @@ title = "Themes"
     <br/><br/>
     <hr class="dark visible-xs-block"/>
   </div>
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     <h5>Graphics</h5>
     <img class="border" src="/img/artwork-themes/ex-graphic-mesh.jpg" />
     <img class="border" src="/img/artwork-themes/ex-graphic-mesh-2.jpg" />
