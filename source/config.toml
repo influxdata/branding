@@ -5,29 +5,23 @@ publishDir= "../docs"
 canonifyURLs = true
 
 [[menu.main]]
+	name = "Brand"
+	identifier = "brand"
+	weight = 1
+	url = "/brand/"
+	pre = "eye"
+[[menu.main]]
 	name = "Logo"
 	identifier = "logo"
-	weight = 1
+	weight = 10
 	url = "/logo/"
 	pre = "cubo-uniform"
-[[menu.main]]
-	name = "Colors"
-	identifier = "colors"
-	weight = 10
-	url = "/colors/"
-	pre = "brush"
 [[menu.main]]
 	name = "Typography"
 	identifier = "typography"
 	weight = 20
 	url = "/typography/"
 	pre = "alpha-a"
-[[menu.main]]
-	name = "Images & Artwork"
-	identifier = "artwork"
-	weight = 30
-	url = "/artwork/"
-	pre = "polaroid"
 [[menu.main]]
 	name = "Misc"
 	identifier = "misc"
