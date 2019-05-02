@@ -280,3 +280,8 @@ section.docs-section:first-child {
 
 .logo-usage.example13-dont {background-image: url(../img/logo-usage/example-vertical-bad.svg);}
 .logo-usage.example13-do {background-image: url(../img/logo-usage/example-vertical-good.svg);}
+
+.hero-splash em {
+  font-style: normal;
+  color: #22ADF6;
+}
