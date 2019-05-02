@@ -29,12 +29,6 @@ canonifyURLs = true
 	url = "/artwork/"
 	pre = "polaroid"
 [[menu.main]]
-	name = "Presentations"
-	identifier = "presentations"
-	weight = 40
-	url = "/presentations/"
-	pre = "keynote"
-[[menu.main]]
 	name = "Misc"
 	identifier = "misc"
 	weight = 50
