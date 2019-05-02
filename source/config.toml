@@ -11,11 +11,11 @@ canonifyURLs = true
 	url = "/logo/"
 	pre = "cubo-uniform"
 [[menu.main]]
-	name = "Colors"
-	identifier = "colors"
+	name = "Brand"
+	identifier = "brand"
 	weight = 10
-	url = "/colors/"
-	pre = "brush"
+	url = "/brand/"
+	pre = "eye"
 [[menu.main]]
 	name = "Typography"
 	identifier = "typography"

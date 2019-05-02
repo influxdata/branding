@@ -606,9 +606,9 @@ html {
 }
 .ix-app-title {
   font-size: 21px;
-  font-weight: 400;
+  font-weight: 500;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 .ix-app-splash {
   position: absolute;
@@ -808,7 +808,7 @@ html {
 .ix-sidebar .navbar-nav > li > a.dropdown-toggle {
   position: relative;
   padding-left: 60px;
-  font-family: 'Roboto', Helvetica, Arial, Tahoma, Verdana, sans-serif !important;
+  font-family: 'Rubik', Helvetica, Arial, Tahoma, Verdana, sans-serif !important;
   color: #bef0ff;
   background-color: transparent;
   -webkit-transition: background-color .25s ease, color .25s ease;
@@ -968,7 +968,7 @@ html {
     width: 60px;
     height: 60px;
     padding: 0 !important;
-    font-family: 'Roboto', Helvetica, Arial, Tahoma, Verdana, sans-serif !important;
+    font-family: 'Rubik', Helvetica, Arial, Tahoma, Verdana, sans-serif !important;
     font-size: 0 !important;
     color: #999dab;
     background-color: transparent;
@@ -1116,7 +1116,8 @@ html {
   height: 60px;
   padding: 0 28px !important;
   font-size: 18px;
-  font-weight: 400;
+  font-weight: 500;
+  letter-spacing: 2px;
   line-height: 60px;
   color: #fff;
   text-transform: uppercase;
@@ -1141,7 +1142,7 @@ html {
           transform: scale(.5, 1) translateX(-50%);
 }
 body {
-  font-family: 'Roboto', Helvetica, Arial, Tahoma, Verdana, sans-serif;
+  font-family: 'Rubik', Helvetica, Arial, Tahoma, Verdana, sans-serif;
   color: #757888;
 
   -webkit-font-smoothing: antialiased;
@@ -1220,7 +1221,7 @@ p {
 }
 p b,
 p strong {
-  font-weight: 900;
+  font-weight: 700;
 }
 p small {
   font-size: 12.5px;
@@ -1308,7 +1309,7 @@ h6 {
   width: 100%;
   margin: 8px 0 .55em 0;
   font-size: 14.5px;
-  font-weight: 900;
+  font-weight: 700;
   line-height: 1.25em;
 }
 h6 small {
@@ -1370,7 +1371,7 @@ blockquote:after {
 }
 blockquote b,
 blockquote strong {
-  font-weight: 900;
+  font-weight: 700;
 }
 hr {
   height: 2px;
@@ -1384,7 +1385,7 @@ hr.dark {
 }
 b,
 strong {
-  font-weight: 900;
+  font-weight: 700;
 }
 mark {
   padding: 2px 4px;
@@ -5986,7 +5987,7 @@ body.modal-open .ix-app-wrapper {
   display: none;
   max-width: 276px;
   padding: 14px;
-  font-family: 'Roboto', Helvetica, Arial, Tahoma, Verdana, sans-serif;
+  font-family: 'Rubik', Helvetica, Arial, Tahoma, Verdana, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: normal;
@@ -6371,7 +6372,7 @@ table.table.icon-font-matrix tr > td strong {
 }
 .docs-color-swatch h5 {
   left: 8px;
-  font-weight: 900;
+  font-weight: 700;
 }
 .docs-micro-swatch {
   display: inline-block;
