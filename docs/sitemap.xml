@@ -33,12 +33,7 @@
   </url>
   
   <url>
-    <loc>https://influxdata.github.io/branding/colors/gradients/</loc>
-    <lastmod>2017-01-24T16:11:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/colors/palette/</loc>
+    <loc>https://influxdata.github.io/branding/brand/colors/</loc>
     <lastmod>2017-01-24T16:11:54-08:00</lastmod>
   </url>
   
@@ -53,11 +48,8 @@
   </url>
   
   <url>
-    <loc>https://influxdata.github.io/branding/artwork/artwork/</loc>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/artwork/</loc>
+    <loc>https://influxdata.github.io/branding/brand/</loc>
+    <lastmod>2017-01-24T16:11:54-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,9 +59,7 @@
   </url>
   
   <url>
-    <loc>https://influxdata.github.io/branding/colors/</loc>
-    <lastmod>2017-01-24T16:11:55-08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://influxdata.github.io/branding/brand/hero-graphics/</loc>
   </url>
   
   <url>
@@ -85,12 +75,20 @@
   </url>
   
   <url>
-    <loc>https://influxdata.github.io/branding/artwork/mascots/</loc>
+    <loc>https://influxdata.github.io/branding/misc/mascots/</loc>
+  </url>
+  
+  <url>
+    <loc>https://influxdata.github.io/branding/brand/messaging/</loc>
   </url>
   
   <url>
     <loc>https://influxdata.github.io/branding/misc/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://influxdata.github.io/branding/brand/platform/</loc>
   </url>
   
   <url>
@@ -100,10 +98,6 @@
   <url>
     <loc>https://influxdata.github.io/branding/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/artwork/themes/</loc>
   </url>
   
   <url>
