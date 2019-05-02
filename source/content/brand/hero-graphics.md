@@ -6,7 +6,7 @@ title = "Hero Graphics"
     name = "Hero Graphics"
     parent = "brand"
     identifier = "hero-graphics"
-    weight = 2
+    weight = 4
     url = "/brand/hero-graphics/"
 +++
 

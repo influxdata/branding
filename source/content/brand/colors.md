@@ -7,7 +7,7 @@ title = "InfluxData Brand Colors"
     name = "Colors"
     parent = "brand"
     identifier = "colors"
-    weight = 1
+    weight = 3
     url = "/brand/colors/"
 +++
 

@@ -285,3 +285,137 @@ section.docs-section:first-child {
   font-style: normal;
   color: #22ADF6;
 }
+
+.messaging-how {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: 100%;
+  padding: 4em;
+}
+
+.messaing-how--row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0.5em 0 2em 0;
+}
+
+.messaing-how--row h1,
+.messaing-how--row h6 {
+  width: auto;
+  margin: 0;
+  flex: 0 0 200px;
+}
+
+.messaing-how--row h1 {
+  font-size: 58px;
+  line-height: 58px;
+  letter-spacing: -0.04em;
+  white-space: nowrap;
+}
+.messaing-how--row h1:first-child {
+  color: #BF2FE5;
+}
+
+.messaing-how--row h1:last-child {
+  color: #1F0A23;
+}
+
+.messaing-how--row h1:last-child,
+.messaing-how--row h6:last-child {
+  text-align: right;
+}
+
+.messaging-how--title {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.messaing-how--arrow {
+  position: relative;
+  margin: 0 16px;
+  height: 4px;
+  border-radius: 2px;
+  flex: 1 0 0;
+  background: #BF2FE5;
+  background: -moz-linear-gradient(left,  #BF2FE5 0%, #1F0A23 100%);
+  background: -webkit-linear-gradient(left,  #BF2FE5 0%,#1F0A23 100%);
+  background: linear-gradient(to right,  #BF2FE5 0%,#1F0A23 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#BF2FE5', endColorstr='#1F0A23',GradientType=1 );
+}
+
+.messaing-how--arrow:after {
+  position: absolute;
+  content: '';
+  border: 10px solid transparent;
+  border-left-color: #1F0A23;
+  top: 50%;
+  right: -2px;
+  transform: translate(50%, -50%);
+}
+
+.what-we-say--audience {
+  color: #D4D7DD;
+  text-transform: uppercase;
+}
+
+.what-we-say--main {
+  color: #1F0A23;
+  font-size: 64px;
+  font-weight: 600;
+  letter-spacing: -0.05em;
+  margin-bottom: 0.25em;
+  background: #BF2FE5;
+  background: -moz-linear-gradient(left,  #BF2FE5 0%, #1F0A23 100%);
+  background: -webkit-linear-gradient(left,  #BF2FE5 0%,#1F0A23 100%);
+  background: linear-gradient(to right,  #BF2FE5 0%,#1F0A23 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#BF2FE5', endColorstr='#1F0A23',GradientType=1 );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.what-we-say--sub {
+  font-weight: 600;
+}
+
+.what-we-say--explainer {
+  font-size: 17px;
+}
+
+.platform--card,
+.what-we-say--card {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 4em;
+  box-shadow: 0 2px 5px 2px rgba(15, 14, 21, 0.025);
+  margin-bottom: 2em;
+}
+
+.what-we-say--theme {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.platform--main {
+  font-size: 64px;
+  font-weight: 400;
+  letter-spacing: -0.05em;
+}
+
+.platform--explainer {
+  font-size: 17px;
+}
+
+h2.platform--sub-heading {
+  font-size: 21px;
+  font-weight: 500;
+}
+
+h1.platform--heading {
+  font-size: 40px;
+}
+
+h1.platform--heading.bold {
+  font-weight: 500;
+}
