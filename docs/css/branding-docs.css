@@ -403,7 +403,7 @@ section.docs-section:first-child {
 .type-sample--weight900 {
   margin: 0;
   font-size: 50px;
-  letter-spacing: -2.8px;
+  letter-spacing: -0.01em;
 }
 .type-sample--weight100 {
   font-weight: 100;
@@ -427,10 +427,10 @@ section.docs-section:first-child {
 .type-sample--mono strong {
   font-weight: 700 !important;
 }
-.type-sample--klavika {
-  font-family: 'Klavika', 'Roboto', Helvetica, Arial, sans-serif;
+.type-sample--rubik {
+  font-family: 'Rubik', 'Roboto', Helvetica, Arial, sans-serif;
 }
-.type-sample--klavika p {
+.type-sample--rubik p {
   font-size: 17px;
 }
 
