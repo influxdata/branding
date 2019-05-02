@@ -1,8 +1,6 @@
-.branding-splash {
-  background-image: url(../img/splash-artwork.svg);
-  background-repeat: no-repeat;
-  background-position: bottom right;
-  background-size: 27%;
+.hero-splash em {
+  font-style: normal;
+  color: #D6F622;
 }
 .home-gradient-background {
   position: absolute;
@@ -17,12 +15,25 @@
   background-position: center center;
   -webkit-background-size: cover;
   background-size: cover;
-  background: #1F0A23;
-  background: -moz-linear-gradient(-45deg,  #1F0A23 0%, #BF2FE5 100%);
-  background: -webkit-linear-gradient(-45deg,  #1F0A23 0%,#BF2FE5 100%);
-  background: linear-gradient(135deg,  #1F0A23 0%,#BF2FE5 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1F0A23', endColorstr='#BF2FE5',GradientType=1 );
+  background: #22ADF6;
+  background: -moz-linear-gradient(-45deg,  #22ADF6 0%, #BF2FE5 100%);
+  background: -webkit-linear-gradient(-45deg,  #22ADF6 0%,#BF2FE5 100%);
+  background: linear-gradient(135deg,  #22ADF6 0%,#BF2FE5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#22ADF6', endColorstr='#BF2FE5',GradientType=1 );
 }
+.home-artwork-background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-image: url(../img/splash-graphic.svg);
+  background-size: cover;
+}
+.splash-logo {
+  margin: 5em 0;
+}
+
 @media (min-width: 768px) {
   .home-gradient-background {
     height: 100%;
@@ -280,11 +291,6 @@ section.docs-section:first-child {
 
 .logo-usage.example13-dont {background-image: url(../img/logo-usage/example-vertical-bad.svg);}
 .logo-usage.example13-do {background-image: url(../img/logo-usage/example-vertical-good.svg);}
-
-.hero-splash em {
-  font-style: normal;
-  color: #22ADF6;
-}
 
 .messaging-how {
   display: flex;
