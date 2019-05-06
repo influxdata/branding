@@ -29,7 +29,7 @@ title = "Messaging"
 
 <div class="row longform">
   <div class="col-xs-12">
-    <h3>How We Speak</h3>
+    <h3>How we talk about about ourselves</h3>
     <br/><br/>
   </div>
   <div class="col-xs-12">
@@ -80,11 +80,20 @@ title = "Messaging"
   </div>
   <div class="col-xs-12">
     <div class="what-we-say--card">
+      <h5 class="what-we-say--audience">Tagline</h5>
+      <h1 class="what-we-say--main">Act in Time</h1>
+      <p class="what-we-say--explainer">We will use this in some <a href="../logo/downloads">logo treatments</a> and advertising campaigns as a way of describing what we do. It’s a short phrase that conveys what we are all about. But don’t overuse it!</p>
+    </div>
+  </div>
+
+  <div class="col-xs-12">
+    <div class="what-we-say--card">
       <h5 class="what-we-say--audience">All Audiences</h5>
       <h1 class="what-we-say--main">Real time visibility into stacks, sensors, and systems</h1>
       <h3 class="what-we-say--sub">The open-source time series database to instrument, observe, learn and automate any system, application and business process</h3>
     </div>
   </div>
+
   <div class="col-xs-12">
     <div class="what-we-say--card">
       <h5 class="what-we-say--audience">Dev Audience</h5>
@@ -106,10 +115,11 @@ title = "Messaging"
       </div>
     </div>
   </div>
+
   <div class="col-xs-12">
     <div class="what-we-say--card">
       <h5 class="what-we-say--audience">Ops Audience</h5>
-      <h1 class="what-we-say--main">Trusted by ops</h1>
+      <h1 class="what-we-say--main">Trusted by Ops</h1>
       <h3 class="what-we-say--sub">Faster detection, faster resolution</h3>
       <p class="what-we-say--explainer">Acting on time series data should be easy. InfluxDB is your system of insight for unified metrics and events – enabling your most demanding SLAs, whether you’re optimizing software, hardware, or IoT systems.</p>
       <hr class="dark" />
@@ -127,6 +137,7 @@ title = "Messaging"
       </div>
     </div>
   </div>
+  
   <div class="col-xs-12">
     <div class="what-we-say--card">
       <h5 class="what-we-say--audience">Business Audience</h5>
@@ -148,4 +159,5 @@ title = "Messaging"
       </div>
     </div>
   </div>
+
 </div>
