@@ -20,13 +20,11 @@ title = "Platform"
     </div>
   </div>
 </div>
-
 <div class="row">
   <div class="col-xs-12">
     <hr class="dark" />
   </div>
 </div>
-
 <div class="row longform">
   <div class="col-xs-12 col-sm-3 col-md-2">
     <h5 class="platform--audience">Core Passion</h5>
@@ -38,7 +36,6 @@ title = "Platform"
       <h3 class="platform--explainer">We have tried to embrace passion in our visual identity and writing style – the website is flatter, the navigation simplified, the images simplified; everything more simple and consistent. This is a journey but we want to ensure we embrace this passion in every interaction we have with our audiences – website, email copy and product.</h3>
     </div>
   </div>
-  
   <div class="col-xs-12 col-sm-3 col-md-2">
     <h5 class="platform--audience">Vision</h5>
   </div>
@@ -49,7 +46,6 @@ title = "Platform"
       <h3 class="platform--explainer">If you read <a href="http://www.influxdata.com/about" target="_blank">the about page</a>, you will see how we have incorporated this into some of our core messaging but we will not be leading with vision; rather, we will focus on our mission.</h3>
     </div>
   </div>
-
   <div class="col-xs-12 col-sm-3 col-md-2">
     <h5 class="platform--audience">Mission</h5>
   </div>
@@ -59,25 +55,14 @@ title = "Platform"
       <h3 class="platform--explainer">Our mission is simple. We desire to be the platform of choice for time series data. We come to work every day with a community mindset and singular focus on how to achieve this.</h3>
     </div>
   </div>
-
   <div class="col-xs-12 col-sm-3 col-md-2">
     <h5 class="platform--audience">Values</h5>
   </div>
   <div class="col-xs-12 col-sm-9 col-md-10">
     <div class="platform--card">
       <h1 class="platform--heading">Respect • Humility • Action • Courage • Openness</h1>
-      <h3 class="platform--explainer">Our list of values resulted from an introspective conversation across the entire company. They determine who we hire, how we treat each other, how we engage the community, and how we make product decisions. </h3>
+      <h3 class="platform--explainer">Our list of values resulted from an introspective conversation across the entire company. They determine who we hire, how we treat each other, how we engage the community, and how we make product decisions.</h3>
+      <h3 class="platform--explainer">Read more on our <a href="https://www.influxdata.com/about/" target="_blank">About</a> page</h3>
     </div>
   </div>
-
-  <div class="col-xs-12 col-sm-3 col-md-2">
-    <h5 class="platform--audience">Positioning</h5>
-  </div>
-  <div class="col-xs-12 col-sm-9 col-md-10">
-    <div class="platform--card">
-      <h1 class="platform--heading">The open source time series database</h1>
-      <h3 class="platform--explainer">InfluxDB is not the category leader. We are are the category. Our positioning reflects the simplicity of our position in the market. We don't compare ourselves to others. They compare themselves to us. Our growth and position in the marketplace, and the entry of both Amazon and Google into this market, is what made time series a category. We see ourselves as a platform but need to evolve the thinking of what is required to be a database – visualization, alerting, analytics are all part of the database.</h3>
-    </div>
-  </div>
-
 </div>
