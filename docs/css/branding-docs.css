@@ -427,3 +427,36 @@ section.docs-section:first-child {
 h1.platform--heading {
   font-size: 40px;
 }
+
+.downloads--swatch {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 2px solid #EEEFF2 !important;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin: 0 !important;
+  margin-bottom: 3px !important;
+}
+
+.downloads--swatch.castle {
+  background-color: #292933;
+}
+.downloads--swatch.white {
+  background-color: #fff;
+}
+.downloads--swatch.pool {
+  background-color: #22ADF6;
+}
+.downloads--swatch.transparent {
+  background-image: url(../img/checkers.svg);
+  background-size: cover;
+}
+
+.downloads--table td {
+  white-space: nowrap;
+}
+
+.downloads--thumb {
+  border-radius: 4px;
+}
