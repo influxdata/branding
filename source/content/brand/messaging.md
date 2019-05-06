@@ -82,7 +82,7 @@ title = "Messaging"
     <div class="what-we-say--card">
       <h5 class="what-we-say--audience">Tagline</h5>
       <h1 class="what-we-say--main">Act in Time</h1>
-      <p class="what-we-say--explainer">We will use this in some <a href="../logo/downloads">logo treatments</a> and advertising campaigns as a way of describing what we do. It’s a short phrase that conveys what we are all about. But don’t overuse it!</p>
+      <p class="what-we-say--explainer">We will use this in some <a href='{{< relref "logo/downloads.md" >}}'>logo treatments</a> and advertising campaigns as a way of describing what we do. It’s a short phrase that conveys what we are all about. But don’t overuse it!</p>
     </div>
   </div>
 

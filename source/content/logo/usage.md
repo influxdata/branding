@@ -54,7 +54,7 @@ title = "Logo DOs & DONT's"
 <div class="row logo-usage-example">
   <div class="col-sm-4">
     <h5>Example 2</h5>
-    <p>If placing the logo over an image and the image is too busy, darken or lighten the image using <a href='{{< relref "colors/palette.md" >}}'>Brand Colors</a></p>
+    <p>If placing the logo over an image and the image is too busy, darken or lighten the image using <a href='{{< relref "visual/colors.md" >}}'>Brand Colors</a></p>
   </div>
   <div class="col-sm-8">
     <div class="logo-usage logo-usage--dont example2-dont">
@@ -158,7 +158,7 @@ title = "Logo DOs & DONT's"
 <div class="row logo-usage-example">
   <div class="col-sm-4">
     <h5>Example 10</h5>
-    <p>Do not use true black. Instead use a dark grey from the <a href='{{< relref "colors/palette.md" >}}'>Brand Palette</a>. This helps maintain a small degree of softness which nicely juxtapozes the geometric structure of the logo</p>
+    <p>Do not use true black. Instead use a dark grey from the <a href='{{< relref "visual/colors.md" >}}'>Brand Palette</a>. This helps maintain a small degree of softness which nicely juxtapozes the geometric structure of the logo</p>
   </div>
   <div class="col-sm-8">
     <div class="logo-usage logo-usage--dont example10-dont"></div>
