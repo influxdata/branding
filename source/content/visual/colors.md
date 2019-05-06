@@ -40,11 +40,11 @@ title = "InfluxData Brand Colors"
   <div class="col-md-9">
     <div class="row">
       <div class="col-xs-4">
-        <div class="color-swatch tall dark" style="background-color: #1F0A23;">
+        <div class="color-swatch tall dark" style="background-color: #13002D;">
           <label>Deep Purple</label>
           <label>P0</label>
         </div>
-        <code class="color-hex">#1F0A23</code>
+        <code class="color-hex">#13002D</code>
       </div>
       <div class="col-xs-4">
         <div class="color-swatch tall" style="background-color: #22ADF6;">

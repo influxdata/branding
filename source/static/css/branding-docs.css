@@ -1,6 +1,7 @@
 .hero-splash em {
   font-style: normal;
-  color: #D6F622;
+  color: #22ADF6;
+  font-weight: 500;
 }
 .home-gradient-background {
   position: absolute;
@@ -15,11 +16,11 @@
   background-position: center center;
   -webkit-background-size: cover;
   background-size: cover;
-  background: #22ADF6;
-  background: -moz-linear-gradient(-45deg,  #22ADF6 0%, #BF2FE5 100%);
-  background: -webkit-linear-gradient(-45deg,  #22ADF6 0%,#BF2FE5 100%);
-  background: linear-gradient(135deg,  #22ADF6 0%,#BF2FE5 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#22ADF6', endColorstr='#BF2FE5',GradientType=1 );
+  background: #13002d;
+  background: -moz-linear-gradient(-45deg,  #13002d 25%, #470e65 100%);
+  background: -webkit-linear-gradient(-45deg,  #13002d 25%,#470e65 100%);
+  background: linear-gradient(135deg,  #13002d 25%,#470e65 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#13002d', endColorstr='#470e65',GradientType=1 );
 }
 .home-artwork-background {
   position: absolute;
@@ -29,6 +30,7 @@
   left: 0;
   background-image: url(../img/splash-graphic.svg);
   background-size: cover;
+  opacity: 0.6;
 }
 .splash-logo {
   margin: 5em 0;
