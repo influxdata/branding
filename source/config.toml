@@ -17,11 +17,11 @@ canonifyURLs = true
 	url = "/logo/"
 	pre = "cubo-uniform"
 [[menu.main]]
-	name = "Typography"
-	identifier = "typography"
+	name = "Visual Assets"
+	identifier = "visual"
 	weight = 20
-	url = "/typography/"
-	pre = "alpha-a"
+	url = "/visual/"
+	pre = "polaroid"
 [[menu.main]]
 	name = "Misc"
 	identifier = "misc"

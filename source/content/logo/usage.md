@@ -1,7 +1,7 @@
 +++
 date = "2017-01-24T16:11:56-08:00"
 draft = false
-title = "Logo DOs & DONT's"
+title = "Logo Usage Guidelines"
 [menu]
   [menu.main]
     name = "Usage Guidelines"
@@ -16,22 +16,34 @@ title = "Logo DOs & DONT's"
     <div class="page-header">
       <a class="page-header--anchor" id="title"></a>
       <a href="#title">
-        <h1>Logo DOs & DON'Ts</h1>
+        <h1>Logo Usage Guidelines</h1>
       </a>
     </div>
   </div>
   <div class="col-xs-12">
     <hr class="dark" />
-    <h5>Usage Rules</h5>
+  </div>
+  <div class="col-sm-6">
+    <h3>DOs</h3>
     <ol>
-      <li>Use appropriate margin around the logo to let it breathe</li>
+      <li>Use <a href='{{< relref "logo/anatomy.md" >}}'>appropriate margin</a> around the logo to let it breathe</li>
       <li>The Symbol can be used by itself</li>
-      <li>Do not use the Logotype without the Symbol</li>
-      <li>Do not vertically stack the Logotype & Symbol</li>
-      <li>Do not add any effects to the logo or symbol (such as drop shadow, glow, etc.)</li>
-      <li>Never reveal the bounding box around the logo or symbol</li>
-      <li>If placing the logo over an image, make sure the area underneath is simple</li>
+      <li>Make sure the logo has appropriate contrast with the background</li>
+      <li>If placing the logo over an image, make sure the area underneath is not busy</li>
+      <li>If placing the logo over a busy image, darken or lighten the image using brand colors to ensure proper contrast</li>
     </ol>
+  </div>
+  <div class="col-sm-6">
+    <h3>DON'Ts</h3>
+    <ol>
+      <li>Do not use the Logotype without the Symbol</li>
+      <li>Do not vertically stack the Logotype & Symbol without special permission</li>
+      <li>Do not add any effects to the logo or symbol (such as drop shadow, glow, etc.)</li>
+      <li>Do not fill the logo, thereby negating the logo’s transparency</li>
+      <li>Do not place the logo on top of a busy or high contrast image</li>
+    </ol>
+  </div>
+  <div class="col-xs-12">
     <hr class="dark" />
   </div>
 </div>
@@ -54,7 +66,7 @@ title = "Logo DOs & DONT's"
 <div class="row logo-usage-example">
   <div class="col-sm-4">
     <h5>Example 2</h5>
-    <p>If placing the logo over an image and the image is too busy, darken or lighten the image using <a href='{{< relref "colors/palette.md" >}}'>Brand Colors</a></p>
+    <p>If placing the logo over an image and the image is too busy, darken or lighten the image using <a href='{{< relref "visual/colors.md" >}}'>Brand Colors</a></p>
   </div>
   <div class="col-sm-8">
     <div class="logo-usage logo-usage--dont example2-dont">
@@ -158,7 +170,7 @@ title = "Logo DOs & DONT's"
 <div class="row logo-usage-example">
   <div class="col-sm-4">
     <h5>Example 10</h5>
-    <p>Do not use true black. Instead use a dark grey from the <a href='{{< relref "colors/palette.md" >}}'>Brand Palette</a>. This helps maintain a small degree of softness which nicely juxtapozes the geometric structure of the logo</p>
+    <p>Do not use true black. Instead use a dark grey from the <a href='{{< relref "visual/colors.md" >}}'>Brand Palette</a>. This helps maintain a small degree of softness which nicely juxtapozes the geometric structure of the logo</p>
   </div>
   <div class="col-sm-8">
     <div class="logo-usage logo-usage--dont example10-dont"></div>
@@ -191,7 +203,7 @@ title = "Logo DOs & DONT's"
 <div class="row logo-usage-example">
   <div class="col-sm-4">
     <h5>Example 13</h5>
-    <p>Do not rearrange the logo. Vertical stacking is the worst offense. This breaks the harmony of line widths seen in <a href='{{< relref "logo/anatomy.md" >}}'>Logo Anatomy</a> which detracts from the logo's elegance</p>
+    <p>Do not rearrange the components of the logo. Only use the stacked logo with special permission.</p>
   </div>
   <div class="col-sm-8">
     <div class="logo-usage logo-usage--dont example13-dont"></div>
