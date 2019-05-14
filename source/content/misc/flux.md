@@ -175,14 +175,14 @@ title = "Flux Language"
     <code class="color-hex">#373D4A</code>
   </div>
   <div class="col-xs-4">
-    <div class="color-swatch tall dark" style="background-color: #7CE490;">
+    <div class="color-swatch tall" style="background-color: #7CE490;">
       <label>Flux Green</label>
       <label>F1</label>
     </div>
     <code class="color-hex">#7CE490</code>
   </div>
   <div class="col-xs-4">
-    <div class="color-swatch tall dark" style="background-color: #FFFFFF;">
+    <div class="color-swatch tall" style="background-color: #FFFFFF;">
       <label>Flux White</label>
       <label>F2</label>
     </div>
