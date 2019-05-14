@@ -66,8 +66,8 @@ title = "Downloads"
         <thead>
           <tr>
             <th>Background</th>
-            <th>Format</th>
             <th>Dimensions</th>
+            <th>Format</th>
           </tr>
         </thead>
         <tbody>
@@ -112,8 +112,8 @@ title = "Downloads"
         <thead>
           <tr>
             <th>Background</th>
-            <th>Format</th>
             <th>Dimensions</th>
+            <th>Format</th>
           </tr>
         </thead>
         <tbody>
@@ -158,8 +158,8 @@ title = "Downloads"
         <thead>
           <tr>
             <th>Background</th>
-            <th>Format</th>
             <th>Dimensions</th>
+            <th>Format</th>
           </tr>
         </thead>
         <tbody>
