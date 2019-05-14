@@ -21,6 +21,18 @@
     </item>
     
     <item>
+      <title>Flux Language</title>
+      <link>https://influxdata.github.io/branding/misc/flux/</link>
+      <pubDate>Tue, 24 Jan 2017 16:11:58 -0800</pubDate>
+      
+      <guid>https://influxdata.github.io/branding/misc/flux/</guid>
+      <description>Flux Language     About Flux is a standalone data scripting and query language that increases productivity and code reuse.
+Flux is optimized for ETL, monitoring, and alerting, with an inline planner and optimizer.
+Flux is the result of the open source community driving innovation with time series data.
+ DOs  Use appropriate margin around the logo to let it breathe The Symbol can be used by itself Make sure the logo has appropriate contrast with the background If placing the logo over an image, make sure the area underneath is not busy If placing the logo over a busy image, darken or lighten the image using brand colors to ensure proper contrast   DON&#39;Ts  Do not use the Logotype without the Symbol Do not vertically stack the Logotype &amp; Symbol without special permission Do not add any effects to the logo or symbol (such as drop shadow, glow, etc.</description>
+    </item>
+    
+    <item>
       <title>Primary Typeface</title>
       <link>https://influxdata.github.io/branding/visual/primary/</link>
       <pubDate>Tue, 24 Jan 2017 16:11:58 -0800</pubDate>
