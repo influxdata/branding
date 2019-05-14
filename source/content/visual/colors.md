@@ -285,14 +285,14 @@ title = "InfluxData Brand Colors"
           <label>Gradient A</label>
           <label>P0 &rarr; S1</label>
         </div>
-        <code class="color-hex">#1F0A23 / #BF2FE5</code>
+        <code class="color-hex">#13002D / #BF2FE5</code>
       </div>
       <div class="col-sm-12">
         <div class="color-swatch dark swatch-grad-b">
           <label>Gradient B</label>
           <label>P0 &rarr; S2</label>
         </div>
-        <code class="color-hex">#1F0A23 / #9394FF</code>
+        <code class="color-hex">#13002D / #9394FF</code>
       </div>
       <div class="col-sm-12">
         <div class="color-swatch dark swatch-grad-c">
