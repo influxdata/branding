@@ -115,19 +115,19 @@ section.docs-section:first-child {
 
 /* Example Gradients */
 .swatch-grad-a {
-  background: #1F0A23;
-  background: -moz-linear-gradient(left,  #1F0A23 0%, #BF2FE5 100%);
-  background: -webkit-linear-gradient(left,  #1F0A23 0%,#BF2FE5 100%);
-  background: linear-gradient(to right,  #1F0A23 0%,#BF2FE5 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1F0A23', endColorstr='#BF2FE5',GradientType=1 );
+  background: #13002D;
+  background: -moz-linear-gradient(left,  #13002D 0%, #BF2FE5 100%);
+  background: -webkit-linear-gradient(left,  #13002D 0%,#BF2FE5 100%);
+  background: linear-gradient(to right,  #13002D 0%,#BF2FE5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#13002D', endColorstr='#BF2FE5',GradientType=1 );
 }
 
 .swatch-grad-b {
-  background: #1F0A23;
-  background: -moz-linear-gradient(left,  #1F0A23 0%, #9394FF 100%);
-  background: -webkit-linear-gradient(left,  #1F0A23 0%,#9394FF 100%);
-  background: linear-gradient(to right,  #1F0A23 0%,#9394FF 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1F0A23', endColorstr='#9394FF',GradientType=1 );
+  background: #13002D;
+  background: -moz-linear-gradient(left,  #13002D 0%, #9394FF 100%);
+  background: -webkit-linear-gradient(left,  #13002D 0%,#9394FF 100%);
+  background: linear-gradient(to right,  #13002D 0%,#9394FF 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#13002D', endColorstr='#9394FF',GradientType=1 );
 }
 .swatch-grad-c {
   background: #BF2FE5;
