@@ -110,8 +110,8 @@ title = "InfluxData Brand Colors"
 
 <div class="row">
   <div class="col-md-3">
-    <h3>Nuetrals</h3>
-    <p>There are many nuetrals because they are the most used. Having subtle differences between the dark and light end of the spectrum is extremely useful when building UI.<br/><br/>The nuetrals follow two main principles: never use true black, and never use true nuetrals. Our nuetral palette is subtley colored with brand colors, the dark end of the spectrum is colored with <b>Comet</b>, and the light end is colored with <b>Pool</b>.</p><br/><br/>
+    <h3>Neutrals</h3>
+    <p>There are many neutrals because they are the most used. Having subtle differences between the dark and light end of the spectrum is extremely useful when building UI.<br/><br/>The neutrals follow two main principles: never use true black, and never use true neutrals. Our neutral palette is subtley-colored with brand colors, the dark end of the spectrum is colored with <b>Comet</b>, and the light end is colored with <b>Pool</b>.</p><br/><br/>
   </div>
   <div class="col-md-9">
     <div class="row">
