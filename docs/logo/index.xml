@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Logos on InfluxData Branding Docs</title>
+    <title>Logoes on InfluxData Branding Docs</title>
     <link>https://influxdata.github.io/branding/logo/</link>
-    <description>Recent content in Logos on InfluxData Branding Docs</description>
+    <description>Recent content in Logoes on InfluxData Branding Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2017 16:11:58 -0800</lastBuildDate>
-    
-	<atom:link href="https://influxdata.github.io/branding/logo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 24 Jan 2017 16:11:58 -0800</lastBuildDate><atom:link href="https://influxdata.github.io/branding/logo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Downloads</title>
       <link>https://influxdata.github.io/branding/logo/downloads/</link>
       <pubDate>Tue, 24 Jan 2017 16:11:58 -0800</pubDate>
       
       <guid>https://influxdata.github.io/branding/logo/downloads/</guid>
-      <description>Downloads     DOs  Use appropriate margin around the logo to let it breathe The Symbol can be used by itself Make sure the logo has appropriate contrast with the background If placing the logo over an image, make sure the area underneath is not busy If placing the logo over a busy image, darken or lighten the image using brand colors to ensure proper contrast   DON&#39;Ts  Do not use the Logotype without the Symbol Do not vertically stack the Logotype &amp; Symbol without special permission Do not add any effects to the logo or symbol (such as drop shadow, glow, etc.</description>
+      <description></description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Tue, 24 Jan 2017 16:11:56 -0800</pubDate>
       
       <guid>https://influxdata.github.io/branding/logo/usage/</guid>
-      <description>Logo Usage Guidelines     DOs  Use appropriate margin around the logo to let it breathe The Symbol can be used by itself Make sure the logo has appropriate contrast with the background If placing the logo over an image, make sure the area underneath is not busy If placing the logo over a busy image, darken or lighten the image using brand colors to ensure proper contrast   DON&#39;Ts  Do not use the Logotype without the Symbol Do not vertically stack the Logotype &amp; Symbol without special permission Do not add any effects to the logo or symbol (such as drop shadow, glow, etc.</description>
+      <description></description>
     </item>
     
     <item>
@@ -35,7 +31,7 @@
       <pubDate>Tue, 24 Jan 2017 16:11:55 -0800</pubDate>
       
       <guid>https://influxdata.github.io/branding/logo/anatomy/</guid>
-      <description> Anatomy of The Logo    Usage Rules  Use appropriate margin around the logo to let it breathe The Symbol can be used by itself Do not use the Logotype without the Symbol Do not vertically stack the Logotype &amp; Symbol    The Symbol: Cuboctahedron        Symbol + Logotype         </description>
+      <description></description>
     </item>
     
     <item>
@@ -44,8 +40,7 @@
       <pubDate>Tue, 24 Jan 2017 16:11:54 -0800</pubDate>
       
       <guid>https://influxdata.github.io/branding/logo/story/</guid>
-      <description>How The Cuboctahedron Came To Be: The Story Of Our Visual Journey From InfluxDB to InfluxData    What began as InfluxDB will become InfluxData; going from product to platform. InfluxDB will become one of four products known collectively as the &#34;TICK Stack&#34;. This transition of the company is the inception our efforts.
-Our goals:We want the logo to feel like a platform while maintaining its own unique identity.</description>
+      <description></description>
     </item>
     
   </channel>
