@@ -1,117 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/logo/downloads/</loc>
-    <lastmod>2017-01-24T16:11:58-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/misc/flux/</loc>
-    <lastmod>2017-01-24T16:11:58-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/visual/primary/</loc>
-    <lastmod>2017-01-24T16:11:58-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/logo/usage/</loc>
-    <lastmod>2017-01-24T16:11:56-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/visual/secondary-code/</loc>
-    <lastmod>2017-01-24T16:11:56-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/logo/anatomy/</loc>
-    <lastmod>2017-01-24T16:11:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/visual/colors/</loc>
-    <lastmod>2017-01-24T16:11:54-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/visual/secondary/</loc>
-    <lastmod>2017-01-24T16:11:54-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/logo/story/</loc>
-    <lastmod>2017-01-24T16:11:54-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/brand/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/brand/company-profile/</loc>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/visual/hero-graphics/</loc>
-  </url>
-  
   <url>
     <loc>https://influxdata.github.io/branding/</loc>
-    <lastmod>2017-01-24T16:11:58-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-10T20:11:50+10:00</lastmod>
+  </url><url>
     <loc>https://influxdata.github.io/branding/logo/</loc>
+    <lastmod>2022-06-10T20:11:50+10:00</lastmod>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/logo/brands/</loc>
+    <lastmod>2022-06-10T20:11:50+10:00</lastmod>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/logo/downloads/</loc>
+    <lastmod>2022-06-10T20:11:26+10:00</lastmod>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/logo/logo-color/</loc>
+    <lastmod>2022-06-10T20:10:26+10:00</lastmod>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/logo/how-not-to-use/</loc>
+    <lastmod>2022-06-10T20:09:26+10:00</lastmod>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/logo/usage/</loc>
+    <lastmod>2022-06-10T20:08:26+10:00</lastmod>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/logo/story/</loc>
+    <lastmod>2022-06-10T20:07:26+10:00</lastmod>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/misc/flux/</loc>
     <lastmod>2017-01-24T16:11:58-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/misc/mascots/</loc>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/brand/messaging/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://influxdata.github.io/branding/misc/</loc>
     <lastmod>2017-01-24T16:11:58-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/visual/photography/</loc>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/brand/platform/</loc>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/misc/swag/</loc>
-  </url>
-  
-  <url>
-    <loc>https://influxdata.github.io/branding/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/visual/primary/</loc>
+    <lastmod>2017-01-24T16:11:58-08:00</lastmod>
+  </url><url>
     <loc>https://influxdata.github.io/branding/visual/</loc>
     <lastmod>2017-01-24T16:11:58-08:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/visual/colors/</loc>
+    <lastmod>2017-01-24T16:11:54-08:00</lastmod>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/brand/</loc>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/categories/</loc>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/brand/company-profile/</loc>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/misc/mascots/</loc>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/misc/swag/</loc>
+  </url><url>
+    <loc>https://influxdata.github.io/branding/tags/</loc>
   </url>
-  
 </urlset>
