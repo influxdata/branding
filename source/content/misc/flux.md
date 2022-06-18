@@ -33,7 +33,7 @@ title = "Flux Language"
   <div class="col-sm-6 col-md-4">
     <h3>DOs</h3>
     <ol>
-      <li>Use <a href='{{< relref "logo/anatomy.md" >}}'>appropriate margin</a> around the logo to let it breathe</li>
+      <li>Use appropriate margin</a> around the logo to let it breathe</li>
       <li>The Symbol can be used by itself</li>
       <li>Make sure the logo has appropriate contrast with the background</li>
       <li>If placing the logo over an image, make sure the area underneath is not busy</li>

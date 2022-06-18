@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miscs on InfluxData Branding Docs</title>
@@ -6,21 +6,17 @@
     <description>Recent content in Miscs on InfluxData Branding Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2017 16:11:58 -0800</lastBuildDate>
-    
-	<atom:link href="https://influxdata.github.io/branding/misc/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 24 Jan 2017 16:11:58 -0800</lastBuildDate><atom:link href="https://influxdata.github.io/branding/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flux Language</title>
       <link>https://influxdata.github.io/branding/misc/flux/</link>
       <pubDate>Tue, 24 Jan 2017 16:11:58 -0800</pubDate>
       
       <guid>https://influxdata.github.io/branding/misc/flux/</guid>
-      <description>Flux Language     About Flux is a standalone data scripting and query language that increases productivity and code reuse.
+      <description>Flux Language About Flux is a standalone data scripting and query language that increases productivity and code reuse.
 Flux is optimized for ETL, monitoring, and alerting, with an inline planner and optimizer.
 Flux is the result of the open source community driving innovation with time series data.
- DOs  Use appropriate margin around the logo to let it breathe The Symbol can be used by itself Make sure the logo has appropriate contrast with the background If placing the logo over an image, make sure the area underneath is not busy If placing the logo over a busy image, darken or lighten the image using brand colors to ensure proper contrast   DON&#39;Ts  Do not use the Logotype without the Symbol Do not vertically stack the Logotype &amp; Symbol without special permission Do not add any effects to the logo or symbol (such as drop shadow, glow, etc.</description>
+DOs Use appropriate margin around the logo to let it breathe The Symbol can be used by itself Make sure the logo has appropriate contrast with the background If placing the logo over an image, make sure the area underneath is not busy If placing the logo over a busy image, darken or lighten the image using brand colors to ensure proper contrast DON&#39;Ts Do not use the Logotype without the Symbol Do not vertically stack the Logotype &amp; Symbol without special permission Do not add any effects to the logo or symbol (such as drop shadow, glow, etc.</description>
     </item>
     
     <item>
@@ -29,8 +25,8 @@ Flux is the result of the open source community driving innovation with time ser
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://influxdata.github.io/branding/misc/mascots/</guid>
-      <description> InfluxData Mascots     We make use of animal mascots to add more personality to the brand. They are not the official representations of our products or The TICK Stack as a whole. The mascots are primarily used in promotional material such as stickers and merchandise. Each product has an associated animal that uses the same starting character (Except Chronograf).
-  Telegraf Tiger  InfluxDB I&#39;iwi  Chronograf Giraffe  Kapacitor Koala   Outreach Club Octopus   Downloads   Color + Transparent Background    Mascot Format Dimensions     Telegraf PNG-24 400x268   InfluxDB PNG-24 400x295   Chronograf PNG-24 339x400   Kapacitor PNG-24 280x380   Outreach PNG-24 249x400      Color + White Background    Mascot Format Dimensions     Telegraf PNG-8 / JPG 400x268   InfluxDB PNG-8 / JPG 400x295   Chronograf PNG-8 / JPG 339x400   Kapacitor PNG-8 / JPG 280x380   Outreach PNG-8 / JPG 249x400       </description>
+      <description> InfluxData Mascots We make use of animal mascots to add more personality to the brand. They are not the official representations of our products or The TICK Stack as a whole. The mascots are primarily used in promotional material such as stickers and merchandise. Each product has an associated animal that uses the same starting character (Except Chronograf).
+Telegraf Tiger InfluxDB I&#39;iwi Chronograf Giraffe Kapacitor Koala Outreach Club Octopus Downloads Color + Transparent Background Mascot Format Dimensions Telegraf PNG-24 400x268 InfluxDB PNG-24 400x295 Chronograf PNG-24 339x400 Kapacitor PNG-24 280x380 Outreach PNG-24 249x400 Color + White Background Mascot Format Dimensions Telegraf PNG-8 / JPG 400x268 InfluxDB PNG-8 / JPG 400x295 Chronograf PNG-8 / JPG 339x400 Kapacitor PNG-8 / JPG 280x380 Outreach PNG-8 / JPG 249x400 </description>
     </item>
     
     <item>
@@ -39,7 +35,7 @@ Flux is the result of the open source community driving innovation with time ser
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://influxdata.github.io/branding/misc/swag/</guid>
-      <description> History of Swag           </description>
+      <description> History of Swag </description>
     </item>
     
   </channel>
