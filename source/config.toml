@@ -22,9 +22,8 @@ canonifyURLs = true
 	weight = 20
 	url = "/visual/"
 	pre = "polaroid"
-[[menu.main]]
-	name = "Misc"
-	identifier = "misc"
-	weight = 50
-	url = "/misc/"
-	pre = "triangle"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

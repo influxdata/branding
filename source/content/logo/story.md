@@ -1,5 +1,5 @@
 +++
-date = "2017-01-24T16:11:54-08:00"
+date = "2022-06-10T20:07:26+10:00"
 draft = false
 title = "Story"
 [menu]
@@ -176,9 +176,20 @@ title = "Story"
     <img src="/img/story/color-coded.png" class="border" />
     <p>Though we weren't 100% on the colors yet, the color coding approach immediately felt right. Everyone using any of our products would be exposed to the InfluxData brand via each product's logo. Also, if we ever want to add more products we have a lot of colors to choose from and no additional logos to design. We feel this decision will help keep us nimble as a brand.</p>
     <p>We debated choosing a brand color for InfluxData that was distinct from the others. Most companies have a primary brand color that they own. For example, Coca-cola has a trademarked blend of pigments that produces a red only they use. The same is likely true for other brands. Alternatively, there are brands that eschew color successfully. It's evidence that successful branding relies on more than visual cues. We knew we liked the logo because of its symbolism and simplicty, so why not keep it that way? And thus, InfluxData was born as a colorless brand. Our main color is technically white, as it is the sum of all colors (our products). Behold our final design:</p>
-    <img src="/img/downloads/influx-logo-complete--preview.svg" class="border" />
+    <img src="/img/downloads/influxdata-logo--tagline-preview.svg" class="border" />
     <p>It’s important to explore all the options before arriving at a decision, and ultimately we came back to the original because it just stuck. We also realized that it would be better to work with one logo instead of multiple. Just like an all-star team shouting for attention vs a well-balanced team that works together, having multiple logos could create noise. Instead we decided to focus on the same symbol and create variation through color. We felt this served two goals, first allowing us to focus on imprinting one logo, and second creates this stronger notion of platform as everything is under the same logo but a different color.</p>
     <br/>
     <p>&mdash; Alex & Ash<br/><em>Influx Design Team</em></p>
+  </div>
+  <div class="row longform">
+      <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        <h2>Rebrand 2022</h2>
+      </div>
+    <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+      <p>In 2022, we refreshed the entire InfluxData brand. The rebrand included new logos, font and colors.</p>
+      <img src="/img/story/Rebrand2022-logos.png" class="border" />
+      <p>InfluxData Favicons</p>
+      <img src="/img/story/favicons-updated.svg" class="border" />
+    </div>
   </div>
 </div>

@@ -15,7 +15,7 @@ title = "Company Profile"
     <div class="page-header">
       <a class="page-header--anchor" id="title"></a>
       <a href="#title">
-        <h1>Company Profile</h1>
+        <h1>InfluxData Boilerplate</h1>
       </a>
     </div>
   </div>
@@ -30,10 +30,12 @@ title = "Company Profile"
 <div class="row longform">
   <div class="col-xs-12 col-sm-6">
     <h3>InfluxData in 100 Words</h3>
-    <p>InfluxData is the creator of InfluxDB, the open source time series database. Our technology is purpose-built to handle the massive volumes of time-stamped data produced by IoT devices, applications, networks, containers and computers. We are on a mission to help developers and organizations, such as Cisco, IBM, PayPal, and Tesla, store and analyze real-time data, empowering them to build transformative monitoring, analytics, and IoT applications quicker and to scale. InfluxData is headquartered in San Francisco with a workforce distributed throughout the U.S. and across Europe. For more information, visit www.influxdata.com and follow us @InfluxDB.</p>    
+    <hr class="teal-line">
+    <p class="pr-40">InfluxData is the creator of InfluxDB, the leading time series platform. We empower developers and organizations, such as Cisco, IBM, Siemens and Tesla, to build real-time IoT, analytics, and cloud applications with time-stamped data. Our technology is purpose-built to handle the massive volumes of data produced by sensors, systems, or applications that change over time. Easy to start and scale, InfluxDB gives developers time to focus on the features and functionalities that give their apps a competitive edge. InfluxData is headquartered in San Francisco, with a workforce distributed worldwide. For more information, visit <a href="https://www.influxdata.com/" target="_blank">www.influxdata.com</a>.</p>    
   </div>
   <div class="col-xs-12 col-sm-6">
     <h3>InfluxData in 50 Words</h3>
-    <p>InfluxData, creator of the open source time series database InfluxDB, empowers developers and organizations to build transformative monitoring, analytics and IoT applications quicker and to scale. Our purpose-built platform handles the massive volumes of time-stamped data produced by IoT devices, applications, networks, containers and computers. www.influxdata.com │ @InfluxDB</p>    
+    <hr class="teal-line">
+    <p class="pr-40">InfluxData is the creator of InfluxDB, the leading time series platform. We empower developers and organizations to build real-time IoT, analytics, and cloud applications with time-stamped data. Our technology is purpose-built to handle the massive volumes of data produced by sensors, systems, or applications that change over time.</p>   
   </div>
 </div>
