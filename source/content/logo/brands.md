@@ -235,8 +235,72 @@ title = "Product Downloads"
       <hr class="dark" />
     </div>
   </div>
-    <div class="row longform">
+  <div class="row longform">
     <div class="col-xs-12">
+    </div>
+    <div class="col-md-4">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h2 class="panel-title">Kapacitor</h2>
+        </div>
+        <div class="panel-body">
+          <img src="/img/downloads/kapacitor.svg" class="downloads--thumb brand-logo" />
+        </div>
+        <table class="table v-center">
+          <thead>
+            <tr>
+              <th>Background</th>
+              <th>Format</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/kapacitor.svg" target="blank">SVG</a></td>
+            </tr>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/kapacitor.png" target="blank">PNG</a></td>
+            </tr>
+            <tr>
+              <td><span class="downloads--swatch white"></span> White</td>
+              <td><a href="/img/downloads/kapacitor.jpg" target="blank">JPEG</a></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h2 class="panel-title">Chronograf</h2>
+        </div>
+        <div class="panel-body">
+          <img src="/img/downloads/chronograf.svg" class="downloads--thumb brand-logo" />
+        </div>
+        <table class="table v-center">
+          <thead>
+            <tr>
+              <th>Background</th>
+              <th>Format</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/chronograf.svg" target="blank">SVG</a></td>
+            </tr>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/chronograf.png" target="blank">PNG</a></td>
+            </tr>
+            <tr>
+              <td><span class="downloads--swatch white"></span> White</td>
+              <td><a href="/img/downloads/chronograf.jpg" target="blank">JPEG</a></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
     <div class="col-md-4">
       <div class="panel panel-default">
@@ -246,7 +310,7 @@ title = "Product Downloads"
         <div class="panel-body">
           <img src="/img/downloads/flux-aces.svg" class="downloads--thumb brand-logo" />
         </div>
-        <table class="table v-center">
+               <table class="table v-center">
           <thead>
             <tr>
               <th>Background</th>
@@ -269,6 +333,16 @@ title = "Product Downloads"
           </tbody>
         </table>
       </div>
+    </div>
+  </div>
+
+  <div class="row longform">
+    <div class="col-xs-12">
+      <hr class="dark" />
+    </div>
+  </div>
+    <div class="row longform">
+    <div class="col-xs-12">
     </div>
     <div class="col-md-4">
       <div class="panel panel-default">
