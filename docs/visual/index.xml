@@ -6,7 +6,44 @@
     <description>Recent content in Visuals on InfluxData Branding Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2017 16:11:58 -0800</lastBuildDate><atom:link href="https://influxdata.github.io/branding/visual/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 13:36:00 +1000</lastBuildDate><atom:link href="https://influxdata.github.io/branding/visual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mascot</title>
+      <link>https://influxdata.github.io/branding/visual/mascot/</link>
+      <pubDate>Thu, 14 Jul 2022 13:36:00 +1000</pubDate>
+      
+      <guid>https://influxdata.github.io/branding/visual/mascot/</guid>
+      <description> Mascots Tiger Background Format Transparent SVG Transparent PNG-24 White JPEG Impala Background Format Transparent SVG Transparent PNG-24 White JPEG Koala Background Format Transparent SVG Transparent PNG-24 White JPEG Giraffe Background Format Transparent SVG Transparent PNG-24 White JPEG </description>
+    </item>
+    
+    <item>
+      <title>Swag</title>
+      <link>https://influxdata.github.io/branding/visual/swag/</link>
+      <pubDate>Thu, 14 Jul 2022 12:29:10 +1000</pubDate>
+      
+      <guid>https://influxdata.github.io/branding/visual/swag/</guid>
+      <description> Stickers Swag </description>
+    </item>
+    
+    <item>
+      <title>Badges</title>
+      <link>https://influxdata.github.io/branding/visual/badges/</link>
+      <pubDate>Thu, 14 Jul 2022 12:23:16 +1000</pubDate>
+      
+      <guid>https://influxdata.github.io/branding/visual/badges/</guid>
+      <description>InfluxDB University Badges InfluxDB University helps today’s developers gain the skills to make the most of time series data. The courses offered, provide learners with hands-on live and self-paced courses on a variety of topics related to InfluxDB, querying, data analysis, and best practices for working with real-time data. Learn more at influxdbu.com.
+Reseller Patner Badge Reseller Partner Purple Gradient InfluxDB Partners Badges Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</description>
+    </item>
+    
+    <item>
+      <title>Code Typeface</title>
+      <link>https://influxdata.github.io/branding/visual/code/</link>
+      <pubDate>Sun, 15 May 2022 07:12:45 +1000</pubDate>
+      
+      <guid>https://influxdata.github.io/branding/visual/code/</guid>
+      <description>Font used for code blocks Roboto Mono is a monospaced addition to the Roboto type family. Like the other members of the Roboto family, the fonts are optimized for readability on screens across a wide variety of devices and reading environments. While the monospaced version is related to its variable width cousin, it doesn’t hesitate to change forms to better fit the constraints of a monospaced environment. For example, narrow glyphs like ‘I’, ‘l’ and ‘i’ have added serifs for more even texture while wider glyphs are adjusted for weight.</description>
+    </item>
+    
     <item>
       <title>Primary Typeface</title>
       <link>https://influxdata.github.io/branding/visual/primary/</link>

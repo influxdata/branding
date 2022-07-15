@@ -15,13 +15,13 @@ canonifyURLs = true
 	identifier = "logo"
 	weight = 10
 	url = "/logo/"
-	pre = "cubo-uniform"
+	pre = "full-kubo"
 [[menu.main]]
 	name = "Visual Assets"
 	identifier = "visual"
 	weight = 20
 	url = "/visual/"
-	pre = "polaroid"
+	pre = "square"
 
 [markup]
   [markup.goldmark]
