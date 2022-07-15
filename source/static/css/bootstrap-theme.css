@@ -178,7 +178,7 @@ span.text-color-danger {
   content: "\e91d";
 }
 .icon.eye:before {
-  content: "\e91e";
+  content: "\e906";
 }
 .icon.checkmark:before {
   content: "\e918";
@@ -431,6 +431,12 @@ span.text-color-danger {
 }
 .icon.stackoverflow:before {
   content: "\ead0";
+}
+.icon-full-kubo:before {
+  content: "\e900";
+}
+.icon.full-kubo:before {
+  content: "\e900";
 }
 body,
 html {
