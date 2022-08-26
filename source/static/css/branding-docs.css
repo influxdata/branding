@@ -203,6 +203,10 @@ section.docs-section {
   max-width: 800px;
 }
 
+.top-section {
+  padding-bottom: 40px;
+}
+
 @media (min-width: 768px) {
   .home-gradient-background {
     height: 100%;
