@@ -20,9 +20,9 @@ title = "Product Downloads"
         </a>
       </div>
     </div>
-    <div class="col-xs-12">
+  <div class="col-xs-12">
       <hr class="dark" />
-    </div>
+  </div>
 <div class="row longform">
     <div class="col-xs-12">
       <br/>
@@ -125,21 +125,19 @@ title = "Product Downloads"
       </div>
     </div>
   </div>
-  <div class="row longform">
+
+<div class="row longform">
     <div class="col-xs-12">
-      <hr class="dark" />
-    </div>
-  </div>
-    <div class="row longform">
-    <div class="col-xs-12">
+      <br/>
+      <br/>
     </div>
     <div class="col-md-4">
       <div class="panel panel-default">
         <div class="panel-heading">
-          <h2 class="panel-title">InfluxDB Open Source</h2>
+          <h2 class="panel-title">InfluxDB Cloud Dedicated</h2>
         </div>
         <div class="panel-body">
-          <img src="/img/downloads/db-open-source.svg" class="downloads--thumb brand-logo" />
+          <img src="/img/downloads/influx-db-dedicated-display.svg" class="downloads--thumb brand-logo" />
         </div>
         <table class="table v-center">
           <thead>
@@ -149,6 +147,70 @@ title = "Product Downloads"
             </tr>
           </thead>
           <tbody>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/cloud-dedicated.svg" target="blank">SVG</a></td>
+            </tr>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/cloud-dedicated.png" target="blank">PNG</a></td>
+            </tr>
+            <tr>
+              <td><span class="downloads--swatch white"></span> White</td>
+              <td><a href="/img/downloads/cloud-dedicated.jpg" target="blank">JPEG</a></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h2 class="panel-title">InfluxDB Cloud Serverless</h2>
+        </div>
+        <div class="panel-body">
+          <img src="/img/downloads/influx-db-serverless-display.svg" class="downloads--thumb brand-logo" />
+        </div>
+        <table class="table v-center">
+          <thead>
+            <tr>
+              <th>Background</th>
+              <th>Format</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/cloud-dedicated.svg" target="blank">SVG</a></td>
+            </tr>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/cloud-serverless.png" target="blank">PNG</a></td>
+            </tr>
+            <tr>
+              <td><span class="downloads--swatch white"></span> White</td>
+              <td><a href="/img/downloads/cloud-serverless.jpg" target="blank">JPEG</a></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h2 class="panel-title">InfluxDB Open Source</h2>
+        </div>
+        <div class="panel-body">
+          <img src="/img/downloads/db-open-source.svg" class="downloads--thumb brand-logo" />
+        </div>
+         <table class="table v-center">
+          <thead>
+            <tr>
+              <th>Background</th>
+              <th>Format</th>
+            </tr>
+          </thead>
+         <tbody>
             <tr>
               <td><span class="downloads--swatch transparent"></span> Transparent</td>
               <td><a href="/img/downloads/db-open-source.svg" target="blank">SVG</a></td>
@@ -164,6 +226,12 @@ title = "Product Downloads"
           </tbody>
         </table>
       </div>
+    </div>
+  </div>
+  <div class="row longform">
+  <div class="col-xs-12">
+    <br/>
+    <br/>
     </div>
     <div class="col-md-4">
       <div class="panel panel-default">
@@ -229,16 +297,8 @@ title = "Product Downloads"
         </table>
       </div>
     </div>
-  </div>
-  <div class="row longform">
-    <div class="col-xs-12">
-      <hr class="dark" />
-    </div>
-  </div>
-  <div class="row longform">
-    <div class="col-xs-12">
-    </div>
-    <div class="col-md-4">
+
+   <div class="col-md-4">
       <div class="panel panel-default">
         <div class="panel-heading">
           <h2 class="panel-title">Kapacitor</h2>
@@ -269,6 +329,13 @@ title = "Product Downloads"
           </tbody>
         </table>
       </div>
+    </div>
+  </div>
+ 
+  <div class="row longform">
+    <div class="col-xs-12">
+    <br/>
+    <br/>
     </div>
     <div class="col-md-4">
       <div class="panel panel-default">
@@ -334,17 +401,7 @@ title = "Product Downloads"
         </table>
       </div>
     </div>
-  </div>
-
-  <div class="row longform">
-    <div class="col-xs-12">
-      <hr class="dark" />
-    </div>
-  </div>
-    <div class="row longform">
-    <div class="col-xs-12">
-    </div>
-    <div class="col-md-4">
+     <div class="col-md-4">
       <div class="panel panel-default">
         <div class="panel-heading">
           <h2 class="panel-title">InfluxDays</h2>
@@ -375,6 +432,13 @@ title = "Product Downloads"
           </tbody>
         </table>
       </div>
+    </div>
+  </div>
+
+  <div class="row longform">
+  <div class="col-xs-12">
+    <br/>
+    <br/>
     </div>
     <div class="col-md-4">
       <div class="panel panel-default">
