@@ -181,15 +181,15 @@ title = "Product Downloads"
           <tbody>
             <tr>
               <td><span class="downloads--swatch transparent"></span> Transparent</td>
-              <td><a href="/img/downloads/cloud-serverless.svg" target="blank">SVG</a></td>
+              <td><a href="/img/downloads/serverless.svg" target="blank">SVG</a></td>
             </tr>
             <tr>
               <td><span class="downloads--swatch transparent"></span> Transparent</td>
-              <td><a href="/img/downloads/cloud-serverless.png" target="blank">PNG</a></td>
+              <td><a href="/img/downloads/serverless.png" target="blank">PNG</a></td>
             </tr>
             <tr>
               <td><span class="downloads--swatch white"></span> White</td>
-              <td><a href="/img/downloads/cloud-serverless.jpg" target="blank">JPEG</a></td>
+              <td><a href="/img/downloads/serverless.jpg" target="blank">JPEG</a></td>
             </tr>
           </tbody>
         </table>
