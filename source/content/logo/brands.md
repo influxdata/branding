@@ -181,7 +181,7 @@ title = "Product Downloads"
           <tbody>
             <tr>
               <td><span class="downloads--swatch transparent"></span> Transparent</td>
-              <td><a href="/img/downloads/cloud-dedicated.svg" target="blank">SVG</a></td>
+              <td><a href="/img/downloads/cloud-serverless.svg" target="blank">SVG</a></td>
             </tr>
             <tr>
               <td><span class="downloads--swatch transparent"></span> Transparent</td>
