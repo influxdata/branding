@@ -46,40 +46,6 @@ title = "Badges"
       </div>
     </div>
 </div>
-
-<div class="row text-left">
-    <div class="col-xs-12">
-      <div class="page-section">
-      <div class="panel-heading">
-          <h2 class="panel-title">InfluxData Partner Reseller</h2>
-      </div>
-      </div>
-    </div>
-  </div>
-  <div class="row longform">
-    <div class="col-md-4">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <img src="/img/mascots/partner-black.png" class="downloads--thumb" />
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <img src="/img/mascots/Platinum-Partner.png" class="downloads--thumb" />
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <img src="/img/mascots/Gradient-partner.png" class="downloads--thumb" />
-        </div>
-      </div>
-    </div>
-</div>
-
 <div class="row text-left">
     <div class="col-xs-12">
       <div class="page-section">
@@ -93,28 +59,28 @@ title = "Badges"
     <div class="col-md-3">
       <div class="panel panel-default">
         <div class="panel-body">
-          <img src="/img/mascots/DISTRIBUTOR PARTNER.png" class="downloads--thumb" />
+          <img src="/img/mascots/Platinum RESELLER.png" class="downloads--thumb" />
         </div>
       </div>
     </div>
     <div class="col-md-3">
       <div class="panel panel-default">
         <div class="panel-body">
-          <img src="/img/mascots/Authorized PARTNER.png" class="downloads--thumb" />
+          <img src="/img/mascots/Gold Reseller.png" class="downloads--thumb" />
         </div>
       </div>
     </div>
     <div class="col-md-3">
       <div class="panel panel-default">
         <div class="panel-body">
-          <img src="/img/mascots/Platinum PARTNER.png" class="downloads--thumb" />
+          <img src="/img/mascots/Authorized RESELLER.png" class="downloads--thumb" />
         </div>
       </div>
     </div>
     <div class="col-md-3">
       <div class="panel panel-default">
         <div class="panel-body">
-          <img src="/img/mascots/Gold PARTNER.png" class="downloads--thumb" />
+          <img src="/img/mascots/DISTRIBUTOR.png" class="downloads--thumb" />
         </div>
       </div>
     </div>
