@@ -52,7 +52,7 @@ title = "Badges"
       <div class="page-section">
       <div class="panel-heading">
           <h2 class="panel-title">InfluxDB Partner Reseller</h2>
-        </div>
+      </div>
       </div>
     </div>
   </div>
@@ -75,6 +75,46 @@ title = "Badges"
       <div class="panel panel-default">
         <div class="panel-body">
           <img src="/img/mascots/Gradient-partner.png" class="downloads--thumb" />
+        </div>
+      </div>
+    </div>
+</div>
+
+<div class="row text-left">
+    <div class="col-xs-12">
+      <div class="page-section">
+      <div class="panel-heading">
+          <h2 class="panel-title">InfluxDB Partners</h2>
+      </div>
+      </div>
+    </div>
+  </div>
+  <div class="row longform">
+    <div class="col-md-3">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <img src="/img/mascots/DISTRIBUTOR PARTNER.png" class="downloads--thumb" />
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <img src="/img/mascots/Authorized PARTNER.png" class="downloads--thumb" />
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <img src="/img/mascots/Platinum PARTNER.png" class="downloads--thumb" />
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <img src="/img/mascots/Gold PARTNER.png" class="downloads--thumb" />
         </div>
       </div>
     </div>
