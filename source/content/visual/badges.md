@@ -14,7 +14,7 @@ title = "Badges"
 <div class="row text-left">
     <div class="col-xs-12 top-section">
       <div class="page-header">
-          <h1>InfluxDB Badges</h1>
+          <h1>InfluxData Badges</h1>
       </div>    
           <hr class="teal-line">
            <p>Through our partnership with <a href="https://www.credly.com/organizations/influxdata/badges" target="_blank">Credly</a>, InfluxData is offering digital credentials for community members and partners. These digital badges can be shared on their social networks, resumes, websites or email.</p>
@@ -51,7 +51,7 @@ title = "Badges"
     <div class="col-xs-12">
       <div class="page-section">
       <div class="panel-heading">
-          <h2 class="panel-title">InfluxDB Partner Reseller</h2>
+          <h2 class="panel-title">InfluxData Partner Reseller</h2>
       </div>
       </div>
     </div>
@@ -84,7 +84,7 @@ title = "Badges"
     <div class="col-xs-12">
       <div class="page-section">
       <div class="panel-heading">
-          <h2 class="panel-title">InfluxDB Partners</h2>
+          <h2 class="panel-title">InfluxData Partners</h2>
       </div>
       </div>
     </div>
