@@ -56,17 +56,10 @@ title = "Badges"
     </div>
   </div>
   <div class="row longform">
-    <div class="col-md-3">
+   <div class="col-md-3">
       <div class="panel panel-default">
         <div class="panel-body">
-          <img src="/img/mascots/Platinum RESELLER.png" class="downloads--thumb" />
-        </div>
-      </div>
-    </div>
-    <div class="col-md-3">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <img src="/img/mascots/Gold Reseller.png" class="downloads--thumb" />
+          <img src="/img/mascots/DISTRIBUTOR.png" class="downloads--thumb" />
         </div>
       </div>
     </div>
@@ -80,7 +73,14 @@ title = "Badges"
     <div class="col-md-3">
       <div class="panel panel-default">
         <div class="panel-body">
-          <img src="/img/mascots/DISTRIBUTOR.png" class="downloads--thumb" />
+          <img src="/img/mascots/Gold Reseller.png" class="downloads--thumb" />
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <img src="/img/mascots/Platinum RESELLER.png" class="downloads--thumb" />
         </div>
       </div>
     </div>
