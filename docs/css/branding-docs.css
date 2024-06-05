@@ -862,3 +862,6 @@ table.table.v-center.color-code {
 .icon-polaroid:before {
   content: "\e93b";
 }
+.is-hidden {
+  display: none;
+}
