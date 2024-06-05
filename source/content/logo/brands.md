@@ -435,7 +435,7 @@ title = "Product Downloads"
     </div>
   </div>
 
-  <div class="row longform">
+  <div class="row longform is-hidden">
   <div class="col-xs-12">
     <br/>
     <br/>
