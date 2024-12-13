@@ -2,19 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://influxdata.github.io/branding/</loc>
-    <lastmod>2022-07-14T13:36:00+10:00</lastmod>
+    <loc>https://influxdata.github.io/branding/visual/badges/</loc>
+    <lastmod>2022-07-14T12:23:16+10:00</lastmod>
   </url><url>
-    <loc>https://influxdata.github.io/branding/visual/mascot/</loc>
-    <lastmod>2022-07-14T13:36:00+10:00</lastmod>
+    <loc>https://influxdata.github.io/branding/</loc>
+    <lastmod>2022-07-14T12:23:16+10:00</lastmod>
   </url><url>
     <loc>https://influxdata.github.io/branding/visual/</loc>
-    <lastmod>2022-07-14T13:36:00+10:00</lastmod>
-  </url><url>
-    <loc>https://influxdata.github.io/branding/visual/swag/</loc>
-    <lastmod>2022-07-14T12:29:10+10:00</lastmod>
-  </url><url>
-    <loc>https://influxdata.github.io/branding/visual/badges/</loc>
     <lastmod>2022-07-14T12:23:16+10:00</lastmod>
   </url><url>
     <loc>https://influxdata.github.io/branding/logo/</loc>
