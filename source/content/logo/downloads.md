@@ -166,89 +166,101 @@ title = "Company Downloads"
 
   </div>
 
-  <div class="row longform is-hidden">
+  <div class="row longform is-hidden-old">
     <div class="col-xs-12">
       <hr class="dark" />
     </div>
   </div>
   
-  <div class="row longform is-hidden">
+  <div class="row longform is-hidden-old">
     <div class="col-xs-12">
-      <h3>Outlined Logo</h3>
-      <p>Requires special permission to use</p>
+      <h3>InfluxData Cubo</h3>
+      <p class="is-hidden">Requires special permission to use</p>
       <br/>
       <br/>
     </div>
     <div class="col-md-4">
       <div class="panel panel-default">
         <div class="panel-heading">
-          <h2 class="panel-title">Navy Outlined</h2>
+          <h2 class="panel-title">Navy Cubo</h2>
         </div>
         <div class="panel-body">
-          <img src="/img/downloads/influxdata_full_navy_outlined.svg" class="downloads--thumb" />
+          <img src="/img/downloads/cubo-navy.png" class="downloads--thumb cubo" />
         </div>
+        <table class="table v-center">
+          <thead>
+            <tr>
+              <th>Background</th>
+              <th>Format</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/cubo-navy.svg" target="blank">SVG</a></td>
+            </tr>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/cubo-navy.png" target="blank">PNG</a></td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
     <div class="col-md-4">
       <div class="panel panel-default">
         <div class="panel-heading">
-          <h2 class="panel-title">Black Outlined</h2>
+          <h2 class="panel-title">Teal Cubo</h2>
         </div>
         <div class="panel-body">
-          <img src="/img/downloads/influxdata_full_black_outlined.svg" class="downloads--thumb" />
+          <img src="/img/downloads/cubo-teal.png" class="downloads--thumb cubo" />
         </div>
+        <table class="table v-center">
+          <thead>
+            <tr>
+              <th>Background</th>
+              <th>Format</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/cubo-teal.svg" target="blank">SVG</a></td>
+            </tr>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/cubo-teal.png" target="blank">PNG</a></td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
     <div class="col-md-4">
       <div class="panel panel-default">
         <div class="panel-heading">
-          <h2 class="panel-title">White Outlined</h2>
+          <h2 class="panel-title">Pink Cubo</h2>
         </div>
-        <div class="panel-body dark-bg">
-          <img src="/img/downloads/influxdata_full_white_outlined.svg" class="downloads--thumb" />
+        <div class="panel-body dark-bg-old">
+          <img src="/img/downloads/cubo-pink.png" class="downloads--thumb cubo" />
         </div>
+        <table class="table v-center">
+          <thead>
+            <tr>
+              <th>Background</th>
+              <th>Format</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/cubo-pink.svg" target="blank">SVG</a></td>
+            </tr>
+            <tr>
+              <td><span class="downloads--swatch transparent"></span> Transparent</td>
+              <td><a href="/img/downloads/cubo-pink.png" target="blank">PNG</a></td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
-  <div class="row longform">
-    <div class="col-xs-12">
-      <hr class="dark" />
-    </div>
-  </div>
-   <div class="row longform">
-    <div class="col-xs-12">
-      <h3>Stacked Logo</h3>
-      <p>Requires special permission to use</p>
-      <br/>
-      <br/>
-    </div>
-    <div class="col-md-4">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h2 class="panel-title">Navy Stacked</h2>
-        </div>
-        <div class="panel-body">
-          <img src="/img/downloads/influxdata_stacked_navy.svg" class="downloads--thumb" />
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h2 class="panel-title">Black Stacked</h2>
-        </div>
-        <div class="panel-body">
-          <img src="/img/downloads/influxdata_stacked_black.svg" class="downloads--thumb" />
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h2 class="panel-title">White Stacked</h2>
-        </div>
-        <div class="panel-body dark-bg">
-          <img src="/img/downloads/influxdata_stacked_white.svg" class="downloads--thumb" />
-        </div>
-      </div>
-    </div>
-</div>
+   </div> 

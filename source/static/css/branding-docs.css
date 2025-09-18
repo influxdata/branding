@@ -865,3 +865,8 @@ table.table.v-center.color-code {
 .is-hidden {
   display: none;
 }
+.cubo {
+  width: 100%;
+  max-width: 150px;
+  margin: auto;
+}
