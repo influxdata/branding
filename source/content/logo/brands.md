@@ -268,10 +268,10 @@ title = "Product Downloads"
     <div class="col-md-4">
       <div class="panel panel-default">
         <div class="panel-heading">
-          <h2 class="panel-title">Flux</h2>
+          <h2 class="panel-title">InfluxDB 3 Core</h2>
         </div>
         <div class="panel-body">
-          <img src="/img/downloads/flux.svg" class="downloads--thumb brand-logo" />
+          <img src="/img/downloads/InfluxDB-Core.svg" class="downloads--thumb brand-logo" />
         </div>
                <table class="table v-center">
           <thead>
@@ -283,15 +283,15 @@ title = "Product Downloads"
           <tbody>
             <tr>
               <td><span class="downloads--swatch transparent"></span> Transparent</td>
-              <td><a href="/img/downloads/flux.svg" target="blank">SVG</a></td>
+              <td><a href="/img/downloads/InfluxDB-Core.svg" target="blank">SVG</a></td>
             </tr>
             <tr>
               <td><span class="downloads--swatch transparent"></span> Transparent</td>
-              <td><a href="/img/downloads/flux.png" target="blank">PNG</a></td>
+              <td><a href="/img/downloads/InfluxDB-Core.png" target="blank">PNG</a></td>
             </tr>
             <tr>
-              <td><span class="downloads--swatch white"></span> White</td>
-              <td><a href="/img/downloads/flux.jpg" target="blank">JPEG</a></td>
+              <td><span class="downloads--swatch white"></span>White</td>
+              <td><a href="/img/downloads/InfluxDB-Core-white.jpg" target="blank">JPEG</a></td>
             </tr>
           </tbody>
         </table>
@@ -301,10 +301,10 @@ title = "Product Downloads"
    <div class="col-md-4">
       <div class="panel panel-default">
         <div class="panel-heading">
-          <h2 class="panel-title">Kapacitor</h2>
+          <h2 class="panel-title">InfluxDB 3 Enterprise</h2>
         </div>
         <div class="panel-body">
-          <img src="/img/downloads/kapacitor.svg" class="downloads--thumb brand-logo" />
+          <img src="/img/downloads/InfluxDB-Enterprise.svg" class="downloads--thumb brand-logo" />
         </div>
         <table class="table v-center">
           <thead>
@@ -316,15 +316,15 @@ title = "Product Downloads"
           <tbody>
             <tr>
               <td><span class="downloads--swatch transparent"></span> Transparent</td>
-              <td><a href="/img/downloads/kapacitor.svg" target="blank">SVG</a></td>
+              <td><a href="/img/downloads/InfluxDB-Enterprise.svg" target="blank">SVG</a></td>
             </tr>
             <tr>
               <td><span class="downloads--swatch transparent"></span> Transparent</td>
-              <td><a href="/img/downloads/kapacitor.png" target="blank">PNG</a></td>
+              <td><a href="/img/downloads/InfluxDB-Enterprise.png" target="blank">PNG</a></td>
             </tr>
             <tr>
-              <td><span class="downloads--swatch white"></span> White</td>
-              <td><a href="/img/downloads/kapacitor.jpg" target="blank">JPEG</a></td>
+              <td><span class="downloads--swatch white"></span>White</td>
+              <td><a href="/img/downloads/InfluxDB-Enterprise-white.jpg" target="blank">JPEG</a></td>
             </tr>
           </tbody>
         </table>
@@ -337,8 +337,8 @@ title = "Product Downloads"
     <br/>
     <br/>
     </div>
-    <div class="col-md-4">
-      <div class="panel panel-default">
+    <div class="is-hidden col-md-4">
+      <div class="panel panel-default is-hidden">
         <div class="panel-heading">
           <h2 class="panel-title">Chronograf</h2>
         </div>
