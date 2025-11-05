@@ -137,7 +137,7 @@ title = "Logo Colors"
   <div class="col-md-8">
     <div class="row">
       <div class="col-sm-12">
-      <img src="/img/story/favicons-updated.svg" class="border" />
+      <img src="/img/story/favicons-updated-2.svg" class="border" />
       </div>
     </div>
   </div>
