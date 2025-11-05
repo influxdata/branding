@@ -1,14 +1,14 @@
 +++
 date = "2022-06-10T20:07:26+10:00"
-draft = false
+draft = true
 title = "Story"
-[menu]
-  [menu.main]
-    name = "Story"
-    parent = "logo"
-    identifier = "story"
-    weight = 1
-    url = "/logo/story/"
+# [menu]
+#  [menu.main]
+#   name = "Story"
+#    parent = "logo"
+#    identifier = "story"
+#    weight = 1
+#    url = "/logo/story/"
 +++
 
 <div class="row longform">

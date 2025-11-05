@@ -54,15 +54,5 @@ Mono Color Logo — Outlined Kubo Sometimes, often due to production costs, only
       <description> Logo Construction The logo contains the logomark and the wordmark. Both elements have been exactly positioned and proportionally fine-tuned. Clearspace It&#39;s important to maintain proper spacing around the logo to avoid overcrowding. Also, the use of whitespace keeps the brand feeling clean. Minimum Size When significantly reduced, the logo will become illegible. These are the pixel size units we recommend staying within to preserve quality of the logo. </description>
     </item>
     
-    <item>
-      <title>Story</title>
-      <link>https://influxdata.github.io/branding/logo/story/</link>
-      <pubDate>Fri, 10 Jun 2022 20:07:26 +1000</pubDate>
-      
-      <guid>https://influxdata.github.io/branding/logo/story/</guid>
-      <description>How The Cuboctahedron Came To Be: The Story Of Our Visual Journey From InfluxDB to InfluxData What began as InfluxDB will become InfluxData; going from product to platform. InfluxDB will become one of four products known collectively as the &#34;TICK Stack&#34;. This transition of the company is the inception our efforts.
-Our goals:We want the logo to feel like a platform while maintaining its own unique identity. We wanted the company to feel like a larger player, armed with something cutting edge.</description>
-    </item>
-    
   </channel>
 </rss>

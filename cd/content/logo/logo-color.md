@@ -123,4 +123,23 @@ title = "Logo Colors"
     </div>
   </div>
 
+  <div class="row longform">
+    <div class="col-xs-12 py-40">
+      <hr class="dark" />
+    </div>
+  </div>
+
+  <div class="col-md-12">
+    <h3>InfluxData Favicons</h3>
+    <hr class="teal-line">
+  </div>
+
+  <div class="col-md-8">
+    <div class="row">
+      <div class="col-sm-12">
+      <img src="/img/story/favicons-updated.svg" class="border" />
+      </div>
+    </div>
+  </div>
+
 </div>
